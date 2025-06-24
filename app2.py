@@ -1,0 +1,106 @@
+import streamlit as st
+import pandas as pd
+import joblib
+
+# ----------------------------
+# 📥 Load data dan model
+# ----------------------------
+df = pd.read_csv('Sales Transaction v.4a.csv')
+
+# List produk
+produk_list = df['ProductName'].dropna().unique().tolist()
+produk_list.insert(0, 'Pilih produk...')
+
+# Buat kamus harga
+produk_dict = df.dropna(subset=['ProductName', 'Price']) \
+                .drop_duplicates(subset=['ProductName']) \
+                .set_index('ProductName')['Price'].to_dict()
+
+# List negara
+negara_list = sorted(df['Country'].dropna().unique().tolist())
+negara_list.insert(0, 'Pilih negara...')
+
+# Load model
+try:
+    model = joblib.load('logistic_regression_model_outlier.pkl')
+except FileNotFoundError:
+    st.error("❌ Model tidak ditemukan. Pastikan file 'logistic_regression_model_outlier.pkl' ada di direktori yang sama.")
+    st.stop()
+
+# ----------------------------
+# 🧾 UI Aplikasi
+# ----------------------------
+st.title('📊 Aplikasi Prediksi Persetujuan Pembeli')
+st.write("""
+Aplikasi ini memprediksi apakah pembelian tergolong normal atau outlier berdasarkan jumlah produk, harga, dan lokasi pelanggan.
+""")
+
+st.header('📝 Masukkan Data Calon Pembeli')
+
+customer = st.text_input('No Customer', '')
+
+country = st.selectbox('Area Customer', negara_list)
+produk_name = st.selectbox('Nama Produk', produk_list)
+
+harga_produk = produk_dict.get(produk_name, 0)
+if produk_name != 'Pilih produk...':
+    st.write(f"💰 Harga satuan produk: **${harga_produk:,.2f}**")
+
+quantity = st.number_input('Jumlah Produk', min_value=0)
+total_harga = harga_produk * quantity
+if quantity > 0:
+    st.write(f"🧾 Total harga: **${total_harga:,.2f}**")
+
+# Statistik Quantity (opsional z-score manual)
+q_mean = df['Quantity'].mean()
+q_std = df['Quantity'].std()
+z_score = (quantity - q_mean) / q_std if q_std != 0 else 0
+
+if abs(z_score) > 3:
+    st.warning(f"⚠️ Jumlah produk ini tergolong ekstrem! (z-score = {z_score:.2f})")
+
+# ----------------------------
+# 🔍 Prediksi
+# ----------------------------
+prediksi_clicked = st.button('Prediksi Persetujuan Pinjaman')
+
+if prediksi_clicked:
+    if produk_name == 'Pilih produk...':
+        st.warning("⚠️ Silakan pilih produk terlebih dahulu.")
+    elif country == 'Pilih negara...':
+        st.warning("⚠️ Silakan pilih negara terlebih dahulu.")
+    elif quantity == 0:
+        st.warning("⚠️ Jumlah produk harus lebih dari 0.")
+    else:
+        # Siapkan input sesuai fitur training model
+        input_data = {
+            'Price': [harga_produk],
+            'Quantity': [quantity],
+
+        }
+
+        input_df = pd.DataFrame(input_data)
+
+        try:
+            prediction = model.predict(input_df)
+            prediction_proba = model.predict_proba(input_df)[:, 1]
+        except Exception as e:
+            st.error(f"❌ Error saat prediksi: {e}")
+            st.stop()
+
+        # ----------------------------
+        # ✅ Tampilkan hasil
+        # ----------------------------
+        st.header('📈 Hasil Prediksi')
+        st.write(f"👤 Customer: **{customer}**")
+        st.write(f"📦 Produk: **{produk_name}**")
+        st.write(f"📍 Area: **{country}**")
+        st.write(f"🔢 Quantity: **{quantity}**")
+        st.write(f"💵 Harga total: **${total_harga:,.2f}**")
+
+        if prediction[0] == 1:
+            st.success('✅ Pinjaman DIPREDIKSI DISETUJUI (Data normal)')
+        else:
+            st.error('❌ Pinjaman DIPREDIKSI DITOLAK (Terdeteksi sebagai outlier)')
+
+        st.write(f"🎯 Probabilitas termasuk data normal: **{prediction_proba[0]:.2f}**")
