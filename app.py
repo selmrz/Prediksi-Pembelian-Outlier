@@ -112,3 +112,5 @@ elif prediksi_clicked:
 
     st.write(f"🎯 Probabilitas termasuk data normal: **{prediction_proba[0]:.2f}**")
     st.write(f"🎯 Probabilitas termasuk data outlier: **{1 - prediction_proba[0]:.2f}**")
+    
+    
