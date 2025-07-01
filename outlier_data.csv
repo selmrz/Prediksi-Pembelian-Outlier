@@ -1,0 +1,1313 @@
+TransactionNo,Date,ProductNo,ProductName,Price,Quantity,CustomerNo,Country,SalesTotal,SatuanRp,is_outlier,Day,Month,DayOfMonth
+581483,2019-12-09,23843,Paper Craft Little Birdie,12.38,80995,16446.0,United Kingdom,1002718.1000000001,"Rp 22,309,876,094",1,Monday,12,9
+C581484,2019-12-09,23843,Paper Craft Little Birdie,6.19,-80995,16446.0,United Kingdom,-501359.05000000005,"Rp -11,154,938,047",1,Monday,12,9
+581375,2019-12-08,21137,Black Record Cover Frame,6.19,960,16210.0,United Kingdom,5942.400000000001,"Rp 132,214,835",1,Sunday,12,8
+581457,2019-12-08,23543,Wall Art Keep Calm,7.24,698,18102.0,United Kingdom,5053.52,"Rp 112,437,788",1,Sunday,12,8
+581458,2019-12-08,22197,Popcorn Holder,6.04,1500,17949.0,United Kingdom,9060.0,"Rp 201,579,564",1,Sunday,12,8
+581459,2019-12-08,22197,Popcorn Holder,6.04,1200,17949.0,United Kingdom,7248.0,"Rp 161,263,651",1,Sunday,12,8
+581020,2019-12-07,20668,Disco Ball Christmas Decoration,6.19,576,17511.0,United Kingdom,3565.44,"Rp 79,328,901",1,Saturday,12,7
+581097,2019-12-07,22476,Empire Union Jack Tv Dinner Tray,6.19,600,13685.0,United Kingdom,3714.0000000000005,"Rp 82,634,272",1,Saturday,12,7
+581105,2019-12-07,85152,Hand Over The Chocolate Sign,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581105,2019-12-07,22457,Natural Slate Heart Chalkboard,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581105,2019-12-07,22727,Alarm Clock Bakelike Red,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581105,2019-12-07,23497,Classic Chrome Bicycle Bell,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581105,2019-12-07,23498,Classic Bicycle Clips,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581105,2019-12-07,22961,Jam Making Set Printed,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581105,2019-12-07,23552,Bicycle Puncture Repair Kit,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581107,2019-12-07,23461,Sweetheart Bird House,6.19,620,16000.0,United Kingdom,3837.8,"Rp 85,388,747",1,Saturday,12,7
+581115,2019-12-07,22413,Metal Sign Take It Or Leave It,6.19,1404,15195.0,United Kingdom,8690.76,"Rp 193,364,196",1,Saturday,12,7
+581175,2019-12-07,23084,Rabbit Night Light,6.19,1440,14646.0,Netherlands,8913.6,"Rp 198,322,252",1,Saturday,12,7
+580645,2019-12-05,23177,Treasure Island Book Box,6.19,490,17857.0,United Kingdom,3033.1000000000004,"Rp 67,484,655",1,Thursday,12,5
+580646,2019-12-05,22560,Traditional Modelling Clay,6.19,800,17857.0,United Kingdom,4952.0,"Rp 110,179,029",1,Thursday,12,5
+580665,2019-12-05,23309,Set Of 60 I Love London Cake Cases,7.24,480,16684.0,United Kingdom,3475.2000000000003,"Rp 77,321,115",1,Thursday,12,5
+580665,2019-12-05,22616,Pack Of 12 London Tissues,7.24,432,16684.0,United Kingdom,3127.6800000000003,"Rp 69,589,003",1,Thursday,12,5
+580170,2019-12-02,22197,Popcorn Holder,6.19,1000,17949.0,United Kingdom,6190.0,"Rp 137,723,786",1,Monday,12,2
+580243,2019-12-02,21915,Red Harmonica In Box,6.19,1120,16333.0,United Kingdom,6932.8,"Rp 154,250,640",1,Monday,12,2
+580363,2019-12-02,23582,Vintage Doily Jumbo Bag Red,6.19,1500,13868.0,United Kingdom,9285.0,"Rp 206,585,679",1,Monday,12,2
+579936,2019-12-01,21787,Rain Poncho Retrospot,6.19,1200,12901.0,United Kingdom,7428.000000000001,"Rp 165,268,543",1,Sunday,12,1
+579538,2019-11-30,20668,Disco Ball Christmas Decoration,6.19,864,14062.0,United Kingdom,5348.160000000001,"Rp 118,993,351",1,Saturday,11,30
+579784,2019-11-30,84212,"Assorted Flower Colour ""Leis""",6.19,480,14258.0,United Kingdom,2971.2000000000003,"Rp 66,107,417",1,Saturday,11,30
+579450,2019-11-29,84378,Set Of 3 Heart Cookie Cutters,6.19,774,12901.0,United Kingdom,4791.06,"Rp 106,598,210",1,Friday,11,29
+579498,2019-11-29,23084,Rabbit Night Light,7.67,2040,12798.0,Japan,15646.8,"Rp 348,131,912",1,Friday,11,29
+579191,2019-11-28,22030,Swallows Greeting Card,6.19,600,16684.0,United Kingdom,3714.0000000000005,"Rp 82,634,272",1,Thursday,11,28
+579251,2019-11-28,22470,Heart Of Wicker Large,6.19,760,17450.0,United Kingdom,4704.400000000001,"Rp 104,670,077",1,Thursday,11,28
+579251,2019-11-28,22469,Heart Of Wicker Small,6.19,600,17450.0,United Kingdom,3714.0000000000005,"Rp 82,634,272",1,Thursday,11,28
+578679,2019-11-25,16014,Small Chinese Style Scissor,6.19,500,15117.0,United Kingdom,3095.0,"Rp 68,861,893",1,Monday,11,25
+578793,2019-11-25,21137,Black Record Cover Frame,6.19,480,16210.0,United Kingdom,2971.2000000000003,"Rp 66,107,417",1,Monday,11,25
+578841,2019-11-25,84826,Asstd Design 3d Paper Stickers,6.19,12540,13256.0,United Kingdom,77622.6,"Rp 1,727,056,276",1,Monday,11,25
+577810,2019-11-22,22197,Popcorn Holder,6.13,1000,17949.0,United Kingdom,6130.0,"Rp 136,388,822",1,Friday,11,22
+577822,2019-11-22,84347,Rotating Silver Angels T-Light Hldr,7.29,600,14607.0,United Kingdom,4374.0,"Rp 97,318,876",1,Friday,11,22
+577852,2019-11-22,79321,Chilli Lights,5.97,480,16532.0,United Kingdom,2865.6,"Rp 63,757,881",1,Friday,11,22
+578060,2019-11-22,23507,Mini Playing Cards Buffalo Bill,10.62,800,17857.0,United Kingdom,8496.0,"Rp 189,030,902",1,Friday,11,22
+578060,2019-11-22,23510,Mini Playing Cards Gymkhana,10.62,800,17857.0,United Kingdom,8496.0,"Rp 189,030,902",1,Friday,11,22
+577596,2019-11-21,84988,Set Of 72 Pink Heart Paper Doilies,11.53,312,18080.0,United Kingdom,3597.3599999999997,"Rp 80,039,102",1,Thursday,11,21
+577720,2019-11-21,71477,Coloured Glass Star T-Light Holder,13.62,240,16013.0,United Kingdom,3268.7999999999997,"Rp 72,728,839",1,Thursday,11,21
+577732,2019-11-21,84077,World War 2 Gliders Asstd Designs,10.47,288,15093.0,United Kingdom,3015.36,"Rp 67,089,951",1,Thursday,11,21
+577747,2019-11-21,82583,Hot Baths Metal Sign,12.7,240,17450.0,United Kingdom,3048.0,"Rp 67,816,171",1,Thursday,11,21
+577747,2019-11-21,21175,Gin And Tonic Diet Metal Sign,12.99,240,17450.0,United Kingdom,3117.6,"Rp 69,364,729",1,Thursday,11,21
+577487,2019-11-20,71459,Hanging Jam Jar T-Light Holders,10.99,288,15061.0,United Kingdom,3165.12,"Rp 70,422,021",1,Wednesday,11,20
+577529,2019-11-20,84568,Girls Alphabet Iron On Patches,10.47,288,17523.0,United Kingdom,3015.36,"Rp 67,089,951",1,Wednesday,11,20
+577135,2019-11-18,84598,Boys Alphabet Iron On Patches,10.47,288,12427.0,Germany,3015.36,"Rp 67,089,951",1,Monday,11,18
+577289,2019-11-18,22197,Popcorn Holder,10.99,300,12931.0,United Kingdom,3297.0,"Rp 73,356,272",1,Monday,11,18
+577298,2019-11-18,22153,Angel Decoration Stars On Dress,10.62,288,14299.0,United Kingdom,3058.56,"Rp 68,051,125",1,Monday,11,18
+577358,2019-11-18,23084,Rabbit Night Light,14.48,279,12358.0,Austria,4039.92,"Rp 89,885,796",1,Monday,11,18
+577021,2019-11-17,21479,White Skull Hot Water Bottle,14.09,300,12931.0,United Kingdom,4227.0,"Rp 94,048,214",1,Sunday,11,17
+577021,2019-11-17,23215,Jingle Bell Heart Antique Silver,12.08,456,12931.0,United Kingdom,5508.4800000000005,"Rp 122,560,375",1,Sunday,11,17
+577064,2019-11-17,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Sunday,11,17
+576653,2019-11-16,22489,Pack Of 12 Traditional Crayons,10.62,288,14156.0,EIRE,3058.56,"Rp 68,051,125",1,Saturday,11,16
+576827,2019-11-16,21787,Rain Poncho Retrospot,11.12,720,12901.0,United Kingdom,8006.4,"Rp 178,137,596",1,Saturday,11,16
+C576831,2019-11-16,22071,Small White Retrospot Mug In Box,10.76,-244,12748.0,United Kingdom,-2625.44,"Rp -58,414,465",1,Saturday,11,16
+C576831,2019-11-16,22070,Small Red Retrospot Mug In Box,10.76,-234,12748.0,United Kingdom,-2517.84,"Rp -56,020,429",1,Saturday,11,16
+576374,2019-11-15,21232,Strawberry Ceramic Trinket Pot,11.34,504,13777.0,United Kingdom,5715.36,"Rp 127,163,331",1,Friday,11,15
+576374,2019-11-15,22646,Ceramic Strawberry Cake Money Bank,11.53,250,13777.0,United Kingdom,2882.5,"Rp 64,133,896",1,Friday,11,15
+576374,2019-11-15,84029E,Red Woolly Hottie White Heart,13.72,408,13777.0,United Kingdom,5597.76,"Rp 124,546,801",1,Friday,11,15
+576374,2019-11-15,85123A,Cream Hanging Heart T-Light Holder,12.86,300,13777.0,United Kingdom,3858.0,"Rp 85,838,185",1,Friday,11,15
+576394,2019-11-15,23084,Rabbit Night Light,12.08,960,12415.0,Australia,11596.8,"Rp 258,021,842",1,Friday,11,15
+576586,2019-11-15,23084,Rabbit Night Light,12.08,240,12415.0,Australia,2899.2,"Rp 64,505,460",1,Friday,11,15
+576608,2019-11-15,22616,Pack Of 12 London Tissues,10.58,864,17381.0,United Kingdom,9141.12,"Rp 203,384,435",1,Friday,11,15
+576083,2019-11-14,23293,Set Of 12 Fairy Cake Baking Cases,11.1,256,17404.0,Sweden,2841.6,"Rp 63,223,895",1,Thursday,11,14
+576083,2019-11-14,84077,World War 2 Gliders Asstd Designs,10.55,288,17404.0,Sweden,3038.4,"Rp 67,602,577",1,Thursday,11,14
+576090,2019-11-14,85123A,Cream Hanging Heart T-Light Holder,13.53,320,17450.0,United Kingdom,4329.599999999999,"Rp 96,331,002",1,Thursday,11,14
+576365,2019-11-14,23570,Traditional Pick Up Sticks Game,13.27,360,14365.0,United Kingdom,4777.2,"Rp 106,289,834",1,Thursday,11,14
+576365,2019-11-14,23571,Traditional Naughts & Crosses,14.3,323,14365.0,United Kingdom,4618.900000000001,"Rp 102,767,754",1,Thursday,11,14
+576365,2019-11-14,23378,Pack Of 12 50'S Christmas Tissues,11.27,281,14365.0,United Kingdom,3166.87,"Rp 70,460,957",1,Thursday,11,14
+576365,2019-11-14,23084,Rabbit Night Light,15.32,404,14365.0,United Kingdom,6189.28,"Rp 137,707,766",1,Thursday,11,14
+576365,2019-11-14,23077,Doughnut Lip Gloss,13.27,232,14365.0,United Kingdom,3078.64,"Rp 68,497,893",1,Thursday,11,14
+576365,2019-11-14,22952,60 Cake Cases Vintage Christmas,11.79,256,14365.0,United Kingdom,3018.24,"Rp 67,154,029",1,Thursday,11,14
+576365,2019-11-14,22910,Paper Chain Kit Vintage Christmas,17.37,244,14365.0,United Kingdom,4238.280000000001,"Rp 94,299,187",1,Thursday,11,14
+576365,2019-11-14,22197,Popcorn Holder,12.25,1130,14365.0,United Kingdom,13842.5,"Rp 307,987,320",1,Thursday,11,14
+576365,2019-11-14,22158,3 Hearts Hanging Decoration Rustic,17.37,326,14365.0,United Kingdom,5662.62,"Rp 125,989,897",1,Thursday,11,14
+576365,2019-11-14,22130,Party Cone Christmas Decoration,11.95,654,14365.0,United Kingdom,7815.299999999999,"Rp 173,885,736",1,Thursday,11,14
+576365,2019-11-14,22086,Paper Chain Kit 50'S Christmas,17.37,688,14365.0,United Kingdom,11950.560000000001,"Rp 265,892,790",1,Thursday,11,14
+576365,2019-11-14,21915,Red Harmonica In Box,13.27,268,14365.0,United Kingdom,3556.3599999999997,"Rp 79,126,876",1,Thursday,11,14
+576365,2019-11-14,21791,Vintage Heads And Tails Card Game,13.27,249,14365.0,United Kingdom,3304.23,"Rp 73,517,135",1,Thursday,11,14
+576365,2019-11-14,21790,Vintage Snap Cards,12.25,268,14365.0,United Kingdom,3283.0,"Rp 73,044,780",1,Thursday,11,14
+576365,2019-11-14,20971,Pink Blue Felt Craft Trinket Box,13.27,246,14365.0,United Kingdom,3264.42,"Rp 72,631,386",1,Thursday,11,14
+576365,2019-11-14,84978,Hanging Heart Jar T-Light Holder,13.27,246,14365.0,United Kingdom,3264.42,"Rp 72,631,386",1,Thursday,11,14
+576365,2019-11-14,23344,Jumbo Bag 50'S Christmas,7.66,392,14365.0,United Kingdom,3002.7200000000003,"Rp 66,808,718",1,Thursday,11,14
+575933,2019-11-13,22909,Set Of 20 Vintage Christmas Napkins,10.99,288,14911.0,EIRE,3165.12,"Rp 70,422,021",1,Wednesday,11,13
+575894,2019-11-11,21135,Victorian Metal Postcard Spring,10.45,576,12748.0,United Kingdom,6019.2,"Rp 133,923,588",1,Monday,11,11
+575508,2019-11-10,22492,Mini Paint Set Vintage,10.81,576,14646.0,Netherlands,6226.56,"Rp 138,537,224",1,Sunday,11,10
+575508,2019-11-10,21810,Christmas Hanging Star With Bell,10.65,384,14646.0,Netherlands,4089.6000000000004,"Rp 90,991,146",1,Sunday,11,10
+575508,2019-11-10,22219,Lovebird Hanging Decoration White,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Sunday,11,10
+575510,2019-11-10,22492,Mini Paint Set Vintage,10.81,576,14646.0,Netherlands,6226.56,"Rp 138,537,224",1,Sunday,11,10
+575582,2019-11-10,85099B,Jumbo Bag Red Retrospot,6.04,1000,16986.0,United Kingdom,6040.0,"Rp 134,386,376",1,Sunday,11,10
+575703,2019-11-10,22865,Hand Warmer Owl Design,12.15,288,13767.0,United Kingdom,3499.2000000000003,"Rp 77,855,100",1,Sunday,11,10
+575725,2019-11-10,23319,Box Of 6 Mini 50'S Crackers,12.38,240,13098.0,United Kingdom,2971.2000000000003,"Rp 66,107,417",1,Sunday,11,10
+575213,2019-11-09,21137,Black Record Cover Frame,13.72,480,16210.0,United Kingdom,6585.6,"Rp 146,525,649",1,Saturday,11,9
+575214,2019-11-09,22617,Baking Set Spaceboy Design,14.61,216,16751.0,United Kingdom,3155.7599999999998,"Rp 70,213,767",1,Saturday,11,9
+575219,2019-11-09,20668,Disco Ball Christmas Decoration,10.35,288,17511.0,United Kingdom,2980.7999999999997,"Rp 66,321,012",1,Saturday,11,9
+575296,2019-11-09,21108,Fairy Cake Flannel Assorted Colour,11.06,540,16041.0,United Kingdom,5972.400000000001,"Rp 132,882,317",1,Saturday,11,9
+575298,2019-11-09,20668,Disco Ball Christmas Decoration,10.35,288,17841.0,United Kingdom,2980.7999999999997,"Rp 66,321,012",1,Saturday,11,9
+575328,2019-11-09,23194,Gymkhana Treasure Book Box,12.25,300,17857.0,United Kingdom,3675.0,"Rp 81,766,545",1,Saturday,11,9
+575328,2019-11-09,23177,Treasure Island Book Box,12.25,300,17857.0,United Kingdom,3675.0,"Rp 81,766,545",1,Saturday,11,9
+575328,2019-11-09,23176,Abc Treasure Book Box,12.25,300,17857.0,United Kingdom,3675.0,"Rp 81,766,545",1,Saturday,11,9
+575328,2019-11-09,23193,Buffalo Bill Treasure Book Box,12.25,300,17857.0,United Kingdom,3675.0,"Rp 81,766,545",1,Saturday,11,9
+575335,2019-11-09,22197,Popcorn Holder,10.99,700,12931.0,United Kingdom,7693.0,"Rp 171,164,634",1,Saturday,11,9
+575335,2019-11-09,84879,Assorted Colour Bird Ornament,11.74,1200,12931.0,United Kingdom,14088.0,"Rp 313,449,547",1,Saturday,11,9
+575335,2019-11-09,20974,12 Pencils Small Tube Skull,10.81,384,12931.0,United Kingdom,4151.04,"Rp 92,358,149",1,Saturday,11,9
+575335,2019-11-09,23084,Rabbit Night Light,12.08,300,12931.0,United Kingdom,3624.0,"Rp 80,631,826",1,Saturday,11,9
+C575341,2019-11-09,22992,Revolver Wooden Ruler,11.94,-276,12931.0,United Kingdom,-3295.44,"Rp -73,321,563",1,Saturday,11,9
+C575341,2019-11-09,22991,Giraffe Wooden Ruler,11.94,-288,12931.0,United Kingdom,-3438.72,"Rp -76,509,457",1,Saturday,11,9
+574830,2019-11-07,20668,Disco Ball Christmas Decoration,10.35,576,16053.0,United Kingdom,5961.599999999999,"Rp 132,642,023",1,Thursday,11,7
+574860,2019-11-07,22714,Card Birthday Cowboy,10.62,500,17857.0,United Kingdom,5310.0,"Rp 118,144,314",1,Thursday,11,7
+574941,2019-11-07,23570,Traditional Pick Up Sticks Game,13.27,384,15941.0,United Kingdom,5095.68,"Rp 113,375,823",1,Thursday,11,7
+574941,2019-11-07,23571,Traditional Naughts & Crosses,14.3,370,15941.0,United Kingdom,5291.0,"Rp 117,721,575",1,Thursday,11,7
+574941,2019-11-07,23084,Rabbit Night Light,15.32,628,15941.0,United Kingdom,9620.960000000001,"Rp 214,060,587",1,Thursday,11,7
+574941,2019-11-07,23077,Doughnut Lip Gloss,13.27,350,15941.0,United Kingdom,4644.5,"Rp 103,337,338",1,Thursday,11,7
+574941,2019-11-07,22952,60 Cake Cases Vintage Christmas,11.79,245,15941.0,United Kingdom,2888.5499999999997,"Rp 64,268,504",1,Thursday,11,7
+574941,2019-11-07,22910,Paper Chain Kit Vintage Christmas,17.37,171,15941.0,United Kingdom,2970.27,"Rp 66,086,725",1,Thursday,11,7
+574941,2019-11-07,22197,Popcorn Holder,12.25,1820,15941.0,United Kingdom,22295.0,"Rp 496,050,373",1,Thursday,11,7
+574941,2019-11-07,22158,3 Hearts Hanging Decoration Rustic,17.37,163,15941.0,United Kingdom,2831.31,"Rp 62,994,949",1,Thursday,11,7
+574941,2019-11-07,22086,Paper Chain Kit 50'S Christmas,17.37,478,15941.0,United Kingdom,8302.86,"Rp 184,733,653",1,Thursday,11,7
+574941,2019-11-07,21915,Red Harmonica In Box,13.27,335,15941.0,United Kingdom,4445.45,"Rp 98,908,595",1,Thursday,11,7
+574941,2019-11-07,21790,Vintage Snap Cards,12.25,253,15941.0,United Kingdom,3099.25,"Rp 68,956,453",1,Thursday,11,7
+574941,2019-11-07,20971,Pink Blue Felt Craft Trinket Box,13.27,242,15941.0,United Kingdom,3211.3399999999997,"Rp 71,450,388",1,Thursday,11,7
+574941,2019-11-07,84347,Rotating Silver Angels T-Light Hldr,16.35,236,15941.0,United Kingdom,3858.6000000000004,"Rp 85,851,535",1,Thursday,11,7
+574941,2019-11-07,23344,Jumbo Bag 50'S Christmas,7.66,484,15941.0,United Kingdom,3707.44,"Rp 82,488,316",1,Thursday,11,7
+574941,2019-11-07,23203,Jumbo Bag Vintage Doily,7.66,375,15941.0,United Kingdom,2872.5,"Rp 63,911,402",1,Thursday,11,7
+574324,2019-11-04,23355,Hot Water Bottle Keep Calm,14.5,360,16684.0,United Kingdom,5220.0,"Rp 116,141,868",1,Monday,11,4
+574328,2019-11-04,15034,Paper Pocket Traveling Fan,10.39,288,13081.0,United Kingdom,2992.32,"Rp 66,577,325",1,Monday,11,4
+574341,2019-11-04,21874,Gin And Tonic Mug,11.22,432,18102.0,United Kingdom,4847.04,"Rp 107,843,732",1,Monday,11,4
+574341,2019-11-04,21070,Vintage Billboard Mug,11.07,432,18102.0,United Kingdom,4782.24,"Rp 106,401,971",1,Monday,11,4
+574341,2019-11-04,21872,Glamorous Mug,11.07,432,18102.0,United Kingdom,4782.24,"Rp 106,401,971",1,Monday,11,4
+574341,2019-11-04,21068,Vintage Billboard Love/Hate Mug,11.07,432,18102.0,United Kingdom,4782.24,"Rp 106,401,971",1,Monday,11,4
+574341,2019-11-04,21066,Vintage Red Mug,11.07,432,18102.0,United Kingdom,4782.24,"Rp 106,401,971",1,Monday,11,4
+574341,2019-11-04,22302,Coffee Mug Pears Design,11.4,432,18102.0,United Kingdom,4924.8,"Rp 109,573,845",1,Monday,11,4
+574341,2019-11-04,22301,Coffee Mug Cat + Bird Design,11.4,432,18102.0,United Kingdom,4924.8,"Rp 109,573,845",1,Monday,11,4
+574341,2019-11-04,22303,Coffee Mug Apples Design,11.4,432,18102.0,United Kingdom,4924.8,"Rp 109,573,845",1,Monday,11,4
+574341,2019-11-04,22300,Coffee Mug Dog + Ball Design,11.4,432,18102.0,United Kingdom,4924.8,"Rp 109,573,845",1,Monday,11,4
+574341,2019-11-04,21871,Save The Planet Mug,11.07,432,18102.0,United Kingdom,4782.24,"Rp 106,401,971",1,Monday,11,4
+574341,2019-11-04,22304,Coffee Mug Blue Paisley Design,11.4,432,18102.0,United Kingdom,4924.8,"Rp 109,573,845",1,Monday,11,4
+574469,2019-11-04,23084,Rabbit Night Light,12.08,336,12431.0,Australia,4058.88,"Rp 90,307,645",1,Monday,11,4
+574533,2019-11-04,16008,Small Folding Scissor(Pointed Edge),10.37,288,12928.0,United Kingdom,2986.56,"Rp 66,449,168",1,Monday,11,4
+574092,2019-11-03,22077,6 Ribbons Rustic Charm,11.94,288,16684.0,United Kingdom,3438.72,"Rp 76,509,457",1,Sunday,11,3
+574092,2019-11-03,22659,Lunch Box I Love London,11.94,320,16684.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Sunday,11,3
+574092,2019-11-03,23356,Love Hot Water Bottle,15.32,264,16684.0,United Kingdom,4044.48,"Rp 89,987,253",1,Sunday,11,3
+574092,2019-11-03,23005,Travel Card Wallet I Love London,10.62,480,16684.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Sunday,11,3
+574092,2019-11-03,21212,Pack Of 72 Retrospot Cake Cases,10.68,480,16684.0,United Kingdom,5126.4,"Rp 114,059,324",1,Sunday,11,3
+574092,2019-11-03,22616,Pack Of 12 London Tissues,10.58,432,16684.0,United Kingdom,4570.56,"Rp 101,692,218",1,Sunday,11,3
+574092,2019-11-03,21982,Pack Of 12 Suki Tissues,10.58,432,16684.0,United Kingdom,4570.56,"Rp 101,692,218",1,Sunday,11,3
+574242,2019-11-03,23366,Set 12 Colouring Pencils Doily,10.81,384,17653.0,United Kingdom,4151.04,"Rp 92,358,149",1,Sunday,11,3
+574285,2019-11-03,21733,Red Hanging Heart T-Light Holder,13.53,416,17450.0,United Kingdom,5628.48,"Rp 125,230,303",1,Sunday,11,3
+574285,2019-11-03,85123A,Cream Hanging Heart T-Light Holder,13.53,224,17450.0,United Kingdom,3030.72,"Rp 67,431,702",1,Sunday,11,3
+574293,2019-11-03,85123A,Cream Hanging Heart T-Light Holder,13.53,992,17450.0,United Kingdom,13421.76,"Rp 298,626,107",1,Sunday,11,3
+574293,2019-11-03,22470,Heart Of Wicker Large,13.53,252,17450.0,United Kingdom,3409.56,"Rp 75,860,664",1,Sunday,11,3
+574293,2019-11-03,22469,Heart Of Wicker Small,12.23,630,17450.0,United Kingdom,7704.900000000001,"Rp 171,429,402",1,Sunday,11,3
+574294,2019-11-03,22086,Paper Chain Kit 50'S Christmas,12.86,1020,16333.0,United Kingdom,13117.199999999999,"Rp 291,849,830",1,Sunday,11,3
+574294,2019-11-03,21891,Traditional Wooden Skipping Rope,11.53,720,16333.0,United Kingdom,8301.6,"Rp 184,705,619",1,Sunday,11,3
+574294,2019-11-03,21915,Red Harmonica In Box,11.34,2100,16333.0,United Kingdom,23814.0,"Rp 529,847,212",1,Sunday,11,3
+574295,2019-11-03,21588,Retrospot Giant Tube Matches,12.4,264,17389.0,United Kingdom,3273.6,"Rp 72,835,636",1,Sunday,11,3
+574295,2019-11-03,22666,Recipe Box Pantry Yellow Design,12.86,336,17389.0,United Kingdom,4320.96,"Rp 96,138,767",1,Sunday,11,3
+573982,2019-11-02,21787,Rain Poncho Retrospot,11.12,360,12901.0,United Kingdom,4003.2,"Rp 89,068,798",1,Saturday,11,2
+573995,2019-11-02,16014,Small Chinese Style Scissor,10.58,3000,16308.0,United Kingdom,31740.0,"Rp 706,195,956",1,Saturday,11,2
+574012,2019-11-02,21703,Bag 125g Swirly Marbles,10.53,864,12830.0,United Kingdom,9097.92,"Rp 202,423,261",1,Saturday,11,2
+574012,2019-11-02,21790,Vintage Snap Cards,10.84,288,12830.0,United Kingdom,3121.92,"Rp 69,460,847",1,Saturday,11,2
+574014,2019-11-02,23247,Biscuit Tin 50'S Christmas,13.21,216,12415.0,Australia,2853.36,"Rp 63,485,548",1,Saturday,11,2
+574044,2019-11-02,21137,Black Record Cover Frame,13.72,240,16210.0,United Kingdom,3292.8,"Rp 73,262,824",1,Saturday,11,2
+573153,2019-10-28,23084,Rabbit Night Light,12.08,912,12678.0,France,11016.960000000001,"Rp 245,120,750",1,Monday,10,28
+573156,2019-10-28,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Monday,10,28
+573261,2019-10-28,22197,Popcorn Holder,10.99,1992,17949.0,United Kingdom,21892.08,"Rp 487,085,645",1,Monday,10,28
+573002,2019-10-27,22467,Gumball Coat Rack,12.4,288,14646.0,Netherlands,3571.2000000000003,"Rp 79,457,057",1,Sunday,10,27
+573002,2019-10-27,23346,Spaceboy Beaker,11.36,400,14646.0,Netherlands,4544.0,"Rp 101,101,274",1,Sunday,10,27
+573003,2019-10-27,23084,Rabbit Night Light,12.38,2400,14646.0,Netherlands,29712.000000000004,"Rp 661,074,173",1,Sunday,10,27
+573005,2019-10-27,17003,Brocade Ring Purse,10.51,720,17414.0,United Kingdom,7567.2,"Rp 168,365,660",1,Sunday,10,27
+573008,2019-10-27,84077,World War 2 Gliders Asstd Designs,10.47,4800,12901.0,United Kingdom,50256.0,"Rp 1,118,165,846",1,Sunday,10,27
+573146,2019-10-27,17003,Brocade Ring Purse,10.58,720,16422.0,United Kingdom,7617.6,"Rp 169,487,029",1,Sunday,10,27
+572765,2019-10-26,71477,Coloured Glass Star T-Light Holder,13.07,384,16013.0,United Kingdom,5018.88,"Rp 111,667,069",1,Saturday,10,26
+572765,2019-10-26,79321,Chilli Lights,15.32,192,16013.0,United Kingdom,2941.44,"Rp 65,445,275",1,Saturday,10,26
+572766,2019-10-26,71477,Coloured Glass Star T-Light Holder,13.07,240,16013.0,United Kingdom,3136.8,"Rp 69,791,918",1,Saturday,10,26
+572772,2019-10-26,20668,Disco Ball Christmas Decoration,10.35,288,17511.0,United Kingdom,2980.7999999999997,"Rp 66,321,012",1,Saturday,10,26
+572845,2019-10-26,22178,Victorian Glass Hanging T-Light,11.17,960,16013.0,United Kingdom,10723.2,"Rp 238,584,766",1,Saturday,10,26
+572869,2019-10-26,23084,Rabbit Night Light,12.08,960,12798.0,Japan,11596.8,"Rp 258,021,842",1,Saturday,10,26
+572881,2019-10-26,72803A,Rose Scent Candle Jewelled Drawer,10.76,408,12748.0,United Kingdom,4390.08,"Rp 97,676,646",1,Saturday,10,26
+572881,2019-10-26,72802C,Vanilla Scent Candle Jewelled Box,10.76,378,12748.0,United Kingdom,4067.2799999999997,"Rp 90,494,540",1,Saturday,10,26
+572902,2019-10-26,22952,60 Cake Cases Vintage Christmas,10.81,288,14866.0,United Kingdom,3113.28,"Rp 69,268,612",1,Saturday,10,26
+572670,2019-10-25,22065,Christmas Pudding Trinket Pot,10.65,1200,13685.0,United Kingdom,12780.0,"Rp 284,347,332",1,Friday,10,25
+572670,2019-10-25,72818,Christmas Decoupage Candle,10.65,324,13685.0,United Kingdom,3450.6,"Rp 76,773,780",1,Friday,10,25
+572696,2019-10-25,22727,Alarm Clock Bakelike Red,13.72,400,17857.0,United Kingdom,5488.0,"Rp 122,104,707",1,Friday,10,25
+572696,2019-10-25,22728,Alarm Clock Bakelike Pink,13.72,400,17857.0,United Kingdom,5488.0,"Rp 122,104,707",1,Friday,10,25
+572734,2019-10-25,22610,Pens Assorted Funny Face,10.44,360,13694.0,United Kingdom,3758.3999999999996,"Rp 83,622,145",1,Friday,10,25
+572324,2019-10-24,23056,Flowers Chandelier T-Light Holder,15.77,240,14607.0,United Kingdom,3784.7999999999997,"Rp 84,209,529",1,Thursday,10,24
+572324,2019-10-24,22103,Mirror Mosaic T-Light Holder Round,10.65,468,14607.0,United Kingdom,4984.2,"Rp 110,895,459",1,Thursday,10,24
+572324,2019-10-24,22102,Mirror Mosaic T-Light Holder,10.65,720,14607.0,United Kingdom,7668.0,"Rp 170,608,399",1,Thursday,10,24
+572324,2019-10-24,22101,Mirror Mosaic Votive Holder,10.65,324,14607.0,United Kingdom,3450.6,"Rp 76,773,780",1,Thursday,10,24
+572325,2019-10-24,84347,Rotating Silver Angels T-Light Hldr,12.03,600,14607.0,United Kingdom,7218.0,"Rp 160,596,169",1,Thursday,10,24
+572340,2019-10-24,22103,Mirror Mosaic T-Light Holder Round,10.65,468,14607.0,United Kingdom,4984.2,"Rp 110,895,459",1,Thursday,10,24
+572340,2019-10-24,22102,Mirror Mosaic T-Light Holder,10.65,720,14607.0,United Kingdom,7668.0,"Rp 170,608,399",1,Thursday,10,24
+572340,2019-10-24,22101,Mirror Mosaic Votive Holder,10.65,324,14607.0,United Kingdom,3450.6,"Rp 76,773,780",1,Thursday,10,24
+572342,2019-10-24,23056,Flowers Chandelier T-Light Holder,11.79,240,14607.0,United Kingdom,2829.6,"Rp 62,956,902",1,Thursday,10,24
+572545,2019-10-24,21181,Please One Person Metal Sign,12.7,456,17450.0,United Kingdom,5791.2,"Rp 128,850,725",1,Thursday,10,24
+C572343,2019-10-24,23056,Flowers Chandelier T-Light Holder,15.77,-240,14607.0,United Kingdom,-3784.7999999999997,"Rp -84,209,529",1,Thursday,10,24
+C572343,2019-10-24,22105,Mirror Mosaic Goblet Candle Holder,11.22,-240,14607.0,United Kingdom,-2692.8,"Rp -59,913,184",1,Thursday,10,24
+C572343,2019-10-24,22103,Mirror Mosaic T-Light Holder Round,10.65,-468,14607.0,United Kingdom,-4984.2,"Rp -110,895,459",1,Thursday,10,24
+C572343,2019-10-24,22102,Mirror Mosaic T-Light Holder,10.65,-720,14607.0,United Kingdom,-7668.0,"Rp -170,608,399",1,Thursday,10,24
+C572343,2019-10-24,22101,Mirror Mosaic Votive Holder,10.65,-324,14607.0,United Kingdom,-3450.6,"Rp -76,773,780",1,Thursday,10,24
+572209,2019-10-21,23485,Botanical Gardens Wall Clock,31.57,120,18102.0,United Kingdom,3788.4,"Rp 84,289,627",1,Monday,10,21
+572209,2019-10-21,23556,Landmark Frame Covent Garden,21.47,300,18102.0,United Kingdom,6441.0,"Rp 143,308,385",1,Monday,10,21
+572209,2019-10-21,23554,Landmark Frame Oxford Street,21.47,300,18102.0,United Kingdom,6441.0,"Rp 143,308,385",1,Monday,10,21
+572209,2019-10-21,23555,Landmark Frame Notting Hill,21.47,300,18102.0,United Kingdom,6441.0,"Rp 143,308,385",1,Monday,10,21
+572209,2019-10-21,23558,Landmark Frame London Bridge,21.47,300,18102.0,United Kingdom,6441.0,"Rp 143,308,385",1,Monday,10,21
+572209,2019-10-21,23553,Landmark Frame Camden Town,21.47,300,18102.0,United Kingdom,6441.0,"Rp 143,308,385",1,Monday,10,21
+572209,2019-10-21,23557,Landmark Frame Baker Street,21.47,300,18102.0,United Kingdom,6441.0,"Rp 143,308,385",1,Monday,10,21
+572193,2019-10-21,23507,Mini Playing Cards Buffalo Bill,10.68,500,15061.0,United Kingdom,5340.0,"Rp 118,811,796",1,Monday,10,21
+572193,2019-10-21,23508,Mini Playing Cards Dolly Girl,10.68,500,15061.0,United Kingdom,5340.0,"Rp 118,811,796",1,Monday,10,21
+572193,2019-10-21,23509,Mini Playing Cards Fun Fair,10.68,500,15061.0,United Kingdom,5340.0,"Rp 118,811,796",1,Monday,10,21
+572193,2019-10-21,23506,Mini Playing Cards Spaceboy,10.68,500,15061.0,United Kingdom,5340.0,"Rp 118,811,796",1,Monday,10,21
+572193,2019-10-21,23340,Vintage Christmas Cake Frill,11.94,240,15061.0,United Kingdom,2865.6,"Rp 63,757,881",1,Monday,10,21
+572193,2019-10-21,22952,60 Cake Cases Vintage Christmas,10.81,360,15061.0,United Kingdom,3891.6000000000004,"Rp 86,585,765",1,Monday,10,21
+572196,2019-10-21,21908,Chocolate This Way Metal Sign,11.77,384,18102.0,United Kingdom,4519.68,"Rp 100,560,168",1,Monday,10,21
+572196,2019-10-21,85152,Hand Over The Chocolate Sign,11.78,384,18102.0,United Kingdom,4523.5199999999995,"Rp 100,645,606",1,Monday,10,21
+572196,2019-10-21,82583,Hot Baths Metal Sign,11.78,432,18102.0,United Kingdom,5088.96,"Rp 113,226,307",1,Monday,10,21
+572212,2019-10-21,84077,World War 2 Gliders Asstd Designs,10.47,288,13918.0,United Kingdom,3015.36,"Rp 67,089,951",1,Monday,10,21
+572222,2019-10-21,22616,Pack Of 12 London Tissues,10.58,600,17940.0,United Kingdom,6348.0,"Rp 141,239,191",1,Monday,10,21
+572233,2019-10-21,21121,Set/10 Red Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Monday,10,21
+571937,2019-10-20,22266,Easter Decoration Hanging Bunny,10.44,640,14911.0,EIRE,6681.599999999999,"Rp 148,661,591",1,Sunday,10,20
+572035,2019-10-20,22492,Mini Paint Set Vintage,10.81,576,14646.0,Netherlands,6226.56,"Rp 138,537,224",1,Sunday,10,20
+572035,2019-10-20,23310,Bubblegum Ring Assorted,10.62,360,14646.0,Netherlands,3823.2,"Rp 85,063,906",1,Sunday,10,20
+572035,2019-10-20,84991,60 Teatime Fairy Cake Cases,10.68,360,14646.0,Netherlands,3844.7999999999997,"Rp 85,544,493",1,Sunday,10,20
+572035,2019-10-20,21390,Filigris Heart With Butterfly,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Sunday,10,20
+572035,2019-10-20,23077,Doughnut Lip Gloss,11.32,400,14646.0,Netherlands,4528.0,"Rp 100,745,283",1,Sunday,10,20
+572035,2019-10-20,22661,Charlotte Bag Dolly Girl Design,10.99,300,14646.0,Netherlands,3297.0,"Rp 73,356,272",1,Sunday,10,20
+572035,2019-10-20,21731,Red Toadstool Led Night Light,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Sunday,10,20
+572035,2019-10-20,22630,Dolly Girl Lunch Box,11.94,256,14646.0,Netherlands,3056.64,"Rp 68,008,406",1,Sunday,10,20
+572035,2019-10-20,23345,Dolly Girl Beaker,11.36,400,14646.0,Netherlands,4544.0,"Rp 101,101,274",1,Sunday,10,20
+572051,2019-10-20,23506,Mini Playing Cards Spaceboy,10.62,400,14646.0,Netherlands,4248.0,"Rp 94,515,451",1,Sunday,10,20
+572051,2019-10-20,23508,Mini Playing Cards Dolly Girl,10.62,400,14646.0,Netherlands,4248.0,"Rp 94,515,451",1,Sunday,10,20
+572052,2019-10-20,22595,Gingham Heart Decoration,10.99,1728,14646.0,Netherlands,18990.72,"Rp 422,532,126",1,Sunday,10,20
+571738,2019-10-19,21422,Porcelain Rose Small,10.99,288,13089.0,United Kingdom,3165.12,"Rp 70,422,021",1,Saturday,10,19
+571550,2019-10-18,85111,Silver Glitter Flower Votive Holder,10.55,396,13892.0,United Kingdom,4177.8,"Rp 92,953,543",1,Friday,10,18
+571553,2019-10-18,21098,Christmas Toilet Roll,11.34,504,17317.0,United Kingdom,5715.36,"Rp 127,163,331",1,Friday,10,18
+571594,2019-10-18,21112,Swiss Roll Towel Pink Spots,13.27,240,15971.0,United Kingdom,3184.7999999999997,"Rp 70,859,889",1,Friday,10,18
+571610,2019-10-18,62018,Sombrero,11.53,400,13953.0,United Kingdom,4612.0,"Rp 102,614,233",1,Friday,10,18
+571653,2019-10-18,22313,Office Mug Warmer Pink,12.86,255,14298.0,United Kingdom,3279.2999999999997,"Rp 72,962,457",1,Friday,10,18
+571698,2019-10-18,84536B,Fairy Cakes Notebook A7 Size,10.58,272,13805.0,United Kingdom,2877.76,"Rp 64,028,433",1,Friday,10,18
+571313,2019-10-17,22197,Popcorn Holder,10.99,500,14156.0,EIRE,5495.0,"Rp 122,260,453",1,Thursday,10,17
+571318,2019-10-17,22492,Mini Paint Set Vintage,10.92,576,17404.0,Sweden,6289.92,"Rp 139,946,946",1,Thursday,10,17
+571318,2019-10-17,23368,Set 12 Colour Pencils Dolly Girl,10.92,384,17404.0,Sweden,4193.28,"Rp 93,297,964",1,Thursday,10,17
+571318,2019-10-17,23367,Set 12 Colour Pencils Spaceboy,10.92,384,17404.0,Sweden,4193.28,"Rp 93,297,964",1,Thursday,10,17
+571318,2019-10-17,22952,60 Cake Cases Vintage Christmas,10.68,480,17404.0,Sweden,5126.4,"Rp 114,059,324",1,Thursday,10,17
+571431,2019-10-17,22086,Paper Chain Kit 50'S Christmas,12.86,240,13881.0,United Kingdom,3086.3999999999996,"Rp 68,670,548",1,Thursday,10,17
+571432,2019-10-17,84949,Silver Hanging T-Light Holder,11.74,288,16737.0,United Kingdom,3381.12,"Rp 75,227,891",1,Thursday,10,17
+571474,2019-10-17,20668,Disco Ball Christmas Decoration,10.35,576,16389.0,United Kingdom,5961.599999999999,"Rp 132,642,023",1,Thursday,10,17
+C571499,2019-10-17,72802C,Vanilla Scent Candle Jewelled Box,11.53,-288,12454.0,Spain,-3320.64,"Rp -73,882,248",1,Thursday,10,17
+571259,2019-10-16,21787,Rain Poncho Retrospot,11.12,360,12901.0,United Kingdom,4003.2,"Rp 89,068,798",1,Wednesday,10,16
+571261,2019-10-16,21787,Rain Poncho Retrospot,11.12,360,12901.0,United Kingdom,4003.2,"Rp 89,068,798",1,Wednesday,10,16
+C571262,2019-10-16,21787,Rain Poncho Retrospot,11.12,-360,12901.0,United Kingdom,-4003.2,"Rp -89,068,798",1,Wednesday,10,16
+571199,2019-10-14,21497,Fancy Fonts Birthday Wrap,10.62,300,17949.0,United Kingdom,3185.9999999999995,"Rp 70,886,588",1,Monday,10,14
+571255,2019-10-14,72802C,Vanilla Scent Candle Jewelled Box,11.53,288,12454.0,Spain,3320.64,"Rp 73,882,248",1,Monday,10,14
+570886,2019-10-13,21232,Strawberry Ceramic Trinket Pot,11.34,288,13777.0,United Kingdom,3265.92,"Rp 72,664,760",1,Sunday,10,13
+570886,2019-10-13,84029E,Red Woolly Hottie White Heart,13.72,228,13777.0,United Kingdom,3128.1600000000003,"Rp 69,599,683",1,Sunday,10,13
+571099,2019-10-13,15034,Paper Pocket Traveling Fan,10.39,384,13911.0,United Kingdom,3989.76,"Rp 88,769,766",1,Sunday,10,13
+570701,2019-10-12,21917,Set 12 Kids White Chalk Sticks,10.62,288,16652.0,United Kingdom,3058.56,"Rp 68,051,125",1,Saturday,10,12
+570557,2019-10-11,22149,Feltcraft 6 Flower Friends,12.15,600,16029.0,United Kingdom,7290.0,"Rp 162,198,126",1,Friday,10,11
+570557,2019-10-11,20971,Pink Blue Felt Craft Trinket Box,11.34,1296,16029.0,United Kingdom,14696.64,"Rp 326,991,422",1,Friday,10,11
+570557,2019-10-11,22147,Feltcraft Butterfly Hearts,11.53,840,16029.0,United Kingdom,9685.199999999999,"Rp 215,489,889",1,Friday,10,11
+570557,2019-10-11,22570,Feltcraft Cushion Rabbit,13.72,240,16029.0,United Kingdom,3292.8,"Rp 73,262,824",1,Friday,10,11
+570557,2019-10-11,22273,Feltcraft Doll Molly,12.86,720,16029.0,United Kingdom,9259.199999999999,"Rp 206,011,644",1,Friday,10,11
+C570556,2019-10-11,22570,Feltcraft Cushion Rabbit,13.72,-240,16029.0,United Kingdom,-3292.8,"Rp -73,262,824",1,Friday,10,11
+C570556,2019-10-11,22569,Feltcraft Cushion Butterfly,13.72,-192,16029.0,United Kingdom,-2634.2400000000002,"Rp -58,610,259",1,Friday,10,11
+C570556,2019-10-11,22273,Feltcraft Doll Molly,12.61,-720,16029.0,United Kingdom,-9079.199999999999,"Rp -202,006,752",1,Friday,10,11
+C570556,2019-10-11,22149,Feltcraft 6 Flower Friends,12.15,-600,16029.0,United Kingdom,-7290.0,"Rp -162,198,126",1,Friday,10,11
+C570556,2019-10-11,22147,Feltcraft Butterfly Hearts,11.53,-840,16029.0,United Kingdom,-9685.199999999999,"Rp -215,489,889",1,Friday,10,11
+C570556,2019-10-11,20971,Pink Blue Felt Craft Trinket Box,11.34,-1296,16029.0,United Kingdom,-14696.64,"Rp -326,991,422",1,Friday,10,11
+C570556,2019-10-11,22273,Feltcraft Doll Molly,12.86,-720,16029.0,United Kingdom,-9259.199999999999,"Rp -206,011,644",1,Friday,10,11
+570253,2019-10-10,23046,Paper Lantern 9 Point Deluxe Star,16.14,240,14156.0,EIRE,3873.6000000000004,"Rp 86,185,276",1,Thursday,10,10
+570408,2019-10-10,22098,Boudoir Square Tissue Box,10.65,360,13685.0,United Kingdom,3834.0,"Rp 85,304,200",1,Thursday,10,10
+570408,2019-10-10,22097,Swallow Square Tissue Box,10.65,360,13685.0,United Kingdom,3834.0,"Rp 85,304,200",1,Thursday,10,10
+570408,2019-10-10,22099,Caravan Square Tissue Box,10.65,360,13685.0,United Kingdom,3834.0,"Rp 85,304,200",1,Thursday,10,10
+570408,2019-10-10,22091,Empire Tissue Box,10.65,360,13685.0,United Kingdom,3834.0,"Rp 85,304,200",1,Thursday,10,10
+570408,2019-10-10,22093,Motoring Tissue Box,10.65,360,13685.0,United Kingdom,3834.0,"Rp 85,304,200",1,Thursday,10,10
+570408,2019-10-10,22065,Christmas Pudding Trinket Pot,10.65,384,13685.0,United Kingdom,4089.6000000000004,"Rp 90,991,146",1,Thursday,10,10
+570408,2019-10-10,72816,Set/3 Christmas Decoupage Candles,11.22,360,13685.0,United Kingdom,4039.2000000000003,"Rp 89,869,776",1,Thursday,10,10
+570408,2019-10-10,72818,Christmas Decoupage Candle,10.65,360,13685.0,United Kingdom,3834.0,"Rp 85,304,200",1,Thursday,10,10
+569997,2019-10-07,23296,Set Of 6 Tea Time Baking Cases,11.32,256,12394.0,Denmark,2897.92,"Rp 64,476,981",1,Monday,10,7
+570082,2019-10-07,23379,Pack Of 12 Red Apple Tissues,10.58,432,12524.0,Germany,4570.56,"Rp 101,692,218",1,Monday,10,7
+570094,2019-10-07,20971,Pink Blue Felt Craft Trinket Box,11.34,1296,16029.0,United Kingdom,14696.64,"Rp 326,991,422",1,Monday,10,7
+570094,2019-10-07,22273,Feltcraft Doll Molly,12.86,720,16029.0,United Kingdom,9259.199999999999,"Rp 206,011,644",1,Monday,10,7
+570097,2019-10-07,22149,Feltcraft 6 Flower Friends,12.15,600,16029.0,United Kingdom,7290.0,"Rp 162,198,126",1,Monday,10,7
+570097,2019-10-07,22147,Feltcraft Butterfly Hearts,11.53,840,16029.0,United Kingdom,9685.199999999999,"Rp 215,489,889",1,Monday,10,7
+570097,2019-10-07,22570,Feltcraft Cushion Rabbit,13.72,240,16029.0,United Kingdom,3292.8,"Rp 73,262,824",1,Monday,10,7
+570097,2019-10-07,20971,Pink Blue Felt Craft Trinket Box,11.34,1296,16029.0,United Kingdom,14696.64,"Rp 326,991,422",1,Monday,10,7
+570097,2019-10-07,22273,Feltcraft Doll Molly,12.61,720,16029.0,United Kingdom,9079.199999999999,"Rp 202,006,752",1,Monday,10,7
+569815,2019-10-06,22866,Hand Warmer Scotty Dog Design,12.08,288,15838.0,United Kingdom,3479.04,"Rp 77,406,553",1,Sunday,10,6
+569815,2019-10-06,22865,Hand Warmer Owl Design,12.08,288,15838.0,United Kingdom,3479.04,"Rp 77,406,553",1,Sunday,10,6
+569815,2019-10-06,22149,Feltcraft 6 Flower Friends,12.15,280,15838.0,United Kingdom,3402.0,"Rp 75,692,459",1,Sunday,10,6
+569815,2019-10-06,22759,Set Of 3 Notebooks In Parcel,11.74,672,15838.0,United Kingdom,7889.28,"Rp 175,531,746",1,Sunday,10,6
+569815,2019-10-06,22379,Recycling Bag Retrospot,12.15,700,15838.0,United Kingdom,8505.0,"Rp 189,231,147",1,Sunday,10,6
+569815,2019-10-06,22381,Toy Tidy Pink Polkadot,12.15,500,15838.0,United Kingdom,6075.0,"Rp 135,165,105",1,Sunday,10,6
+569815,2019-10-06,22386,Jumbo Bag Pink Polkadot,6.04,700,15838.0,United Kingdom,4228.0,"Rp 94,070,463",1,Sunday,10,6
+569815,2019-10-06,85099B,Jumbo Bag Red Retrospot,6.04,1000,15838.0,United Kingdom,6040.0,"Rp 134,386,376",1,Sunday,10,6
+569815,2019-10-06,85099F,Jumbo Bag Strawberry,6.04,600,15838.0,United Kingdom,3624.0,"Rp 80,631,826",1,Sunday,10,6
+569889,2019-10-06,84212,"Assorted Flower Colour ""Leis""",10.68,480,17930.0,United Kingdom,5126.4,"Rp 114,059,324",1,Sunday,10,6
+569566,2019-10-05,84077,World War 2 Gliders Asstd Designs,10.47,288,14739.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,10,5
+569570,2019-10-05,23355,Hot Water Bottle Keep Calm,14.5,240,16684.0,United Kingdom,3480.0,"Rp 77,427,912",1,Saturday,10,5
+569570,2019-10-05,22652,Travel Sewing Kit,11.74,400,16684.0,United Kingdom,4696.0,"Rp 104,483,182",1,Saturday,10,5
+569570,2019-10-05,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,600,16684.0,United Kingdom,6408.0,"Rp 142,574,155",1,Saturday,10,5
+569570,2019-10-05,21980,Pack Of 12 Red Retrospot Tissues,10.58,432,16684.0,United Kingdom,4570.56,"Rp 101,692,218",1,Saturday,10,5
+569570,2019-10-05,22970,London Bus Coffee Mug,12.4,252,16684.0,United Kingdom,3124.8,"Rp 69,524,925",1,Saturday,10,5
+569570,2019-10-05,22698,Pink Regency Teacup And Saucer,12.86,240,16684.0,United Kingdom,3086.3999999999996,"Rp 68,670,548",1,Saturday,10,5
+569570,2019-10-05,21844,Red Retrospot Mug,12.86,252,16684.0,United Kingdom,3240.72,"Rp 72,104,076",1,Saturday,10,5
+569570,2019-10-05,23307,Set Of 60 Pantry Design Cake Cases,10.68,600,16684.0,United Kingdom,6408.0,"Rp 142,574,155",1,Saturday,10,5
+569570,2019-10-05,23309,Set Of 60 I Love London Cake Cases,10.68,600,16684.0,United Kingdom,6408.0,"Rp 142,574,155",1,Saturday,10,5
+569570,2019-10-05,23245,Set Of 3 Regency Cake Tins,14.5,240,16684.0,United Kingdom,3480.0,"Rp 77,427,912",1,Saturday,10,5
+569570,2019-10-05,22988,Soldiers Egg Cup,11.34,288,16684.0,United Kingdom,3265.92,"Rp 72,664,760",1,Saturday,10,5
+569570,2019-10-05,22659,Lunch Box I Love London,11.94,384,16684.0,United Kingdom,4584.96,"Rp 102,012,609",1,Saturday,10,5
+569570,2019-10-05,21535,Red Retrospot Small Milk Jug,12.4,240,16684.0,United Kingdom,2976.0,"Rp 66,214,214",1,Saturday,10,5
+569572,2019-10-05,23233,Wrap Poppies Design,10.62,600,16684.0,United Kingdom,6371.999999999999,"Rp 141,773,177",1,Saturday,10,5
+569572,2019-10-05,23232,Wrap Vintage Leaf Design,10.62,600,16684.0,United Kingdom,6371.999999999999,"Rp 141,773,177",1,Saturday,10,5
+569572,2019-10-05,22710,Wrap I Love London,10.62,600,16684.0,United Kingdom,6371.999999999999,"Rp 141,773,177",1,Saturday,10,5
+569572,2019-10-05,22045,Spaceboy Gift Wrap,10.62,400,16684.0,United Kingdom,4248.0,"Rp 94,515,451",1,Saturday,10,5
+569572,2019-10-05,16156S,Wrap Pink Fairy Cakes,10.62,600,16684.0,United Kingdom,6371.999999999999,"Rp 141,773,177",1,Saturday,10,5
+569572,2019-10-05,21497,Fancy Fonts Birthday Wrap,10.62,600,16684.0,United Kingdom,6371.999999999999,"Rp 141,773,177",1,Saturday,10,5
+569572,2019-10-05,16161U,Wrap Suki And Friends,10.62,400,16684.0,United Kingdom,4248.0,"Rp 94,515,451",1,Saturday,10,5
+569572,2019-10-05,21506,Fancy Font Birthday Card,10.62,480,16684.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Saturday,10,5
+569572,2019-10-05,22713,Card I Love London,10.62,480,16684.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Saturday,10,5
+569647,2019-10-05,22722,Set Of 6 Spice Tins Pantry Design,13.79,240,12415.0,Australia,3309.6,"Rp 73,636,614",1,Saturday,10,5
+569650,2019-10-05,23526,Wall Art Dog Licence,15.73,180,12415.0,Australia,2831.4,"Rp 62,996,951",1,Saturday,10,5
+569650,2019-10-05,23534,Wall Art Stop For Tea,15.73,180,12415.0,Australia,2831.4,"Rp 62,996,951",1,Saturday,10,5
+569650,2019-10-05,23535,Wall Art Bicycle Safety,15.73,180,12415.0,Australia,2831.4,"Rp 62,996,951",1,Saturday,10,5
+569650,2019-10-05,23536,Wall Art Village Show,15.73,180,12415.0,Australia,2831.4,"Rp 62,996,951",1,Saturday,10,5
+569399,2019-10-04,22492,Mini Paint Set Vintage,10.81,576,17381.0,United Kingdom,6226.56,"Rp 138,537,224",1,Friday,10,4
+569408,2019-10-04,22910,Paper Chain Kit Vintage Christmas,12.86,240,13881.0,United Kingdom,3086.3999999999996,"Rp 68,670,548",1,Friday,10,4
+569420,2019-10-04,15036,Assorted Colours Silk Fan,10.99,600,16881.0,United Kingdom,6594.0,"Rp 146,712,544",1,Friday,10,4
+569492,2019-10-04,22086,Paper Chain Kit 50'S Christmas,12.86,612,16333.0,United Kingdom,7870.32,"Rp 175,109,898",1,Friday,10,4
+569492,2019-10-04,21891,Traditional Wooden Skipping Rope,11.53,432,16333.0,United Kingdom,4980.96,"Rp 110,823,371",1,Friday,10,4
+569492,2019-10-04,21915,Red Harmonica In Box,11.34,1540,16333.0,United Kingdom,17463.6,"Rp 388,554,622",1,Friday,10,4
+C569552,2019-10-04,15034,Paper Pocket Traveling Fan,10.32,-1200,14533.0,United Kingdom,-12384.0,"Rp -275,536,570",1,Friday,10,4
+569255,2019-10-03,22189,Cream Heart Card Holder,12.63,252,18102.0,United Kingdom,3182.76,"Rp 70,814,500",1,Thursday,10,3
+569263,2019-10-03,23538,Wall Art Vintage Heart,13.92,216,18102.0,United Kingdom,3006.72,"Rp 66,897,716",1,Thursday,10,3
+569334,2019-10-03,22991,Giraffe Wooden Ruler,11.94,288,12931.0,United Kingdom,3438.72,"Rp 76,509,457",1,Thursday,10,3
+569334,2019-10-03,22992,Revolver Wooden Ruler,11.94,276,12931.0,United Kingdom,3295.44,"Rp 73,321,563",1,Thursday,10,3
+569334,2019-10-03,23084,Rabbit Night Light,12.08,360,12931.0,United Kingdom,4348.8,"Rp 96,758,191",1,Thursday,10,3
+569334,2019-10-03,20975,12 Pencils Small Tube Red Retrospot,10.81,384,12931.0,United Kingdom,4151.04,"Rp 92,358,149",1,Thursday,10,3
+569339,2019-10-03,22113,Grey Heart Hot Water Bottle,13.65,250,15299.0,United Kingdom,3412.5,"Rp 75,926,078",1,Thursday,10,3
+569342,2019-10-03,22178,Victorian Glass Hanging T-Light,11.17,960,16013.0,United Kingdom,10723.2,"Rp 238,584,766",1,Thursday,10,3
+569343,2019-10-03,23543,Wall Art Keep Calm,17.89,180,18102.0,United Kingdom,3220.2000000000003,"Rp 71,647,518",1,Thursday,10,3
+569343,2019-10-03,23529,Wall Art Dolly Girl,13.62,240,18102.0,United Kingdom,3268.7999999999997,"Rp 72,728,839",1,Thursday,10,3
+569385,2019-10-03,23284,Doormat Keep Calm And Come In,17.51,200,14031.0,United Kingdom,3502.0000000000005,"Rp 77,917,399",1,Thursday,10,3
+569388,2019-10-03,23284,Doormat Keep Calm And Come In,17.51,200,14031.0,United Kingdom,3502.0000000000005,"Rp 77,917,399",1,Thursday,10,3
+C569387,2019-10-03,23284,Doormat Keep Calm And Come In,17.51,-200,14031.0,United Kingdom,-3502.0000000000005,"Rp -77,917,399",1,Thursday,10,3
+569209,2019-10-02,21326,Aged Glass Silver T-Light Holder,10.81,288,16626.0,United Kingdom,3113.28,"Rp 69,268,612",1,Wednesday,10,2
+569214,2019-10-02,16219,House Shape Pencil Sharpener,10.31,288,14533.0,United Kingdom,2969.28,"Rp 66,064,698",1,Wednesday,10,2
+569214,2019-10-02,15034,Paper Pocket Traveling Fan,10.32,1200,14533.0,United Kingdom,12384.0,"Rp 275,536,570",1,Wednesday,10,2
+569010,2019-09-30,23298,Spotty Bunting,14.5,200,14156.0,EIRE,2900.0,"Rp 64,523,260",1,Monday,9,30
+569084,2019-09-30,22941,Christmas Lights 10 Reindeer,16.91,384,17949.0,United Kingdom,6493.4400000000005,"Rp 144,475,144",1,Monday,9,30
+569085,2019-09-30,21098,Christmas Toilet Roll,11.34,1200,17949.0,United Kingdom,13608.0,"Rp 302,769,835",1,Monday,9,30
+569086,2019-09-30,22197,Popcorn Holder,10.99,1000,17949.0,United Kingdom,10990.0,"Rp 244,520,906",1,Monday,9,30
+568943,2019-09-29,22616,Pack Of 12 London Tissues,10.58,432,17306.0,United Kingdom,4570.56,"Rp 101,692,218",1,Sunday,9,29
+C568832,2019-09-29,23113,Pantry Chopping Board,15.53,-186,17450.0,United Kingdom,-2888.58,"Rp -64,269,172",1,Sunday,9,29
+568653,2019-09-28,22065,Christmas Pudding Trinket Pot,10.65,432,13798.0,United Kingdom,4600.8,"Rp 102,365,040",1,Saturday,9,28
+568666,2019-09-28,17003,Brocade Ring Purse,10.41,720,14609.0,United Kingdom,7495.2,"Rp 166,763,703",1,Saturday,9,28
+568717,2019-09-28,23284,Doormat Keep Calm And Come In,14.94,500,18102.0,United Kingdom,7470.0,"Rp 166,203,018",1,Saturday,9,28
+568471,2019-09-27,85061W,White Jewelled Heart Decoration,10.91,288,17805.0,United Kingdom,3142.08,"Rp 69,909,395",1,Friday,9,27
+568567,2019-09-27,46000S,Polyester Filler Pad 40x40cm,10.25,320,16567.0,United Kingdom,3280.0,"Rp 72,978,032",1,Friday,9,27
+567977,2019-09-23,84947,Antique Silver Tea Glass Engraved,11.34,288,17388.0,United Kingdom,3265.92,"Rp 72,664,760",1,Monday,9,23
+C568096,2019-09-23,18097C,White Tall Porcelain T-Light Holder,12.25,-288,17867.0,United Kingdom,-3528.0,"Rp -78,495,883",1,Monday,9,23
+567852,2019-09-22,23243,Set Of Tea Coffee Sugar Tins Pantry,13.72,216,18102.0,United Kingdom,2963.52,"Rp 65,936,542",1,Sunday,9,22
+C567706,2019-09-22,22835,Hot Water Bottle I Am So Poorly,14.61,-312,15769.0,United Kingdom,-4558.32,"Rp -101,419,885",1,Sunday,9,22
+C567527,2019-09-21,23113,Pantry Chopping Board,15.44,-756,17450.0,United Kingdom,-11672.64,"Rp -259,709,236",1,Saturday,9,21
+567377,2019-09-20,23113,Pantry Chopping Board,15.53,186,17450.0,United Kingdom,2888.58,"Rp 64,269,172",1,Friday,9,20
+567381,2019-09-20,21876,Pottering Mug,11.77,624,17450.0,United Kingdom,7344.48,"Rp 163,410,273",1,Friday,9,20
+567381,2019-09-20,21873,If You Can't Stand The Heat Mug,11.77,624,17450.0,United Kingdom,7344.48,"Rp 163,410,273",1,Friday,9,20
+567381,2019-09-20,21874,Gin And Tonic Mug,11.77,744,17450.0,United Kingdom,8756.88,"Rp 194,835,326",1,Friday,9,20
+567381,2019-09-20,21877,Home Sweet Home Mug,11.77,624,17450.0,United Kingdom,7344.48,"Rp 163,410,273",1,Friday,9,20
+567381,2019-09-20,23108,Set Of 10 Led Dolly Lights,16.91,416,17450.0,United Kingdom,7034.56,"Rp 156,514,739",1,Friday,9,20
+567381,2019-09-20,22766,Photo Frame Cornice,13.53,416,17450.0,United Kingdom,5628.48,"Rp 125,230,303",1,Friday,9,20
+567381,2019-09-20,21485,Retrospot Heart Hot Water Bottle,15.48,496,17450.0,United Kingdom,7678.08,"Rp 170,832,673",1,Friday,9,20
+567381,2019-09-20,22508,Doorstop Retrospot Heart,14.43,744,17450.0,United Kingdom,10735.92,"Rp 238,867,778",1,Friday,9,20
+567381,2019-09-20,22111,Scottie Dog Hot Water Bottle,15.48,496,17450.0,United Kingdom,7678.08,"Rp 170,832,673",1,Friday,9,20
+567381,2019-09-20,22138,Baking Set 9 Piece Retrospot,15.48,416,17450.0,United Kingdom,6439.68,"Rp 143,279,016",1,Friday,9,20
+567381,2019-09-20,22507,Memo Board Retrospot Design,15.48,416,17450.0,United Kingdom,6439.68,"Rp 143,279,016",1,Friday,9,20
+567381,2019-09-20,22637,Piggy Bank Retrospot,12.81,744,17450.0,United Kingdom,9530.640000000001,"Rp 212,051,022",1,Friday,9,20
+567384,2019-09-20,22469,Heart Of Wicker Small,12.23,456,17450.0,United Kingdom,5576.88,"Rp 124,082,234",1,Friday,9,20
+567384,2019-09-20,22470,Heart Of Wicker Large,13.53,396,17450.0,United Kingdom,5357.88,"Rp 119,209,615",1,Friday,9,20
+567385,2019-09-20,22950,36 Doilies Vintage Christmas,11.74,288,14866.0,United Kingdom,3381.12,"Rp 75,227,891",1,Friday,9,20
+567385,2019-09-20,21790,Vintage Snap Cards,10.99,288,14866.0,United Kingdom,3165.12,"Rp 70,422,021",1,Friday,9,20
+567385,2019-09-20,22910,Paper Chain Kit Vintage Christmas,12.86,320,14866.0,United Kingdom,4115.2,"Rp 91,560,731",1,Friday,9,20
+567387,2019-09-20,22469,Heart Of Wicker Small,12.23,306,17450.0,United Kingdom,3742.38,"Rp 83,265,710",1,Friday,9,20
+567387,2019-09-20,22470,Heart Of Wicker Large,13.53,222,17450.0,United Kingdom,3003.66,"Rp 66,829,633",1,Friday,9,20
+567387,2019-09-20,85123A,Cream Hanging Heart T-Light Holder,13.53,224,17450.0,United Kingdom,3030.72,"Rp 67,431,702",1,Friday,9,20
+567423,2019-09-20,22117,Metal Sign Her Dinner Is Served,13.53,248,17450.0,United Kingdom,3355.44,"Rp 74,656,527",1,Friday,9,20
+567423,2019-09-20,23286,Blue Vintage Spot Beaker,11.36,1878,17450.0,United Kingdom,21334.079999999998,"Rp 474,670,480",1,Friday,9,20
+567423,2019-09-20,23288,Green Vintage Spot Beaker,11.36,1944,17450.0,United Kingdom,22083.84,"Rp 491,352,190",1,Friday,9,20
+567423,2019-09-20,23285,Pink Vintage Spot Beaker,11.36,1944,17450.0,United Kingdom,22083.84,"Rp 491,352,190",1,Friday,9,20
+567423,2019-09-20,23113,Pantry Chopping Board,15.44,756,17450.0,United Kingdom,11672.64,"Rp 259,709,236",1,Friday,9,20
+567423,2019-09-20,22979,Pantry Washing Up Brush,11.99,666,17450.0,United Kingdom,7985.34,"Rp 177,669,024",1,Friday,9,20
+567423,2019-09-20,22978,Pantry Rolling Pin,14.53,708,17450.0,United Kingdom,10287.24,"Rp 228,884,918",1,Friday,9,20
+567423,2019-09-20,22969,Homemade Jam Scented Candles,11.99,1428,17450.0,United Kingdom,17121.72,"Rp 380,947,997",1,Friday,9,20
+567423,2019-09-20,22722,Set Of 6 Spice Tins Pantry Design,14.61,852,17450.0,United Kingdom,12447.72,"Rp 276,954,301",1,Friday,9,20
+567423,2019-09-20,22720,Set Of 3 Cake Tins Pantry Design,15.56,612,17450.0,United Kingdom,9522.720000000001,"Rp 211,874,806",1,Friday,9,20
+567423,2019-09-20,23243,Set Of Tea Coffee Sugar Tins Pantry,15.44,1412,17450.0,United Kingdom,21801.28,"Rp 485,065,399",1,Friday,9,20
+567453,2019-09-20,22114,Hot Water Bottle Tea And Sympathy,15.48,288,17450.0,United Kingdom,4458.24,"Rp 99,193,165",1,Friday,9,20
+567458,2019-09-20,82583,Hot Baths Metal Sign,12.7,528,17450.0,United Kingdom,6705.599999999999,"Rp 149,195,577",1,Friday,9,20
+567458,2019-09-20,82600,N0 Singing Metal Sign,12.72,384,17450.0,United Kingdom,4884.4800000000005,"Rp 108,676,749",1,Friday,9,20
+567458,2019-09-20,21174,Pottering In The Shed Metal Sign,12.7,240,17450.0,United Kingdom,3048.0,"Rp 67,816,171",1,Friday,9,20
+567458,2019-09-20,21166,Cook With Wine Metal Sign,12.72,336,17450.0,United Kingdom,4273.92,"Rp 95,092,156",1,Friday,9,20
+567480,2019-09-20,22117,Metal Sign Her Dinner Is Served,13.53,500,17450.0,United Kingdom,6765.0,"Rp 150,517,191",1,Friday,9,20
+567480,2019-09-20,22666,Recipe Box Pantry Yellow Design,13.53,500,17450.0,United Kingdom,6765.0,"Rp 150,517,191",1,Friday,9,20
+567280,2019-09-19,21731,Red Toadstool Led Night Light,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Thursday,9,19
+567280,2019-09-19,21390,Filigris Heart With Butterfly,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Thursday,9,19
+567280,2019-09-19,22294,Heart Filigree Dove Small,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Thursday,9,19
+567290,2019-09-19,23345,Dolly Girl Beaker,11.36,400,14646.0,Netherlands,4544.0,"Rp 101,101,274",1,Thursday,9,19
+567290,2019-09-19,23346,Spaceboy Beaker,11.36,400,14646.0,Netherlands,4544.0,"Rp 101,101,274",1,Thursday,9,19
+567308,2019-09-19,17003,Brocade Ring Purse,10.58,720,16422.0,United Kingdom,7617.6,"Rp 169,487,029",1,Thursday,9,19
+567309,2019-09-19,21787,Rain Poncho Retrospot,11.12,1788,12901.0,United Kingdom,19882.559999999998,"Rp 442,375,030",1,Thursday,9,19
+567102,2019-09-16,16045,Popart Wooden Pencils Asst,10.29,500,14124.0,United Kingdom,5145.0,"Rp 114,473,163",1,Monday,9,16
+567102,2019-09-16,21985,Pack Of 12 Hearts Design Tissues,10.58,432,14124.0,United Kingdom,4570.56,"Rp 101,692,218",1,Monday,9,16
+567102,2019-09-16,21641,Assorted Tutti Frutti Keyring Ball,10.55,494,14124.0,United Kingdom,5211.700000000001,"Rp 115,957,198",1,Monday,9,16
+566817,2019-09-15,84077,World War 2 Gliders Asstd Designs,10.47,288,16160.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,9,15
+566866,2019-09-15,23310,Bubblegum Ring Assorted,10.62,360,13694.0,United Kingdom,3823.2,"Rp 85,063,906",1,Sunday,9,15
+566931,2019-09-15,22689,Doormat Merry Christmas Red,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Sunday,9,15
+566931,2019-09-15,22688,Doormat Peace On Earth Blue,14.94,600,18102.0,United Kingdom,8964.0,"Rp 199,443,622",1,Sunday,9,15
+566931,2019-09-15,22687,Doormat Christmas Village,14.94,450,18102.0,United Kingdom,6723.0,"Rp 149,582,716",1,Sunday,9,15
+566934,2019-09-15,48194,Doormat Hearts,14.94,500,18102.0,United Kingdom,7470.0,"Rp 166,203,018",1,Sunday,9,15
+566934,2019-09-15,48187,Doormat New England,14.94,500,18102.0,United Kingdom,7470.0,"Rp 166,203,018",1,Sunday,9,15
+566934,2019-09-15,48185,Doormat Fairy Cake,14.94,500,18102.0,United Kingdom,7470.0,"Rp 166,203,018",1,Sunday,9,15
+566934,2019-09-15,48184,Doormat English Rose,14.94,350,18102.0,United Kingdom,5229.0,"Rp 116,342,113",1,Sunday,9,15
+566934,2019-09-15,48138,Doormat Union Flag,14.94,500,18102.0,United Kingdom,7470.0,"Rp 166,203,018",1,Sunday,9,15
+566934,2019-09-15,48129,Doormat Topiary,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,9,15
+566935,2019-09-15,48116,Doormat Multicolour Stripe,14.94,400,18102.0,United Kingdom,5976.0,"Rp 132,962,414",1,Sunday,9,15
+566935,2019-09-15,48111,Doormat 3 Smiley Cats,14.94,500,18102.0,United Kingdom,7470.0,"Rp 166,203,018",1,Sunday,9,15
+566935,2019-09-15,22692,Doormat Welcome To Our Home,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,9,15
+566935,2019-09-15,22690,Doormat Home Sweet Home Blue,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Sunday,9,15
+566936,2019-09-15,22365,Doormat Respectable House,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Sunday,9,15
+566936,2019-09-15,21523,Doormat Fancy Font Home Sweet Home,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Sunday,9,15
+566952,2019-09-15,22421,Lipstick Pen Fuschia,11.1,310,13952.0,United Kingdom,3441.0,"Rp 76,560,185",1,Sunday,9,15
+566628,2019-09-14,40016,Chinese Dragon Paper Lanterns,10.51,600,12971.0,United Kingdom,6306.0,"Rp 140,304,716",1,Saturday,9,14
+566635,2019-09-14,71459,Hanging Jam Jar T-Light Holders,11.12,288,12635.0,United Kingdom,3202.56,"Rp 71,255,038",1,Saturday,9,14
+566494,2019-09-13,22492,Mini Paint Set Vintage,10.92,576,17404.0,Sweden,6289.92,"Rp 139,946,946",1,Friday,9,13
+566494,2019-09-13,23297,Set 40 Heart Shape Petit Four Cases,11.94,480,17404.0,Sweden,5731.2,"Rp 127,515,761",1,Friday,9,13
+566494,2019-09-13,23310,Bubblegum Ring Assorted,10.68,720,17404.0,Sweden,7689.599999999999,"Rp 171,088,986",1,Friday,9,13
+566494,2019-09-13,84077,World War 2 Gliders Asstd Designs,10.55,288,17404.0,Sweden,3038.4,"Rp 67,602,577",1,Friday,9,13
+566575,2019-09-13,84755,Colour Glass T-Light Holder Hanging,10.81,360,17133.0,United Kingdom,3891.6000000000004,"Rp 86,585,765",1,Friday,9,13
+566595,2019-09-13,21975,Pack Of 60 Dinosaur Cake Cases,10.68,600,18251.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,9,13
+566595,2019-09-13,21213,Pack Of 72 Skull Cake Cases,10.68,600,18251.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,9,13
+566595,2019-09-13,84992,72 Sweetheart Fairy Cake Cases,10.68,600,18251.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,9,13
+566595,2019-09-13,84991,60 Teatime Fairy Cake Cases,10.68,600,18251.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,9,13
+566595,2019-09-13,23340,Vintage Christmas Cake Frill,11.74,480,18251.0,United Kingdom,5635.2,"Rp 125,379,819",1,Friday,9,13
+566595,2019-09-13,21212,Pack Of 72 Retrospot Cake Cases,10.68,600,18251.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,9,13
+566595,2019-09-13,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,600,18251.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,9,13
+566595,2019-09-13,23378,Pack Of 12 50'S Christmas Tissues,10.58,432,18251.0,United Kingdom,4570.56,"Rp 101,692,218",1,Friday,9,13
+566595,2019-09-13,23380,Pack Of 12 Vintage Doily Tissues,10.58,432,18251.0,United Kingdom,4570.56,"Rp 101,692,218",1,Friday,9,13
+566595,2019-09-13,23381,Pack Of 12 Vintage Leaf Tissues,10.58,432,18251.0,United Kingdom,4570.56,"Rp 101,692,218",1,Friday,9,13
+566595,2019-09-13,22094,Red Retrospot Tissue Box,10.65,360,18251.0,United Kingdom,3834.0,"Rp 85,304,200",1,Friday,9,13
+566595,2019-09-13,22096,Pink Paisley Square Tissue Box,10.65,432,18251.0,United Kingdom,4600.8,"Rp 102,365,040",1,Friday,9,13
+566595,2019-09-13,22909,Set Of 20 Vintage Christmas Napkins,10.99,576,18251.0,United Kingdom,6330.24,"Rp 140,844,042",1,Friday,9,13
+566595,2019-09-13,22950,36 Doilies Vintage Christmas,11.53,288,18251.0,United Kingdom,3320.64,"Rp 73,882,248",1,Friday,9,13
+566595,2019-09-13,22952,60 Cake Cases Vintage Christmas,10.68,720,18251.0,United Kingdom,7689.599999999999,"Rp 171,088,986",1,Friday,9,13
+566310,2019-09-12,21917,Set 12 Kids White Chalk Sticks,10.62,288,15980.0,United Kingdom,3058.56,"Rp 68,051,125",1,Thursday,9,12
+566295,2019-09-11,84212,"Assorted Flower Colour ""Leis""",10.68,480,15547.0,United Kingdom,5126.4,"Rp 114,059,324",1,Wednesday,9,11
+566108,2019-09-09,21326,Aged Glass Silver T-Light Holder,10.81,288,16027.0,United Kingdom,3113.28,"Rp 69,268,612",1,Monday,9,9
+566207,2019-09-09,21703,Bag 125g Swirly Marbles,10.53,864,12830.0,United Kingdom,9097.92,"Rp 202,423,261",1,Monday,9,9
+566207,2019-09-09,21790,Vintage Snap Cards,10.84,360,12830.0,United Kingdom,3902.4,"Rp 86,826,059",1,Monday,9,9
+565936,2019-09-08,22573,Star Wooden Christmas Decoration,10.99,576,15653.0,United Kingdom,6330.24,"Rp 140,844,042",1,Sunday,9,8
+565936,2019-09-08,22601,Christmas Retrospot Angel Wood,10.99,576,15653.0,United Kingdom,6330.24,"Rp 140,844,042",1,Sunday,9,8
+566028,2019-09-08,16014,Small Chinese Style Scissor,10.58,1000,13848.0,United Kingdom,10580.0,"Rp 235,398,652",1,Sunday,9,8
+565858,2019-09-07,21871,Save The Planet Mug,11.34,504,17949.0,United Kingdom,5715.36,"Rp 127,163,331",1,Saturday,9,7
+565736,2019-09-06,22151,Place Setting White Heart,10.62,432,13784.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Friday,9,6
+565763,2019-09-06,21916,Set 12 Retro White Chalk Sticks,10.62,288,14739.0,United Kingdom,3058.56,"Rp 68,051,125",1,Friday,9,6
+565763,2019-09-06,23378,Pack Of 12 50'S Christmas Tissues,10.58,432,14739.0,United Kingdom,4570.56,"Rp 101,692,218",1,Friday,9,6
+565763,2019-09-06,23376,Pack Of 12 Vintage Christmas Tissue,10.58,432,14739.0,United Kingdom,4570.56,"Rp 101,692,218",1,Friday,9,6
+565459,2019-09-05,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Thursday,9,5
+565460,2019-09-05,16259,Piece Of Camo Stationery Set,10.33,324,16843.0,United Kingdom,3346.92,"Rp 74,466,962",1,Thursday,9,5
+565580,2019-09-05,22865,Hand Warmer Owl Design,12.15,480,13851.0,United Kingdom,5832.0,"Rp 129,758,501",1,Thursday,9,5
+565412,2019-09-04,84212,"Assorted Flower Colour ""Leis""",10.68,960,14156.0,EIRE,10252.8,"Rp 228,118,648",1,Wednesday,9,4
+565228,2019-09-02,21891,Traditional Wooden Skipping Rope,11.53,288,16333.0,United Kingdom,3320.64,"Rp 73,882,248",1,Monday,9,2
+565228,2019-09-02,21915,Red Harmonica In Box,11.34,840,16333.0,United Kingdom,9525.6,"Rp 211,938,885",1,Monday,9,2
+565240,2019-09-02,21098,Christmas Toilet Roll,11.34,252,17949.0,United Kingdom,2857.68,"Rp 63,581,665",1,Monday,9,2
+565241,2019-09-02,22197,Popcorn Holder,10.99,400,17949.0,United Kingdom,4396.0,"Rp 97,808,362",1,Monday,9,2
+565241,2019-09-02,21877,Home Sweet Home Mug,11.34,504,17949.0,United Kingdom,5715.36,"Rp 127,163,331",1,Monday,9,2
+565285,2019-09-02,71477,Coloured Glass Star T-Light Holder,13.07,288,16013.0,United Kingdom,3764.16,"Rp 83,750,302",1,Monday,9,2
+565291,2019-09-02,82484,Wood Black Board Ant White Finish,15.17,300,18102.0,United Kingdom,4551.0,"Rp 101,257,019",1,Monday,9,2
+565291,2019-09-02,82482,Wooden Picture Frame White Finish,12.22,324,18102.0,United Kingdom,3959.28,"Rp 88,091,604",1,Monday,9,2
+565291,2019-09-02,23135,Small Zinc Heart Wall Organiser,13.65,408,18102.0,United Kingdom,5569.2,"Rp 123,911,358",1,Monday,9,2
+565291,2019-09-02,22189,Cream Heart Card Holder,12.62,324,18102.0,United Kingdom,4088.8799999999997,"Rp 90,975,127",1,Monday,9,2
+565291,2019-09-02,22188,Black Heart Card Holder,12.62,324,18102.0,United Kingdom,4088.8799999999997,"Rp 90,975,127",1,Monday,9,2
+565084,2019-09-01,22616,Pack Of 12 London Tissues,10.51,432,17306.0,United Kingdom,4540.32,"Rp 101,019,396",1,Sunday,9,1
+565122,2019-09-01,84568,Girls Alphabet Iron On Patches,10.42,1440,13069.0,United Kingdom,15004.8,"Rp 333,847,797",1,Sunday,9,1
+565145,2019-09-01,22751,Feltcraft Princess Olivia Doll,13.72,240,12415.0,Australia,3292.8,"Rp 73,262,824",1,Sunday,9,1
+565145,2019-09-01,21915,Red Harmonica In Box,11.34,720,12415.0,Australia,8164.8,"Rp 181,661,901",1,Sunday,9,1
+565145,2019-09-01,22492,Mini Paint Set Vintage,10.81,1152,12415.0,Australia,12453.12,"Rp 277,074,448",1,Sunday,9,1
+565181,2019-09-01,21703,Bag 125g Swirly Marbles,10.68,480,17381.0,United Kingdom,5126.4,"Rp 114,059,324",1,Sunday,9,1
+565213,2019-09-01,22952,60 Cake Cases Vintage Christmas,10.68,360,14911.0,EIRE,3844.7999999999997,"Rp 85,544,493",1,Sunday,9,1
+565213,2019-09-01,22950,36 Doilies Vintage Christmas,11.53,432,14911.0,EIRE,4980.96,"Rp 110,823,371",1,Sunday,9,1
+565217,2019-09-01,21422,Porcelain Rose Small,10.99,288,13099.0,United Kingdom,3165.12,"Rp 70,422,021",1,Sunday,9,1
+564871,2019-08-31,21497,Fancy Fonts Birthday Wrap,10.6,1000,17949.0,United Kingdom,10600.0,"Rp 235,843,640",1,Saturday,8,31
+564897,2019-08-31,23084,Rabbit Night Light,12.08,288,12678.0,France,3479.04,"Rp 77,406,553",1,Saturday,8,31
+C564940,2019-08-31,22564,Alphabet Stencil Craft,11.34,-432,12931.0,United Kingdom,-4898.88,"Rp -108,997,141",1,Saturday,8,31
+C564940,2019-08-31,22992,Revolver Wooden Ruler,11.94,-400,12931.0,United Kingdom,-4776.0,"Rp -106,263,134",1,Saturday,8,31
+C564940,2019-08-31,22991,Giraffe Wooden Ruler,11.94,-400,12931.0,United Kingdom,-4776.0,"Rp -106,263,134",1,Saturday,8,31
+C564940,2019-08-31,22561,Wooden School Colouring Set,11.74,-252,12931.0,United Kingdom,-2958.48,"Rp -65,824,405",1,Saturday,8,31
+C564940,2019-08-31,20974,12 Pencils Small Tube Skull,10.92,-334,12931.0,United Kingdom,-3647.28,"Rp -81,149,792",1,Saturday,8,31
+C565044,2019-08-31,22191,Ivory Diner Wall Clock,18.09,-318,12931.0,United Kingdom,-5752.62,"Rp -127,992,343",1,Saturday,8,31
+564561,2019-08-26,23431,Natural Hanging Quilted Hearts,10.99,576,13340.0,United Kingdom,6330.24,"Rp 140,844,042",1,Monday,8,26
+564583,2019-08-26,22197,Popcorn Holder,10.99,600,17949.0,United Kingdom,6594.0,"Rp 146,712,544",1,Monday,8,26
+564629,2019-08-26,21192,White Bell Honeycomb Paper,11.74,288,14866.0,United Kingdom,3381.12,"Rp 75,227,891",1,Monday,8,26
+564650,2019-08-26,22629,Spaceboy Lunch Box,11.94,448,14646.0,Netherlands,5349.12,"Rp 119,014,711",1,Monday,8,26
+564650,2019-08-26,22630,Dolly Girl Lunch Box,11.94,448,14646.0,Netherlands,5349.12,"Rp 119,014,711",1,Monday,8,26
+564650,2019-08-26,35961,Folkart Zinc Heart Christmas Dec,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Monday,8,26
+564652,2019-08-26,23084,Rabbit Night Light,12.38,480,14646.0,Netherlands,5942.400000000001,"Rp 132,214,835",1,Monday,8,26
+564219,2019-08-24,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Saturday,8,24
+564225,2019-08-24,23086,Zinc Star T-Light Holder,11.32,288,17268.0,United Kingdom,3260.16,"Rp 72,536,604",1,Saturday,8,24
+564272,2019-08-24,16014,Small Chinese Style Scissor,10.58,2000,16308.0,United Kingdom,21160.0,"Rp 470,797,304",1,Saturday,8,24
+564312,2019-08-24,22835,Hot Water Bottle I Am So Poorly,14.61,312,15769.0,United Kingdom,4558.32,"Rp 101,419,885",1,Saturday,8,24
+564322,2019-08-24,20992,Jazz Hearts Purse Notebook,10.65,288,13694.0,United Kingdom,3067.2000000000003,"Rp 68,243,360",1,Saturday,8,24
+564132,2019-08-23,22988,Soldiers Egg Cup,11.34,360,12901.0,United Kingdom,4082.4,"Rp 90,830,951",1,Friday,8,23
+564132,2019-08-23,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,600,12901.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,8,23
+564164,2019-08-23,22616,Pack Of 12 London Tissues,10.51,300,17940.0,United Kingdom,3153.0,"Rp 70,152,358",1,Friday,8,23
+C564081,2019-08-22,22423,Regency Cakestand 3 Tier,21.47,-150,17949.0,United Kingdom,-3220.5,"Rp -71,654,193",1,Thursday,8,22
+564046,2019-08-22,85123A,Cream Hanging Heart T-Light Holder,12.86,400,16013.0,United Kingdom,5144.0,"Rp 114,450,914",1,Thursday,8,22
+564054,2019-08-22,22030,Swallows Greeting Card,10.62,408,17857.0,United Kingdom,4332.96,"Rp 96,405,760",1,Thursday,8,22
+564054,2019-08-22,22727,Alarm Clock Bakelike Red,13.72,400,17857.0,United Kingdom,5488.0,"Rp 122,104,707",1,Thursday,8,22
+564054,2019-08-22,22728,Alarm Clock Bakelike Pink,13.72,400,17857.0,United Kingdom,5488.0,"Rp 122,104,707",1,Thursday,8,22
+563908,2019-08-21,22151,Place Setting White Heart,10.62,432,18109.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Wednesday,8,21
+563614,2019-08-18,22940,Feltcraft Christmas Fairy,14.09,336,12415.0,Australia,4734.24,"Rp 105,333,999",1,Sunday,8,18
+563614,2019-08-18,23328,Set 6 School Milk Bottles In Crate,13.72,240,12415.0,Australia,3292.8,"Rp 73,262,824",1,Sunday,8,18
+563614,2019-08-18,22492,Mini Paint Set Vintage,10.81,576,12415.0,Australia,6226.56,"Rp 138,537,224",1,Sunday,8,18
+563614,2019-08-18,22630,Dolly Girl Lunch Box,11.94,256,12415.0,Australia,3056.64,"Rp 68,008,406",1,Sunday,8,18
+563614,2019-08-18,22629,Spaceboy Lunch Box,11.94,256,12415.0,Australia,3056.64,"Rp 68,008,406",1,Sunday,8,18
+563614,2019-08-18,21731,Red Toadstool Led Night Light,11.74,432,12415.0,Australia,5071.68,"Rp 112,841,837",1,Sunday,8,18
+563614,2019-08-18,22950,36 Doilies Vintage Christmas,11.53,288,12415.0,Australia,3320.64,"Rp 73,882,248",1,Sunday,8,18
+563614,2019-08-18,22909,Set Of 20 Vintage Christmas Napkins,10.99,288,12415.0,Australia,3165.12,"Rp 70,422,021",1,Sunday,8,18
+563616,2019-08-18,84991,60 Teatime Fairy Cake Cases,10.66,480,13027.0,United Kingdom,5116.8,"Rp 113,845,730",1,Sunday,8,18
+563616,2019-08-18,21977,Pack Of 60 Pink Paisley Cake Cases,10.66,720,13027.0,United Kingdom,7675.2,"Rp 170,768,595",1,Sunday,8,18
+563616,2019-08-18,21975,Pack Of 60 Dinosaur Cake Cases,10.66,720,13027.0,United Kingdom,7675.2,"Rp 170,768,595",1,Sunday,8,18
+563616,2019-08-18,21213,Pack Of 72 Skull Cake Cases,10.66,720,13027.0,United Kingdom,7675.2,"Rp 170,768,595",1,Sunday,8,18
+563616,2019-08-18,21212,Pack Of 72 Retrospot Cake Cases,10.66,1200,13027.0,United Kingdom,12792.0,"Rp 284,614,325",1,Sunday,8,18
+563684,2019-08-18,85106,Cut Glass Hexagon T-Light Holder,11.98,504,17386.0,United Kingdom,6037.92,"Rp 134,340,097",1,Sunday,8,18
+563561,2019-08-17,84946,Antique Silver T-Light Glass,11.34,288,18073.0,United Kingdom,3265.92,"Rp 72,664,760",1,Saturday,8,17
+563563,2019-08-17,20969,Red Floral Feltcraft Shoulder Bag,13.72,288,16029.0,United Kingdom,3951.36,"Rp 87,915,389",1,Saturday,8,17
+563563,2019-08-17,22149,Feltcraft 6 Flower Friends,12.15,400,16029.0,United Kingdom,4860.0,"Rp 108,132,084",1,Saturday,8,17
+563563,2019-08-17,20971,Pink Blue Felt Craft Trinket Box,11.34,576,16029.0,United Kingdom,6531.84,"Rp 145,329,521",1,Saturday,8,17
+563563,2019-08-17,22147,Feltcraft Butterfly Hearts,11.53,400,16029.0,United Kingdom,4612.0,"Rp 102,614,233",1,Saturday,8,17
+563563,2019-08-17,22568,Feltcraft Cushion Owl,13.72,240,16029.0,United Kingdom,3292.8,"Rp 73,262,824",1,Saturday,8,17
+563563,2019-08-17,22569,Feltcraft Cushion Butterfly,14.09,240,16029.0,United Kingdom,3381.6,"Rp 75,238,571",1,Saturday,8,17
+563563,2019-08-17,22570,Feltcraft Cushion Rabbit,13.72,240,16029.0,United Kingdom,3292.8,"Rp 73,262,824",1,Saturday,8,17
+563563,2019-08-17,22273,Feltcraft Doll Molly,12.86,480,16029.0,United Kingdom,6172.799999999999,"Rp 137,341,096",1,Saturday,8,17
+563575,2019-08-17,21875,Kings Choice Mug,11.34,576,17949.0,United Kingdom,6531.84,"Rp 145,329,521",1,Saturday,8,17
+563575,2019-08-17,21069,Vintage Billboard Tea Mug,11.34,684,17949.0,United Kingdom,7756.5599999999995,"Rp 172,578,806",1,Saturday,8,17
+563575,2019-08-17,21871,Save The Planet Mug,11.34,824,17949.0,United Kingdom,9344.16,"Rp 207,901,954",1,Saturday,8,17
+563588,2019-08-17,23298,Spotty Bunting,14.5,196,17450.0,United Kingdom,2842.0,"Rp 63,232,795",1,Saturday,8,17
+563590,2019-08-17,22117,Metal Sign Her Dinner Is Served,13.53,248,17450.0,United Kingdom,3355.44,"Rp 74,656,527",1,Saturday,8,17
+563590,2019-08-17,23286,Blue Vintage Spot Beaker,11.36,410,17450.0,United Kingdom,4657.599999999999,"Rp 103,628,805",1,Saturday,8,17
+563590,2019-08-17,23288,Green Vintage Spot Beaker,11.36,500,17450.0,United Kingdom,5680.0,"Rp 126,376,592",1,Saturday,8,17
+563590,2019-08-17,23285,Pink Vintage Spot Beaker,11.36,500,17450.0,United Kingdom,5680.0,"Rp 126,376,592",1,Saturday,8,17
+563590,2019-08-17,22989,Set 2 Pantry Design Tea Towels,13.61,360,17450.0,United Kingdom,4899.599999999999,"Rp 109,013,160",1,Saturday,8,17
+563590,2019-08-17,22728,Alarm Clock Bakelike Pink,14.43,222,17450.0,United Kingdom,3203.46,"Rp 71,275,063",1,Saturday,8,17
+563590,2019-08-17,22730,Alarm Clock Bakelike Ivory,14.43,250,17450.0,United Kingdom,3607.5,"Rp 80,264,710",1,Saturday,8,17
+563590,2019-08-17,22969,Homemade Jam Scented Candles,11.99,696,17450.0,United Kingdom,8345.04,"Rp 185,672,133",1,Saturday,8,17
+563590,2019-08-17,22960,Jam Making Set With Jars,14.96,230,17450.0,United Kingdom,3440.8,"Rp 76,555,736",1,Saturday,8,17
+563590,2019-08-17,22722,Set Of 6 Spice Tins Pantry Design,14.61,210,17450.0,United Kingdom,3068.1,"Rp 68,263,384",1,Saturday,8,17
+563590,2019-08-17,23243,Set Of Tea Coffee Sugar Tins Pantry,15.53,352,17450.0,United Kingdom,5466.5599999999995,"Rp 121,627,680",1,Saturday,8,17
+C563577,2019-08-17,21877,Home Sweet Home Mug,11.34,-828,17949.0,United Kingdom,-9389.52,"Rp -208,911,186",1,Saturday,8,17
+C563577,2019-08-17,21871,Save The Planet Mug,11.34,-576,17949.0,United Kingdom,-6531.84,"Rp -145,329,521",1,Saturday,8,17
+C563577,2019-08-17,21069,Vintage Billboard Tea Mug,11.34,-701,17949.0,United Kingdom,-7949.34,"Rp -176,868,045",1,Saturday,8,17
+563411,2019-08-16,84212,"Assorted Flower Colour ""Leis""",10.68,480,16927.0,United Kingdom,5126.4,"Rp 114,059,324",1,Friday,8,16
+563166,2019-08-12,79000,Moroccan Tea Glass,10.92,600,18092.0,United Kingdom,6552.0,"Rp 145,778,069",1,Monday,8,12
+563173,2019-08-12,22659,Lunch Box I Love London,11.94,320,17381.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Monday,8,12
+563179,2019-08-12,21731,Red Toadstool Led Night Light,11.74,288,12431.0,Australia,3381.12,"Rp 75,227,891",1,Monday,8,12
+563038,2019-08-11,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Sunday,8,11
+563038,2019-08-11,84508A,Camouflage Design Teddy,12.4,240,16656.0,United Kingdom,2976.0,"Rp 66,214,214",1,Sunday,8,11
+563074,2019-08-11,20974,12 Pencils Small Tube Skull,10.81,480,12931.0,United Kingdom,5188.8,"Rp 115,447,687",1,Sunday,8,11
+563074,2019-08-11,22564,Alphabet Stencil Craft,11.34,432,12931.0,United Kingdom,4898.88,"Rp 108,997,141",1,Sunday,8,11
+563074,2019-08-11,22992,Revolver Wooden Ruler,11.94,432,12931.0,United Kingdom,5158.08,"Rp 114,764,185",1,Sunday,8,11
+563074,2019-08-11,22991,Giraffe Wooden Ruler,11.94,432,12931.0,United Kingdom,5158.08,"Rp 114,764,185",1,Sunday,8,11
+563074,2019-08-11,22493,Paint Your Own Canvas Set,11.74,360,12931.0,United Kingdom,4226.4,"Rp 94,034,864",1,Sunday,8,11
+563074,2019-08-11,22561,Wooden School Colouring Set,11.74,360,12931.0,United Kingdom,4226.4,"Rp 94,034,864",1,Sunday,8,11
+563074,2019-08-11,22197,Popcorn Holder,10.99,600,12931.0,United Kingdom,6594.0,"Rp 146,712,544",1,Sunday,8,11
+563074,2019-08-11,84879,Assorted Colour Bird Ornament,11.74,968,12931.0,United Kingdom,11364.32,"Rp 252,849,301",1,Sunday,8,11
+563076,2019-08-11,23268,Set Of 2 Ceramic Christmas Reindeer,11.53,384,14646.0,Netherlands,4427.5199999999995,"Rp 98,509,663",1,Sunday,8,11
+563076,2019-08-11,21731,Red Toadstool Led Night Light,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Sunday,8,11
+563076,2019-08-11,22326,Round Snack Boxes Set Of4 Woodland,12.86,240,14646.0,Netherlands,3086.3999999999996,"Rp 68,670,548",1,Sunday,8,11
+563076,2019-08-11,22418,10 Colour Spaceboy Pen,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Sunday,8,11
+563076,2019-08-11,22629,Spaceboy Lunch Box,11.94,320,14646.0,Netherlands,3820.7999999999997,"Rp 85,010,508",1,Sunday,8,11
+563076,2019-08-11,22630,Dolly Girl Lunch Box,11.94,320,14646.0,Netherlands,3820.7999999999997,"Rp 85,010,508",1,Sunday,8,11
+563076,2019-08-11,21124,Set/10 Blue Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Sunday,8,11
+563076,2019-08-11,21122,Set/10 Pink Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Sunday,8,11
+563076,2019-08-11,22337,Angel Decoration Painted Zinc,10.81,288,14646.0,Netherlands,3113.28,"Rp 69,268,612",1,Sunday,8,11
+563076,2019-08-11,22336,Dove Decoration Painted Zinc,10.81,288,14646.0,Netherlands,3113.28,"Rp 69,268,612",1,Sunday,8,11
+563076,2019-08-11,22158,3 Hearts Hanging Decoration Rustic,12.86,256,14646.0,Netherlands,3292.16,"Rp 73,248,585",1,Sunday,8,11
+563076,2019-08-11,22335,Heart Decoration Painted Zinc,10.81,288,14646.0,Netherlands,3113.28,"Rp 69,268,612",1,Sunday,8,11
+562880,2019-08-10,23138,Single Wire Hook Ivory Heart,11.53,250,15838.0,United Kingdom,2882.5,"Rp 64,133,896",1,Saturday,8,10
+562880,2019-08-10,23139,Single Wire Hook Pink Heart,11.53,250,15838.0,United Kingdom,2882.5,"Rp 64,133,896",1,Saturday,8,10
+562917,2019-08-10,22197,Popcorn Holder,10.99,600,17949.0,United Kingdom,6594.0,"Rp 146,712,544",1,Saturday,8,10
+562789,2019-08-09,22326,Round Snack Boxes Set Of4 Woodland,12.86,240,14646.0,Netherlands,3086.3999999999996,"Rp 68,670,548",1,Friday,8,9
+562789,2019-08-09,23240,Set Of 4 Knick Knack Tins Doily,14.09,240,14646.0,Netherlands,3381.6,"Rp 75,238,571",1,Friday,8,9
+562608,2019-08-08,75049L,Large Circular Mirror Mobile,11.12,384,15502.0,United Kingdom,4270.08,"Rp 95,006,718",1,Thursday,8,8
+562610,2019-08-08,21891,Traditional Wooden Skipping Rope,11.53,432,16333.0,United Kingdom,4980.96,"Rp 110,823,371",1,Thursday,8,8
+562610,2019-08-08,21915,Red Harmonica In Box,11.34,700,16333.0,United Kingdom,7938.0,"Rp 176,615,737",1,Thursday,8,8
+562583,2019-08-07,16008,Small Folding Scissor(Pointed Edge),10.37,288,15831.0,United Kingdom,2986.56,"Rp 66,449,168",1,Wednesday,8,7
+562458,2019-08-05,22961,Jam Making Set Printed,11.53,384,16029.0,United Kingdom,4427.5199999999995,"Rp 98,509,663",1,Monday,8,5
+562277,2019-08-04,22151,Place Setting White Heart,10.62,432,17315.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Sunday,8,4
+562285,2019-08-04,15036,Assorted Colours Silk Fan,10.99,720,17404.0,Sweden,7912.8,"Rp 176,055,052",1,Sunday,8,4
+562343,2019-08-04,22616,Pack Of 12 London Tissues,10.55,1008,17381.0,United Kingdom,10634.400000000001,"Rp 236,609,019",1,Sunday,8,4
+562344,2019-08-04,16219,House Shape Pencil Sharpener,10.47,720,17381.0,United Kingdom,7538.400000000001,"Rp 167,724,877",1,Sunday,8,4
+562374,2019-08-04,23157,Set Of 6 Nativity Magnets,12.15,240,14911.0,EIRE,2916.0,"Rp 64,879,250",1,Sunday,8,4
+562374,2019-08-04,22950,36 Doilies Vintage Christmas,11.53,288,14911.0,EIRE,3320.64,"Rp 73,882,248",1,Sunday,8,4
+562430,2019-08-04,22151,Place Setting White Heart,10.62,432,18109.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Sunday,8,4
+562439,2019-08-04,20972,Pink Cream Felt Craft Trinket Box,11.34,288,12931.0,United Kingdom,3265.92,"Rp 72,664,760",1,Sunday,8,4
+562439,2019-08-04,11001,Asstd Design Racing Car Pen,11.55,384,12931.0,United Kingdom,4435.200000000001,"Rp 98,680,539",1,Sunday,8,4
+562439,2019-08-04,21791,Vintage Heads And Tails Card Game,11.34,288,12931.0,United Kingdom,3265.92,"Rp 72,664,760",1,Sunday,8,4
+562439,2019-08-04,20829,Glitter Hanging Butterfly String,11.98,270,12931.0,United Kingdom,3234.6,"Rp 71,967,909",1,Sunday,8,4
+562439,2019-08-04,20974,12 Pencils Small Tube Skull,10.81,480,12931.0,United Kingdom,5188.8,"Rp 115,447,687",1,Sunday,8,4
+562439,2019-08-04,22564,Alphabet Stencil Craft,11.34,432,12931.0,United Kingdom,4898.88,"Rp 108,997,141",1,Sunday,8,4
+562439,2019-08-04,22992,Revolver Wooden Ruler,11.94,432,12931.0,United Kingdom,5158.08,"Rp 114,764,185",1,Sunday,8,4
+562439,2019-08-04,22991,Giraffe Wooden Ruler,11.94,432,12931.0,United Kingdom,5158.08,"Rp 114,764,185",1,Sunday,8,4
+562439,2019-08-04,22493,Paint Your Own Canvas Set,11.74,360,12931.0,United Kingdom,4226.4,"Rp 94,034,864",1,Sunday,8,4
+562439,2019-08-04,22561,Wooden School Colouring Set,11.74,360,12931.0,United Kingdom,4226.4,"Rp 94,034,864",1,Sunday,8,4
+562439,2019-08-04,22191,Ivory Diner Wall Clock,18.09,348,12931.0,United Kingdom,6295.32,"Rp 140,067,093",1,Sunday,8,4
+562439,2019-08-04,23215,Jingle Bell Heart Antique Silver,12.08,576,12931.0,United Kingdom,6958.08,"Rp 154,813,105",1,Sunday,8,4
+562439,2019-08-04,21430,Set/3 Red Gingham Rose Storage Box,13.72,360,12931.0,United Kingdom,4939.2,"Rp 109,894,236",1,Sunday,8,4
+562439,2019-08-04,22197,Popcorn Holder,10.99,1900,12931.0,United Kingdom,20881.0,"Rp 464,589,721",1,Sunday,8,4
+562439,2019-08-04,21731,Red Toadstool Led Night Light,11.74,576,12931.0,United Kingdom,6762.24,"Rp 150,455,783",1,Sunday,8,4
+562439,2019-08-04,84879,Assorted Colour Bird Ornament,11.74,2880,12931.0,United Kingdom,33811.2,"Rp 752,278,913",1,Sunday,8,4
+C562375,2019-08-04,23157,Set Of 6 Nativity Magnets,12.15,-240,14911.0,EIRE,-2916.0,"Rp -64,879,250",1,Sunday,8,4
+C562375,2019-08-04,22952,60 Cake Cases Vintage Christmas,10.68,-240,14911.0,EIRE,-2563.2,"Rp -57,029,662",1,Sunday,8,4
+C562375,2019-08-04,22950,36 Doilies Vintage Christmas,11.53,-288,14911.0,EIRE,-3320.64,"Rp -73,882,248",1,Sunday,8,4
+C562375,2019-08-04,22910,Paper Chain Kit Vintage Christmas,12.86,-200,14911.0,EIRE,-2572.0,"Rp -57,225,457",1,Sunday,8,4
+562222,2019-08-03,84946,Antique Silver T-Light Glass,11.34,288,18073.0,United Kingdom,3265.92,"Rp 72,664,760",1,Saturday,8,3
+562224,2019-08-03,22616,Pack Of 12 London Tissues,10.51,432,17306.0,United Kingdom,4540.32,"Rp 101,019,396",1,Saturday,8,3
+C562221,2019-08-03,22151,Place Setting White Heart,10.62,-432,16525.0,United Kingdom,-4587.839999999999,"Rp -102,076,687",1,Saturday,8,3
+562040,2019-08-02,62018,Sombrero,11.53,1000,17553.0,United Kingdom,11530.0,"Rp 256,535,582",1,Friday,8,2
+562046,2019-08-02,84568,Girls Alphabet Iron On Patches,10.47,288,12378.0,Switzerland,3015.36,"Rp 67,089,951",1,Friday,8,2
+562053,2019-08-02,20668,Disco Ball Christmas Decoration,10.35,576,16701.0,United Kingdom,5961.599999999999,"Rp 132,642,023",1,Friday,8,2
+562018,2019-08-01,21791,Vintage Heads And Tails Card Game,11.34,360,17282.0,United Kingdom,4082.4,"Rp 90,830,951",1,Thursday,8,1
+561873,2019-07-31,84568,Girls Alphabet Iron On Patches,10.42,1440,13316.0,United Kingdom,15004.8,"Rp 333,847,797",1,Wednesday,7,31
+561901,2019-07-31,84378,Set Of 3 Heart Cookie Cutters,11.53,288,14156.0,EIRE,3320.64,"Rp 73,882,248",1,Wednesday,7,31
+561901,2019-07-31,22667,Recipe Box Retrospot,12.86,408,14156.0,EIRE,5246.88,"Rp 116,739,932",1,Wednesday,7,31
+561901,2019-07-31,20914,Set/5 Red Retrospot Lid Glass Bowls,13.27,320,14156.0,EIRE,4246.4,"Rp 94,479,852",1,Wednesday,7,31
+561901,2019-07-31,21212,Pack Of 72 Retrospot Cake Cases,10.81,360,14156.0,EIRE,3891.6000000000004,"Rp 86,585,765",1,Wednesday,7,31
+561901,2019-07-31,23166,Medium Ceramic Top Storage Jar,11.53,288,14156.0,EIRE,3320.64,"Rp 73,882,248",1,Wednesday,7,31
+561901,2019-07-31,23186,French Style Storage Jar Cafe,11.32,288,14156.0,EIRE,3260.16,"Rp 72,536,604",1,Wednesday,7,31
+561901,2019-07-31,22666,Recipe Box Pantry Yellow Design,13.27,408,14156.0,EIRE,5414.16,"Rp 120,461,812",1,Wednesday,7,31
+561901,2019-07-31,22960,Jam Making Set With Jars,14.61,204,14156.0,EIRE,2980.44,"Rp 66,313,002",1,Wednesday,7,31
+561901,2019-07-31,22961,Jam Making Set Printed,11.74,288,14156.0,EIRE,3381.12,"Rp 75,227,891",1,Wednesday,7,31
+561901,2019-07-31,22413,Metal Sign Take It Or Leave It,13.27,240,14156.0,EIRE,3184.7999999999997,"Rp 70,859,889",1,Wednesday,7,31
+561901,2019-07-31,22950,36 Doilies Vintage Christmas,11.74,288,14156.0,EIRE,3381.12,"Rp 75,227,891",1,Wednesday,7,31
+561901,2019-07-31,22584,Pack Of 6 Panettone Gift Boxes,12.86,288,14156.0,EIRE,3703.68,"Rp 82,404,658",1,Wednesday,7,31
+561901,2019-07-31,22582,Pack Of 6 Sweetie Gift Boxes,12.86,288,14156.0,EIRE,3703.68,"Rp 82,404,658",1,Wednesday,7,31
+561901,2019-07-31,22151,Place Setting White Heart,10.68,432,14156.0,EIRE,4613.76,"Rp 102,653,392",1,Wednesday,7,31
+561901,2019-07-31,23131,Mistletoe Heart Wreath Cream,14.5,240,14156.0,EIRE,3480.0,"Rp 77,427,912",1,Wednesday,7,31
+561902,2019-07-31,23297,Set 40 Heart Shape Petit Four Cases,11.94,240,17404.0,Sweden,2865.6,"Rp 63,757,881",1,Wednesday,7,31
+561901,2019-07-31,21843,Red Retrospot Cake Stand,21.47,216,14156.0,EIRE,4637.5199999999995,"Rp 103,182,037",1,Wednesday,7,31
+561809,2019-07-29,15036,Assorted Colours Silk Fan,10.99,600,16684.0,United Kingdom,6594.0,"Rp 146,712,544",1,Monday,7,29
+561633,2019-07-28,23174,Regency Sugar Bowl Green,14.09,384,17949.0,United Kingdom,5410.5599999999995,"Rp 120,381,714",1,Sunday,7,28
+561633,2019-07-28,23175,Regency Milk Jug Pink,13.07,384,17949.0,United Kingdom,5018.88,"Rp 111,667,069",1,Sunday,7,28
+561633,2019-07-28,23171,Regency Tea Plate Green,11.74,384,17949.0,United Kingdom,4508.16,"Rp 100,303,855",1,Sunday,7,28
+561633,2019-07-28,23170,Regency Tea Plate Roses,11.74,384,17949.0,United Kingdom,4508.16,"Rp 100,303,855",1,Sunday,7,28
+561633,2019-07-28,23173,Regency Teapot Roses,18.6,384,17949.0,United Kingdom,7142.400000000001,"Rp 158,914,115",1,Sunday,7,28
+561633,2019-07-28,22699,Roses Regency Teacup And Saucer,12.86,261,17949.0,United Kingdom,3356.46,"Rp 74,679,221",1,Sunday,7,28
+561638,2019-07-28,84568,Girls Alphabet Iron On Patches,10.42,1440,15118.0,United Kingdom,15004.8,"Rp 333,847,797",1,Sunday,7,28
+561645,2019-07-28,22950,36 Doilies Vintage Christmas,11.53,288,14911.0,EIRE,3320.64,"Rp 73,882,248",1,Sunday,7,28
+561645,2019-07-28,23157,Set Of 6 Nativity Magnets,12.15,240,14911.0,EIRE,2916.0,"Rp 64,879,250",1,Sunday,7,28
+561655,2019-07-28,23134,Large Zinc Heart Wall Organiser,16.28,256,18102.0,United Kingdom,4167.68,"Rp 92,728,379",1,Sunday,7,28
+561655,2019-07-28,82484,Wood Black Board Ant White Finish,15.17,204,18102.0,United Kingdom,3094.68,"Rp 68,854,773",1,Sunday,7,28
+561655,2019-07-28,22171,3 Hook Photo Shelf Antique White,16.28,204,18102.0,United Kingdom,3321.1200000000003,"Rp 73,892,927",1,Sunday,7,28
+561655,2019-07-28,22189,Cream Heart Card Holder,12.62,324,18102.0,United Kingdom,4088.8799999999997,"Rp 90,975,127",1,Sunday,7,28
+561655,2019-07-28,22188,Black Heart Card Holder,12.62,324,18102.0,United Kingdom,4088.8799999999997,"Rp 90,975,127",1,Sunday,7,28
+561655,2019-07-28,23135,Small Zinc Heart Wall Organiser,13.65,300,18102.0,United Kingdom,4095.0,"Rp 91,111,293",1,Sunday,7,28
+561659,2019-07-28,21733,Red Hanging Heart T-Light Holder,13.57,352,17450.0,United Kingdom,4776.64,"Rp 106,277,374",1,Sunday,7,28
+561659,2019-07-28,85123A,Cream Hanging Heart T-Light Holder,13.57,480,17450.0,United Kingdom,6513.6,"Rp 144,923,692",1,Sunday,7,28
+561662,2019-07-28,84536B,Fairy Cakes Notebook A7 Size,10.58,272,12407.0,Belgium,2877.76,"Rp 64,028,433",1,Sunday,7,28
+561671,2019-07-28,22693,Grow A Flytrap Or Sunflower In Tin,11.13,576,12830.0,United Kingdom,6410.88,"Rp 142,638,233",1,Sunday,7,28
+561671,2019-07-28,21790,Vintage Snap Cards,10.84,288,12830.0,United Kingdom,3121.92,"Rp 69,460,847",1,Sunday,7,28
+561672,2019-07-28,21891,Traditional Wooden Skipping Rope,11.3,576,12830.0,United Kingdom,6508.8,"Rp 144,816,895",1,Sunday,7,28
+561633,2019-07-28,22423,Regency Cakestand 3 Tier,21.47,192,17949.0,United Kingdom,4122.24,"Rp 91,717,367",1,Sunday,7,28
+561397,2019-07-27,23122,Party Charms 50 Pieces,10.92,576,16532.0,United Kingdom,6289.92,"Rp 139,946,946",1,Saturday,7,27
+561397,2019-07-27,79321,Chilli Lights,15.02,480,16532.0,United Kingdom,7209.599999999999,"Rp 160,409,274",1,Saturday,7,27
+561242,2019-07-26,84212,"Assorted Flower Colour ""Leis""",10.68,960,16258.0,United Kingdom,10252.8,"Rp 228,118,648",1,Friday,7,26
+561101,2019-07-25,22740,Polkadot Pen,10.99,336,16013.0,United Kingdom,3692.64,"Rp 82,159,024",1,Thursday,7,25
+561208,2019-07-25,84077,World War 2 Gliders Asstd Designs,10.47,288,15372.0,United Kingdom,3015.36,"Rp 67,089,951",1,Thursday,7,25
+561208,2019-07-25,21918,Set 12 Kids Colour Chalk Sticks,10.62,288,15372.0,United Kingdom,3058.56,"Rp 68,051,125",1,Thursday,7,25
+561039,2019-07-24,22151,Place Setting White Heart,10.62,432,16525.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Wednesday,7,24
+561047,2019-07-24,16045,Popart Wooden Pencils Asst,10.29,900,16948.0,United Kingdom,9261.0,"Rp 206,051,693",1,Wednesday,7,24
+561051,2019-07-24,22659,Lunch Box I Love London,11.94,240,16684.0,United Kingdom,2865.6,"Rp 63,757,881",1,Wednesday,7,24
+561051,2019-07-24,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,600,16684.0,United Kingdom,6408.0,"Rp 142,574,155",1,Wednesday,7,24
+561052,2019-07-24,22988,Soldiers Egg Cup,11.34,288,16684.0,United Kingdom,3265.92,"Rp 72,664,760",1,Wednesday,7,24
+561053,2019-07-24,23309,Set Of 60 I Love London Cake Cases,10.68,360,16684.0,United Kingdom,3844.7999999999997,"Rp 85,544,493",1,Wednesday,7,24
+561053,2019-07-24,23005,Travel Card Wallet I Love London,10.62,480,16684.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Wednesday,7,24
+561055,2019-07-24,23307,Set Of 60 Pantry Design Cake Cases,10.68,480,16684.0,United Kingdom,5126.4,"Rp 114,059,324",1,Wednesday,7,24
+560826,2019-07-21,84946,Antique Silver T-Light Glass,11.34,288,18073.0,United Kingdom,3265.92,"Rp 72,664,760",1,Sunday,7,21
+560887,2019-07-21,23300,Gardeners Kneeling Pad Cup Of Tea,11.74,720,16041.0,United Kingdom,8452.8,"Rp 188,069,728",1,Sunday,7,21
+560605,2019-07-20,22616,Pack Of 12 London Tissues,10.51,432,17306.0,United Kingdom,4540.32,"Rp 101,019,396",1,Saturday,7,20
+560729,2019-07-20,23121,Pack Of 6 Cocktail Parasol Straws,10.62,288,17511.0,United Kingdom,3058.56,"Rp 68,051,125",1,Saturday,7,20
+560729,2019-07-20,23125,6pc Wood Plate Set Disposable,11.32,300,17511.0,United Kingdom,3396.0,"Rp 75,558,962",1,Saturday,7,20
+560734,2019-07-20,71477,Coloured Glass Star T-Light Holder,13.07,360,15298.0,United Kingdom,4705.2,"Rp 104,687,877",1,Saturday,7,20
+C560733,2019-07-20,71477,Coloured Glass Star T-Light Holder,13.07,-360,15298.0,United Kingdom,-4705.2,"Rp -104,687,877",1,Saturday,7,20
+C560735,2019-07-20,71477,Coloured Glass Star T-Light Holder,13.07,-360,16013.0,United Kingdom,-4705.2,"Rp -104,687,877",1,Saturday,7,20
+560445,2019-07-19,23298,Spotty Bunting,14.5,200,14156.0,EIRE,2900.0,"Rp 64,523,260",1,Friday,7,19
+560581,2019-07-19,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,600,12901.0,United Kingdom,6408.0,"Rp 142,574,155",1,Friday,7,19
+560582,2019-07-19,17096,Assorted Laquered Incense Holders,10.42,291,12875.0,United Kingdom,3032.22,"Rp 67,465,076",1,Friday,7,19
+560595,2019-07-19,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Friday,7,19
+560595,2019-07-19,84508A,Camouflage Design Teddy,12.4,240,16656.0,United Kingdom,2976.0,"Rp 66,214,214",1,Friday,7,19
+560599,2019-07-19,18007,Essential Balm 35g Tin In Envelope,10.31,3186,14609.0,United Kingdom,32847.66,"Rp 730,840,726",1,Friday,7,19
+560360,2019-07-18,22339,Christmas Tree Painted Zinc,10.81,288,12744.0,Singapore,3113.28,"Rp 69,268,612",1,Thursday,7,18
+560233,2019-07-17,84568,Girls Alphabet Iron On Patches,10.47,288,16813.0,United Kingdom,3015.36,"Rp 67,089,951",1,Wednesday,7,17
+560280,2019-07-17,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Wednesday,7,17
+560094,2019-07-14,22151,Place Setting White Heart,10.62,432,18109.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Sunday,7,14
+559919,2019-07-13,23120,Pack Of 6 Small Fruit Straws,10.62,288,12415.0,Australia,3058.56,"Rp 68,051,125",1,Saturday,7,13
+559919,2019-07-13,23121,Pack Of 6 Cocktail Parasol Straws,10.62,288,12415.0,Australia,3058.56,"Rp 68,051,125",1,Saturday,7,13
+559919,2019-07-13,23293,Set Of 12 Fairy Cake Baking Cases,10.99,384,12415.0,Australia,4220.16,"Rp 93,896,028",1,Saturday,7,13
+559919,2019-07-13,23294,Set Of 6 Snack Loaf Baking Cases,10.99,384,12415.0,Australia,4220.16,"Rp 93,896,028",1,Saturday,7,13
+559919,2019-07-13,23295,Set Of 12 Mini Loaf Baking Cases,10.99,384,12415.0,Australia,4220.16,"Rp 93,896,028",1,Saturday,7,13
+559919,2019-07-13,23296,Set Of 6 Tea Time Baking Cases,11.32,384,12415.0,Australia,4346.88,"Rp 96,715,472",1,Saturday,7,13
+559701,2019-07-12,85123A,Cream Hanging Heart T-Light Holder,12.86,512,16013.0,United Kingdom,6584.32,"Rp 146,497,169",1,Friday,7,12
+559709,2019-07-12,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Friday,7,12
+559783,2019-07-12,84568,Girls Alphabet Iron On Patches,10.47,288,13069.0,United Kingdom,3015.36,"Rp 67,089,951",1,Friday,7,12
+559637,2019-07-11,22492,Mini Paint Set Vintage,10.81,576,17381.0,United Kingdom,6226.56,"Rp 138,537,224",1,Thursday,7,11
+559637,2019-07-11,84077,World War 2 Gliders Asstd Designs,10.47,480,17381.0,United Kingdom,5025.6,"Rp 111,816,585",1,Thursday,7,11
+559637,2019-07-11,22659,Lunch Box I Love London,11.94,320,17381.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Thursday,7,11
+559203,2019-07-07,47566,Party Bunting,14.5,200,17723.0,United Kingdom,2900.0,"Rp 64,523,260",1,Sunday,7,7
+559255,2019-07-07,84992,72 Sweetheart Fairy Cake Cases,10.66,1440,13027.0,United Kingdom,15350.4,"Rp 341,537,190",1,Sunday,7,7
+559255,2019-07-07,21212,Pack Of 72 Retrospot Cake Cases,10.66,480,13027.0,United Kingdom,5116.8,"Rp 113,845,730",1,Sunday,7,7
+C559345,2019-07-07,21439,Basket Of Toadstools,11.34,-408,13984.0,United Kingdom,-4626.72,"Rp -102,941,744",1,Sunday,7,7
+559096,2019-07-06,21703,Bag 125g Swirly Marbles,10.53,864,12830.0,United Kingdom,9097.92,"Rp 202,423,261",1,Saturday,7,6
+559145,2019-07-06,23307,Set Of 60 Pantry Design Cake Cases,10.81,480,17404.0,Sweden,5188.8,"Rp 115,447,687",1,Saturday,7,6
+559145,2019-07-06,23308,Set Of 60 Vintage Leaf Cake Cases,10.81,480,17404.0,Sweden,5188.8,"Rp 115,447,687",1,Saturday,7,6
+559145,2019-07-06,22491,Pack Of 12 Coloured Pencils,11.12,288,17404.0,Sweden,3202.56,"Rp 71,255,038",1,Saturday,7,6
+559145,2019-07-06,21918,Set 12 Kids Colour Chalk Sticks,10.68,288,17404.0,Sweden,3075.84,"Rp 68,435,594",1,Saturday,7,6
+559145,2019-07-06,21917,Set 12 Kids White Chalk Sticks,10.68,288,17404.0,Sweden,3075.84,"Rp 68,435,594",1,Saturday,7,6
+559145,2019-07-06,84077,World War 2 Gliders Asstd Designs,10.55,576,17404.0,Sweden,6076.8,"Rp 135,205,154",1,Saturday,7,6
+558910,2019-07-05,72741,Grand Chocolatecandle,11.53,432,12989.0,United Kingdom,4980.96,"Rp 110,823,371",1,Friday,7,5
+559013,2019-07-05,15036,Assorted Colours Silk Fan,10.99,600,13414.0,United Kingdom,6594.0,"Rp 146,712,544",1,Friday,7,5
+559044,2019-07-05,23309,Set Of 60 I Love London Cake Cases,10.68,360,17306.0,United Kingdom,3844.7999999999997,"Rp 85,544,493",1,Friday,7,5
+559047,2019-07-05,15036,Assorted Colours Silk Fan,10.99,1200,13082.0,United Kingdom,13188.0,"Rp 293,425,087",1,Friday,7,5
+559048,2019-07-05,84991,60 Teatime Fairy Cake Cases,10.66,480,13027.0,United Kingdom,5116.8,"Rp 113,845,730",1,Friday,7,5
+559048,2019-07-05,21975,Pack Of 60 Dinosaur Cake Cases,10.66,720,13027.0,United Kingdom,7675.2,"Rp 170,768,595",1,Friday,7,5
+559048,2019-07-05,21213,Pack Of 72 Skull Cake Cases,10.66,480,13027.0,United Kingdom,5116.8,"Rp 113,845,730",1,Friday,7,5
+559050,2019-07-05,23120,Pack Of 6 Small Fruit Straws,10.62,288,13694.0,United Kingdom,3058.56,"Rp 68,051,125",1,Friday,7,5
+559050,2019-07-05,23121,Pack Of 6 Cocktail Parasol Straws,10.62,288,13694.0,United Kingdom,3058.56,"Rp 68,051,125",1,Friday,7,5
+559050,2019-07-05,23119,Pack Of 6 Large Fruit Straws,10.79,288,13694.0,United Kingdom,3107.5199999999995,"Rp 69,140,455",1,Friday,7,5
+C559031,2019-07-05,21171,Bathroom Metal Sign,10.68,-250,15985.0,United Kingdom,-2670.0,"Rp -59,405,898",1,Friday,7,5
+558777,2019-07-04,22501,Picnic Basket Wicker Large,31.56,125,12777.0,United Kingdom,3945.0,"Rp 87,773,883",1,Thursday,7,4
+558775,2019-07-04,48173C,Doormat Black Flock,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Thursday,7,4
+558775,2019-07-04,48194,Doormat Hearts,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Thursday,7,4
+558775,2019-07-04,48188,Doormat Welcome Puppies,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Thursday,7,4
+558775,2019-07-04,48187,Doormat New England,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Thursday,7,4
+558775,2019-07-04,21523,Doormat Fancy Font Home Sweet Home,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Thursday,7,4
+558775,2019-07-04,20685,Doormat Red Retrospot,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558776,2019-07-04,48173C,Doormat Black Flock,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558776,2019-07-04,48194,Doormat Hearts,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558776,2019-07-04,48188,Doormat Welcome Puppies,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558776,2019-07-04,48187,Doormat New England,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558776,2019-07-04,21523,Doormat Fancy Font Home Sweet Home,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558776,2019-07-04,20685,Doormat Red Retrospot,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,7,4
+558871,2019-07-04,84997D,Childrens Cutlery Polkadot Pink,14.09,360,12557.0,United Kingdom,5072.4,"Rp 112,857,857",1,Thursday,7,4
+558871,2019-07-04,84997C,Childrens Cutlery Polkadot Blue,14.09,360,12557.0,United Kingdom,5072.4,"Rp 112,857,857",1,Thursday,7,4
+558523,2019-06-30,21069,Vintage Billboard Tea Mug,11.34,701,17949.0,United Kingdom,7949.34,"Rp 176,868,045",1,Sunday,6,30
+558523,2019-06-30,21871,Save The Planet Mug,11.34,576,17949.0,United Kingdom,6531.84,"Rp 145,329,521",1,Sunday,6,30
+558523,2019-06-30,21877,Home Sweet Home Mug,11.34,828,17949.0,United Kingdom,9389.52,"Rp 208,911,186",1,Sunday,6,30
+558526,2019-06-30,22699,Roses Regency Teacup And Saucer,12.86,768,17949.0,United Kingdom,9876.48,"Rp 219,745,754",1,Sunday,6,30
+558526,2019-06-30,23170,Regency Tea Plate Roses,11.74,720,17949.0,United Kingdom,8452.8,"Rp 188,069,728",1,Sunday,6,30
+558526,2019-06-30,23171,Regency Tea Plate Green,11.74,768,17949.0,United Kingdom,9016.32,"Rp 200,607,710",1,Sunday,6,30
+558526,2019-06-30,23173,Regency Teapot Roses,18.6,540,17949.0,United Kingdom,10044.0,"Rp 223,472,974",1,Sunday,6,30
+558526,2019-06-30,23174,Regency Sugar Bowl Green,14.09,696,17949.0,United Kingdom,9806.64,"Rp 218,191,856",1,Sunday,6,30
+558526,2019-06-30,23175,Regency Milk Jug Pink,13.07,696,17949.0,United Kingdom,9096.72,"Rp 202,396,562",1,Sunday,6,30
+558528,2019-06-30,23171,Regency Tea Plate Green,11.74,560,17949.0,United Kingdom,6574.400000000001,"Rp 146,276,455",1,Sunday,6,30
+558554,2019-06-30,23245,Set Of 3 Regency Cake Tins,14.5,576,17949.0,United Kingdom,8352.0,"Rp 185,826,989",1,Sunday,6,30
+558612,2019-06-30,21877,Home Sweet Home Mug,11.34,252,17949.0,United Kingdom,2857.68,"Rp 63,581,665",1,Sunday,6,30
+558612,2019-06-30,21875,Kings Choice Mug,11.34,576,17949.0,United Kingdom,6531.84,"Rp 145,329,521",1,Sunday,6,30
+C558553,2019-06-30,23170,Regency Tea Plate Roses,11.74,-576,17949.0,United Kingdom,-6762.24,"Rp -150,455,783",1,Sunday,6,30
+558262,2019-06-28,21121,Set/10 Red Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Friday,6,28
+558262,2019-06-28,21385,Ivory Hanging Decoration Heart,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Friday,6,28
+558262,2019-06-28,35961,Folkart Zinc Heart Christmas Dec,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Friday,6,28
+558262,2019-06-28,23121,Pack Of 6 Cocktail Parasol Straws,10.62,288,14646.0,Netherlands,3058.56,"Rp 68,051,125",1,Friday,6,28
+558262,2019-06-28,20719,Woodland Charlotte Bag,10.99,300,14646.0,Netherlands,3297.0,"Rp 73,356,272",1,Friday,6,28
+558262,2019-06-28,23204,Charlotte Bag Apples Design,10.99,300,14646.0,Netherlands,3297.0,"Rp 73,356,272",1,Friday,6,28
+558262,2019-06-28,20724,Red Retrospot Charlotte Bag,10.99,300,14646.0,Netherlands,3297.0,"Rp 73,356,272",1,Friday,6,28
+558310,2019-06-28,22086,Paper Chain Kit 50'S Christmas,12.86,320,16671.0,United Kingdom,4115.2,"Rp 91,560,731",1,Friday,6,28
+558310,2019-06-28,85049A,Traditional Christmas Ribbons,11.34,288,16671.0,United Kingdom,3265.92,"Rp 72,664,760",1,Friday,6,28
+558333,2019-06-28,62018,Sombrero,11.53,400,13953.0,United Kingdom,4612.0,"Rp 102,614,233",1,Friday,6,28
+558352,2019-06-28,21985,Pack Of 12 Hearts Design Tissues,10.51,430,17940.0,United Kingdom,4519.3,"Rp 100,551,713",1,Friday,6,28
+558353,2019-06-28,22616,Pack Of 12 London Tissues,10.51,432,17940.0,United Kingdom,4540.32,"Rp 101,019,396",1,Friday,6,28
+558368,2019-06-28,84568,Girls Alphabet Iron On Patches,10.47,288,14329.0,United Kingdom,3015.36,"Rp 67,089,951",1,Friday,6,28
+558197,2019-06-27,84212,"Assorted Flower Colour ""Leis""",10.68,480,14298.0,United Kingdom,5126.4,"Rp 114,059,324",1,Thursday,6,27
+557670,2019-06-22,23084,Rabbit Night Light,12.08,288,12798.0,Japan,3479.04,"Rp 77,406,553",1,Saturday,6,22
+557670,2019-06-22,22491,Pack Of 12 Coloured Pencils,10.99,576,12798.0,Japan,6330.24,"Rp 140,844,042",1,Saturday,6,22
+557670,2019-06-22,22489,Pack Of 12 Traditional Crayons,10.62,432,12798.0,Japan,4587.839999999999,"Rp 102,076,687",1,Saturday,6,22
+557670,2019-06-22,21918,Set 12 Kids Colour Chalk Sticks,10.62,576,12798.0,Japan,6117.12,"Rp 136,102,250",1,Saturday,6,22
+557670,2019-06-22,85178,Victorian Sewing Kit,11.12,288,12798.0,Japan,3202.56,"Rp 71,255,038",1,Saturday,6,22
+557674,2019-06-22,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Saturday,6,22
+557674,2019-06-22,21121,Set/10 Red Polkadot Party Candles,11.34,288,16422.0,United Kingdom,3265.92,"Rp 72,664,760",1,Saturday,6,22
+557760,2019-06-22,21977,Pack Of 60 Pink Paisley Cake Cases,10.81,420,12901.0,United Kingdom,4540.2,"Rp 101,016,726",1,Saturday,6,22
+557571,2019-06-21,22693,Grow A Flytrap Or Sunflower In Tin,11.13,576,12830.0,United Kingdom,6410.88,"Rp 142,638,233",1,Friday,6,21
+557571,2019-06-21,21891,Traditional Wooden Skipping Rope,11.53,288,12830.0,United Kingdom,3320.64,"Rp 73,882,248",1,Friday,6,21
+557571,2019-06-21,21703,Bag 125g Swirly Marbles,10.53,288,12830.0,United Kingdom,3032.64,"Rp 67,474,420",1,Friday,6,21
+557571,2019-06-21,21790,Vintage Snap Cards,10.84,288,12830.0,United Kingdom,3121.92,"Rp 69,460,847",1,Friday,6,21
+557322,2019-06-20,84077,World War 2 Gliders Asstd Designs,10.47,288,17444.0,Canada,3015.36,"Rp 67,089,951",1,Thursday,6,20
+557429,2019-06-20,22030,Swallows Greeting Card,10.62,504,17857.0,United Kingdom,5352.48,"Rp 119,089,469",1,Thursday,6,20
+557466,2019-06-20,84568,Girls Alphabet Iron On Patches,10.47,288,13815.0,Germany,3015.36,"Rp 67,089,951",1,Thursday,6,20
+557509,2019-06-20,62018,Sombrero,11.53,400,15389.0,United Kingdom,4612.0,"Rp 102,614,233",1,Thursday,6,20
+C557508,2019-06-20,23167,Small Ceramic Top Storage Jar,10.96,-480,16684.0,United Kingdom,-5260.8,"Rp -117,049,644",1,Thursday,6,20
+C557508,2019-06-20,23166,Medium Ceramic Top Storage Jar,11.32,-240,16684.0,United Kingdom,-2716.8,"Rp -60,447,170",1,Thursday,6,20
+557263,2019-06-19,21122,Set/10 Pink Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Wednesday,6,19
+557287,2019-06-19,22151,Place Setting White Heart,10.62,432,18109.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Wednesday,6,19
+557133,2019-06-17,22988,Soldiers Egg Cup,11.34,288,17306.0,United Kingdom,3265.92,"Rp 72,664,760",1,Monday,6,17
+557135,2019-06-17,22616,Pack Of 12 London Tissues,10.51,864,17306.0,United Kingdom,9080.64,"Rp 202,038,792",1,Monday,6,17
+557212,2019-06-17,22988,Soldiers Egg Cup,11.34,576,12901.0,United Kingdom,6531.84,"Rp 145,329,521",1,Monday,6,17
+556961,2019-06-16,85152,Hand Over The Chocolate Sign,12.15,288,16276.0,United Kingdom,3499.2000000000003,"Rp 77,855,100",1,Sunday,6,16
+557055,2019-06-16,15036,Assorted Colours Silk Fan,11.1,300,12621.0,Germany,3330.0,"Rp 74,090,502",1,Sunday,6,16
+557092,2019-06-16,15036,Assorted Colours Silk Fan,10.99,600,12908.0,United Kingdom,6594.0,"Rp 146,712,544",1,Sunday,6,16
+557125,2019-06-16,22722,Set Of 6 Spice Tins Pantry Design,13.79,264,17450.0,United Kingdom,3640.56,"Rp 81,000,276",1,Sunday,6,16
+557125,2019-06-16,23286,Blue Vintage Spot Beaker,10.99,588,17450.0,United Kingdom,6462.12,"Rp 143,778,293",1,Sunday,6,16
+557125,2019-06-16,23285,Pink Vintage Spot Beaker,10.99,612,17450.0,United Kingdom,6725.88,"Rp 149,646,794",1,Sunday,6,16
+557125,2019-06-16,23288,Green Vintage Spot Beaker,10.99,612,17450.0,United Kingdom,6725.88,"Rp 149,646,794",1,Sunday,6,16
+557125,2019-06-16,22978,Pantry Rolling Pin,13.72,216,17450.0,United Kingdom,2963.52,"Rp 65,936,542",1,Sunday,6,16
+556817,2019-06-15,17003,Brocade Ring Purse,10.47,720,14609.0,United Kingdom,7538.400000000001,"Rp 167,724,877",1,Saturday,6,15
+556917,2019-06-15,23243,Set Of Tea Coffee Sugar Tins Pantry,14.5,240,12415.0,Australia,3480.0,"Rp 77,427,912",1,Saturday,6,15
+556917,2019-06-15,23245,Set Of 3 Regency Cake Tins,14.5,240,12415.0,Australia,3480.0,"Rp 77,427,912",1,Saturday,6,15
+556917,2019-06-15,23084,Rabbit Night Light,12.08,240,12415.0,Australia,2899.2,"Rp 64,505,460",1,Saturday,6,15
+556917,2019-06-15,21918,Set 12 Kids Colour Chalk Sticks,10.68,288,12415.0,Australia,3075.84,"Rp 68,435,594",1,Saturday,6,15
+556917,2019-06-15,22492,Mini Paint Set Vintage,10.81,576,12415.0,Australia,6226.56,"Rp 138,537,224",1,Saturday,6,15
+556917,2019-06-15,21121,Set/10 Red Polkadot Party Candles,11.34,288,12415.0,Australia,3265.92,"Rp 72,664,760",1,Saturday,6,15
+556917,2019-06-15,16161P,Wrap English Rose,10.6,400,12415.0,Australia,4240.0,"Rp 94,337,456",1,Saturday,6,15
+556917,2019-06-15,22704,Wrap Red Apples,10.6,400,12415.0,Australia,4240.0,"Rp 94,337,456",1,Saturday,6,15
+556927,2019-06-15,21166,Cook With Wine Metal Sign,12.15,240,14156.0,EIRE,2916.0,"Rp 64,879,250",1,Saturday,6,15
+C556925,2019-06-15,71477,Coloured Glass Star T-Light Holder,13.07,-420,16013.0,United Kingdom,-5489.400000000001,"Rp -122,135,856",1,Saturday,6,15
+556718,2019-06-14,71477,Coloured Glass Star T-Light Holder,13.07,660,16013.0,United Kingdom,8626.2,"Rp 191,927,774",1,Friday,6,14
+556726,2019-06-14,82484,Wood Black Board Ant White Finish,15.17,204,18102.0,United Kingdom,3094.68,"Rp 68,854,773",1,Friday,6,14
+556726,2019-06-14,23135,Small Zinc Heart Wall Organiser,13.65,300,18102.0,United Kingdom,4095.0,"Rp 91,111,293",1,Friday,6,14
+556726,2019-06-14,23134,Large Zinc Heart Wall Organiser,16.28,304,18102.0,United Kingdom,4949.120000000001,"Rp 110,114,951",1,Friday,6,14
+556726,2019-06-14,22189,Cream Heart Card Holder,12.62,324,18102.0,United Kingdom,4088.8799999999997,"Rp 90,975,127",1,Friday,6,14
+556726,2019-06-14,22188,Black Heart Card Holder,12.62,324,18102.0,United Kingdom,4088.8799999999997,"Rp 90,975,127",1,Friday,6,14
+556726,2019-06-14,22171,3 Hook Photo Shelf Antique White,16.28,204,18102.0,United Kingdom,3321.1200000000003,"Rp 73,892,927",1,Friday,6,14
+556726,2019-06-14,21623,Vintage Union Jack Memoboard,16.81,204,18102.0,United Kingdom,3429.24,"Rp 76,298,532",1,Friday,6,14
+556725,2019-06-14,22783,Set 3 Wicker Oval Baskets W Lids,23.04,200,18102.0,United Kingdom,4608.0,"Rp 102,525,235",1,Friday,6,14
+556505,2019-06-13,22616,Pack Of 12 London Tissues,10.55,504,17381.0,United Kingdom,5317.200000000001,"Rp 118,304,510",1,Thursday,6,13
+556574,2019-06-13,21137,Black Record Cover Frame,13.72,360,16209.0,United Kingdom,4939.2,"Rp 109,894,236",1,Thursday,6,13
+C556522,2019-06-13,22920,Herb Marker Basil,10.81,-1515,16938.0,United Kingdom,-16377.150000000001,"Rp -364,381,761",1,Thursday,6,13
+556463,2019-06-12,22610,Pens Assorted Funny Face,10.44,360,12583.0,France,3758.3999999999996,"Rp 83,622,145",1,Wednesday,6,12
+556475,2019-06-12,22151,Place Setting White Heart,10.62,432,18109.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Wednesday,6,12
+556478,2019-06-12,84568,Girls Alphabet Iron On Patches,10.47,288,13069.0,United Kingdom,3015.36,"Rp 67,089,951",1,Wednesday,6,12
+556484,2019-06-12,22920,Herb Marker Basil,10.81,1515,16938.0,United Kingdom,16377.150000000001,"Rp 364,381,761",1,Wednesday,6,12
+556255,2019-06-09,48138,Doormat Union Flag,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,48173C,Doormat Black Flock,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,48188,Doormat Welcome Puppies,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,22690,Doormat Home Sweet Home Blue,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,21523,Doormat Fancy Font Home Sweet Home,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,48185,Doormat Fairy Cake,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,21955,Doormat Union Jack Guns And Roses,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,48116,Doormat Multicolour Stripe,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,48194,Doormat Hearts,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,48187,Doormat New England,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,20685,Doormat Red Retrospot,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556255,2019-06-09,23284,Doormat Keep Calm And Come In,14.94,300,18102.0,United Kingdom,4482.0,"Rp 99,721,811",1,Sunday,6,9
+556267,2019-06-09,16216,Letter Shape Pencil Sharpener,10.31,1600,13694.0,United Kingdom,16496.0,"Rp 367,026,102",1,Sunday,6,9
+556267,2019-06-09,16052,Teatime Push Down Rubber,10.44,323,13694.0,United Kingdom,3372.12,"Rp 75,027,647",1,Sunday,6,9
+556267,2019-06-09,16218,Cartoon Pencil Sharpeners,10.31,400,13694.0,United Kingdom,4124.0,"Rp 91,756,526",1,Sunday,6,9
+556267,2019-06-09,16045,Popart Wooden Pencils Asst,10.29,500,13694.0,United Kingdom,5145.0,"Rp 114,473,163",1,Sunday,6,9
+556267,2019-06-09,21634,Assorted Mini Madras Notebook,10.65,288,13694.0,United Kingdom,3067.2000000000003,"Rp 68,243,360",1,Sunday,6,9
+556267,2019-06-09,22161,Heart Decoration Rustic Hanging,10.44,384,13694.0,United Kingdom,4008.96,"Rp 89,196,955",1,Sunday,6,9
+556267,2019-06-09,22608,Pens Assorted Funky Jeweled,10.44,720,13694.0,United Kingdom,7516.799999999999,"Rp 167,244,290",1,Sunday,6,9
+556267,2019-06-09,35923,Candy Heart Hanging Decoration,10.65,288,13694.0,United Kingdom,3067.2000000000003,"Rp 68,243,360",1,Sunday,6,9
+556267,2019-06-09,84422,Pink/Blue Disc/Mirror String,10.65,480,13694.0,United Kingdom,5112.0,"Rp 113,738,933",1,Sunday,6,9
+556267,2019-06-09,85212,Mini Painted Garden Decoration,10.55,504,13694.0,United Kingdom,5317.200000000001,"Rp 118,304,510",1,Sunday,6,9
+556267,2019-06-09,85204,Hanging Wood And Felt Flower,10.37,480,13694.0,United Kingdom,4977.599999999999,"Rp 110,748,613",1,Sunday,6,9
+556267,2019-06-09,85213,Mini Zinc Garden Decorations,10.55,480,13694.0,United Kingdom,5064.0,"Rp 112,670,962",1,Sunday,6,9
+556267,2019-06-09,15036,Assorted Colours Silk Fan,10.99,600,13694.0,United Kingdom,6594.0,"Rp 146,712,544",1,Sunday,6,9
+556267,2019-06-09,15034,Paper Pocket Traveling Fan,10.32,1200,13694.0,United Kingdom,12384.0,"Rp 275,536,570",1,Sunday,6,9
+555979,2019-06-08,84212,"Assorted Flower Colour ""Leis""",10.68,480,15039.0,United Kingdom,5126.4,"Rp 114,059,324",1,Saturday,6,8
+556010,2019-06-08,17003,Brocade Ring Purse,10.51,720,17414.0,United Kingdom,7567.2,"Rp 168,365,660",1,Saturday,6,8
+556010,2019-06-08,15036,Assorted Colours Silk Fan,10.92,600,17414.0,United Kingdom,6552.0,"Rp 145,778,069",1,Saturday,6,8
+555920,2019-06-07,48138,Doormat Union Flag,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,48173C,Doormat Black Flock,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,48188,Doormat Welcome Puppies,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,22690,Doormat Home Sweet Home Blue,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,21523,Doormat Fancy Font Home Sweet Home,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,48185,Doormat Fairy Cake,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,21955,Doormat Union Jack Guns And Roses,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,48194,Doormat Hearts,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,48187,Doormat New England,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,20685,Doormat Red Retrospot,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555920,2019-06-07,23284,Doormat Keep Calm And Come In,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Friday,6,7
+555512,2019-06-05,22178,Victorian Glass Hanging T-Light,11.34,288,18198.0,United Kingdom,3265.92,"Rp 72,664,760",1,Wednesday,6,5
+555478,2019-06-03,21137,Black Record Cover Frame,13.72,336,13777.0,United Kingdom,4609.92,"Rp 102,567,954",1,Monday,6,3
+555489,2019-06-03,22197,Popcorn Holder,10.99,360,17949.0,United Kingdom,3956.4,"Rp 88,027,526",1,Monday,6,3
+555382,2019-06-02,85123A,Cream Hanging Heart T-Light Holder,12.86,320,17133.0,United Kingdom,4115.2,"Rp 91,560,731",1,Sunday,6,2
+555164,2019-06-01,22326,Round Snack Boxes Set Of4 Woodland,12.86,240,14646.0,Netherlands,3086.3999999999996,"Rp 68,670,548",1,Saturday,6,1
+555164,2019-06-01,22629,Spaceboy Lunch Box,11.94,320,14646.0,Netherlands,3820.7999999999997,"Rp 85,010,508",1,Saturday,6,1
+555164,2019-06-01,22630,Dolly Girl Lunch Box,11.94,320,14646.0,Netherlands,3820.7999999999997,"Rp 85,010,508",1,Saturday,6,1
+555251,2019-06-01,84568,Girls Alphabet Iron On Patches,10.47,288,13062.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,6,1
+555005,2019-05-31,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Friday,5,31
+555099,2019-05-31,21891,Traditional Wooden Skipping Rope,11.34,288,16333.0,United Kingdom,3265.92,"Rp 72,664,760",1,Friday,5,31
+555099,2019-05-31,84077,World War 2 Gliders Asstd Designs,10.47,1152,16333.0,United Kingdom,12061.44,"Rp 268,359,803",1,Friday,5,31
+555099,2019-05-31,21915,Red Harmonica In Box,11.34,280,16333.0,United Kingdom,3175.2,"Rp 70,646,295",1,Friday,5,31
+554990,2019-05-29,79337,Blue Flock Glass Candleholder,10.64,276,16567.0,United Kingdom,2936.6400000000003,"Rp 65,338,478",1,Wednesday,5,29
+554868,2019-05-27,22197,Popcorn Holder,10.99,4300,13135.0,United Kingdom,47257.0,"Rp 1,051,439,896",1,Monday,5,27
+554930,2019-05-27,22151,Place Setting White Heart,10.68,600,15939.0,United Kingdom,6408.0,"Rp 142,574,155",1,Monday,5,27
+554956,2019-05-27,47566,Party Bunting,21.31,143,17956.0,United Kingdom,3047.33,"Rp 67,801,264",1,Monday,5,27
+554827,2019-05-26,23204,Charlotte Bag Apples Design,10.99,300,14646.0,Netherlands,3297.0,"Rp 73,356,272",1,Sunday,5,26
+554827,2019-05-26,23084,Rabbit Night Light,12.38,240,14646.0,Netherlands,2971.2000000000003,"Rp 66,107,417",1,Sunday,5,26
+554827,2019-05-26,21936,Red Retrospot Picnic Bag,12.86,250,14646.0,Netherlands,3215.0,"Rp 71,531,821",1,Sunday,5,26
+554845,2019-05-26,21733,Red Hanging Heart T-Light Holder,13.57,224,17450.0,United Kingdom,3039.6800000000003,"Rp 67,631,056",1,Sunday,5,26
+554845,2019-05-26,22469,Heart Of Wicker Small,12.23,738,17450.0,United Kingdom,9025.74,"Rp 200,817,300",1,Sunday,5,26
+554845,2019-05-26,22470,Heart Of Wicker Large,13.54,330,17450.0,United Kingdom,4468.2,"Rp 99,414,769",1,Sunday,5,26
+554845,2019-05-26,85123A,Cream Hanging Heart T-Light Holder,13.57,608,17450.0,United Kingdom,8250.56,"Rp 183,570,010",1,Sunday,5,26
+554642,2019-05-25,22243,5 Hook Hanger Red Magic Toadstool,11.74,960,14646.0,Netherlands,11270.4,"Rp 250,759,638",1,Saturday,5,25
+554357,2019-05-24,79164,Black Wine Glass,10.65,906,15987.0,United Kingdom,9648.9,"Rp 214,682,236",1,Friday,5,24
+554358,2019-05-24,22470,Heart Of Wicker Large,12.86,408,17450.0,United Kingdom,5246.88,"Rp 116,739,932",1,Friday,5,24
+554358,2019-05-24,21770,Open Closed Metal Sign,14.61,420,17450.0,United Kingdom,6136.2,"Rp 136,526,768",1,Friday,5,24
+554366,2019-05-24,22349,Dog Bowl Chasing Ball Design,14.53,756,17450.0,United Kingdom,10984.68,"Rp 244,402,539",1,Friday,5,24
+554366,2019-05-24,22350,Illustrated Cat Bowl,13.01,888,17450.0,United Kingdom,11552.88,"Rp 257,044,648",1,Friday,5,24
+554366,2019-05-24,22702,Black And White Cat Bowl,12.71,888,17450.0,United Kingdom,11286.480000000001,"Rp 251,117,408",1,Friday,5,24
+554366,2019-05-24,22700,Black And White Dog Bowl,13.57,552,17450.0,United Kingdom,7490.64,"Rp 166,662,246",1,Friday,5,24
+554262,2019-05-23,75049L,Large Circular Mirror Mobile,11.12,384,17715.0,United Kingdom,4270.08,"Rp 95,006,718",1,Thursday,5,23
+554271,2019-05-23,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Thursday,5,23
+554272,2019-05-23,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,2700,12901.0,United Kingdom,28836.0,"Rp 641,583,698",1,Thursday,5,23
+554272,2019-05-23,22970,London Bus Coffee Mug,12.4,240,12901.0,United Kingdom,2976.0,"Rp 66,214,214",1,Thursday,5,23
+554272,2019-05-23,22971,Queens Guard Coffee Mug,12.4,246,12901.0,United Kingdom,3050.4,"Rp 67,869,570",1,Thursday,5,23
+554071,2019-05-22,22501,Picnic Basket Wicker Large,18.96,200,13113.0,United Kingdom,3792.0,"Rp 84,369,725",1,Wednesday,5,22
+554117,2019-05-22,84568,Girls Alphabet Iron On Patches,10.47,288,13758.0,United Kingdom,3015.36,"Rp 67,089,951",1,Wednesday,5,22
+553927,2019-05-20,22492,Mini Paint Set Vintage,10.81,288,17381.0,United Kingdom,3113.28,"Rp 69,268,612",1,Monday,5,20
+553927,2019-05-20,22610,Pens Assorted Funny Face,10.99,576,17381.0,United Kingdom,6330.24,"Rp 140,844,042",1,Monday,5,20
+553928,2019-05-20,22197,Popcorn Holder,10.99,400,12931.0,United Kingdom,4396.0,"Rp 97,808,362",1,Monday,5,20
+554013,2019-05-20,84077,World War 2 Gliders Asstd Designs,10.47,288,13308.0,United Kingdom,3015.36,"Rp 67,089,951",1,Monday,5,20
+554057,2019-05-20,18097C,White Tall Porcelain T-Light Holder,12.25,288,17867.0,United Kingdom,3528.0,"Rp 78,495,883",1,Monday,5,20
+553742,2019-05-19,21916,Set 12 Retro White Chalk Sticks,10.62,288,16133.0,United Kingdom,3058.56,"Rp 68,051,125",1,Sunday,5,19
+553867,2019-05-19,22616,Pack Of 12 London Tissues,10.51,864,17306.0,United Kingdom,9080.64,"Rp 202,038,792",1,Sunday,5,19
+553574,2019-05-18,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Saturday,5,18
+553607,2019-05-18,23167,Small Ceramic Top Storage Jar,10.96,480,16684.0,United Kingdom,5260.8,"Rp 117,049,644",1,Saturday,5,18
+553607,2019-05-18,23089,Glass Bon Bon Jar,11.74,288,16684.0,United Kingdom,3381.12,"Rp 75,227,891",1,Saturday,5,18
+553607,2019-05-18,15036,Assorted Colours Silk Fan,10.99,600,16684.0,United Kingdom,6594.0,"Rp 146,712,544",1,Saturday,5,18
+553607,2019-05-18,21980,Pack Of 12 Red Retrospot Tissues,10.51,432,16684.0,United Kingdom,4540.32,"Rp 101,019,396",1,Saturday,5,18
+553607,2019-05-18,21982,Pack Of 12 Suki Tissues,10.51,432,16684.0,United Kingdom,4540.32,"Rp 101,019,396",1,Saturday,5,18
+553416,2019-05-17,22178,Victorian Glass Hanging T-Light,11.34,288,18198.0,United Kingdom,3265.92,"Rp 72,664,760",1,Friday,5,17
+553466,2019-05-17,22197,Popcorn Holder,10.99,360,17949.0,United Kingdom,3956.4,"Rp 88,027,526",1,Friday,5,17
+553470,2019-05-17,23134,Large Zinc Heart Wall Organiser,16.28,200,18102.0,United Kingdom,3256.0,"Rp 72,444,046",1,Friday,5,17
+553472,2019-05-17,84077,World War 2 Gliders Asstd Designs,10.47,288,15093.0,United Kingdom,3015.36,"Rp 67,089,951",1,Friday,5,17
+553546,2019-05-17,23176,Abc Treasure Book Box,12.25,288,12415.0,Australia,3528.0,"Rp 78,495,883",1,Friday,5,17
+553546,2019-05-17,21902,Key Fob Front Door,10.79,576,12415.0,Australia,6215.039999999999,"Rp 138,280,911",1,Friday,5,17
+553546,2019-05-17,21900,Key Fob Shed,10.79,576,12415.0,Australia,6215.039999999999,"Rp 138,280,911",1,Friday,5,17
+553546,2019-05-17,21899,Garage Key Fob,10.79,576,12415.0,Australia,6215.039999999999,"Rp 138,280,911",1,Friday,5,17
+553546,2019-05-17,15036,Assorted Colours Silk Fan,10.99,600,12415.0,Australia,6594.0,"Rp 146,712,544",1,Friday,5,17
+553546,2019-05-17,22620,4 Traditional Spinning Tops,11.53,320,12415.0,Australia,3689.6,"Rp 82,091,386",1,Friday,5,17
+553368,2019-05-16,23284,Doormat Keep Calm And Come In,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,5,16
+553368,2019-05-16,20685,Doormat Red Retrospot,14.94,200,18102.0,United Kingdom,2988.0,"Rp 66,481,207",1,Thursday,5,16
+553043,2019-05-13,62018,Sombrero,11.53,600,13953.0,United Kingdom,6918.0,"Rp 153,921,349",1,Monday,5,13
+553170,2019-05-13,17003,Brocade Ring Purse,10.55,336,14676.0,United Kingdom,3544.8,"Rp 78,869,673",1,Monday,5,13
+552883,2019-05-12,21918,Set 12 Kids Colour Chalk Sticks,10.62,288,14646.0,Netherlands,3058.56,"Rp 68,051,125",1,Sunday,5,12
+552883,2019-05-12,22630,Dolly Girl Lunch Box,11.94,256,14646.0,Netherlands,3056.64,"Rp 68,008,406",1,Sunday,5,12
+552883,2019-05-12,84212,"Assorted Flower Colour ""Leis""",10.68,480,14646.0,Netherlands,5126.4,"Rp 114,059,324",1,Sunday,5,12
+552883,2019-05-12,21385,Ivory Hanging Decoration Heart,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Sunday,5,12
+552883,2019-05-12,22294,Heart Filigree Dove Small,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Sunday,5,12
+552883,2019-05-12,22326,Round Snack Boxes Set Of4 Woodland,12.86,240,14646.0,Netherlands,3086.3999999999996,"Rp 68,670,548",1,Sunday,5,12
+552883,2019-05-12,21212,Pack Of 72 Retrospot Cake Cases,10.68,1200,14646.0,Netherlands,12816.0,"Rp 285,148,310",1,Sunday,5,12
+552883,2019-05-12,35961,Folkart Zinc Heart Christmas Dec,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Sunday,5,12
+552883,2019-05-12,22297,Heart Ivory Trellis Small,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Sunday,5,12
+552883,2019-05-12,22151,Place Setting White Heart,10.62,432,14646.0,Netherlands,4587.839999999999,"Rp 102,076,687",1,Sunday,5,12
+552883,2019-05-12,22629,Spaceboy Lunch Box,11.94,320,14646.0,Netherlands,3820.7999999999997,"Rp 85,010,508",1,Sunday,5,12
+552904,2019-05-12,71477,Coloured Glass Star T-Light Holder,13.07,428,16013.0,United Kingdom,5593.96,"Rp 124,462,254",1,Sunday,5,12
+552953,2019-05-12,84568,Girls Alphabet Iron On Patches,10.47,288,16745.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,5,12
+552957,2019-05-12,21889,Wooden Box Of Dominoes,11.53,288,17404.0,Sweden,3320.64,"Rp 73,882,248",1,Sunday,5,12
+552957,2019-05-12,84077,World War 2 Gliders Asstd Designs,10.55,576,17404.0,Sweden,6076.8,"Rp 135,205,154",1,Sunday,5,12
+552957,2019-05-12,22489,Pack Of 12 Traditional Crayons,10.68,432,17404.0,Sweden,4613.76,"Rp 102,653,392",1,Sunday,5,12
+552957,2019-05-12,22492,Mini Paint Set Vintage,10.92,576,17404.0,Sweden,6289.92,"Rp 139,946,946",1,Sunday,5,12
+552970,2019-05-12,84947,Antique Silver Tea Glass Engraved,11.34,360,17388.0,United Kingdom,4082.4,"Rp 90,830,951",1,Sunday,5,12
+552978,2019-05-12,15036,Assorted Colours Silk Fan,10.92,600,12590.0,Germany,6552.0,"Rp 145,778,069",1,Sunday,5,12
+552833,2019-05-11,23167,Small Ceramic Top Storage Jar,10.96,1350,18133.0,United Kingdom,14796.000000000002,"Rp 329,202,122",1,Saturday,5,11
+552563,2019-05-10,84077,World War 2 Gliders Asstd Designs,10.47,288,17597.0,United Kingdom,3015.36,"Rp 67,089,951",1,Friday,5,10
+C552568,2019-05-10,84077,World War 2 Gliders Asstd Designs,10.47,-960,12901.0,United Kingdom,-10051.2,"Rp -223,633,169",1,Friday,5,10
+552279,2019-05-08,16014,Small Chinese Style Scissor,10.58,600,15117.0,United Kingdom,6348.0,"Rp 141,239,191",1,Wednesday,5,8
+552172,2019-05-06,16014,Small Chinese Style Scissor,10.58,2000,16308.0,United Kingdom,21160.0,"Rp 470,797,304",1,Monday,5,6
+552181,2019-05-06,22659,Lunch Box I Love London,11.94,320,17381.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Monday,5,6
+551881,2019-05-05,22151,Place Setting White Heart,10.62,432,13784.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Sunday,5,5
+551951,2019-05-05,15034,Paper Pocket Traveling Fan,10.39,300,18094.0,United Kingdom,3117.0,"Rp 69,351,380",1,Sunday,5,5
+551951,2019-05-05,15039,Sandalwood Fan,10.79,300,18094.0,United Kingdom,3236.9999999999995,"Rp 72,021,308",1,Sunday,5,5
+551951,2019-05-05,15036,Assorted Colours Silk Fan,10.99,600,18094.0,United Kingdom,6594.0,"Rp 146,712,544",1,Sunday,5,5
+551955,2019-05-05,84945,Multi Colour Silver T-Light Holder,10.99,384,13199.0,United Kingdom,4220.16,"Rp 93,896,028",1,Sunday,5,5
+552026,2019-05-05,21981,Pack Of 12 Woodland Tissues,10.51,432,17940.0,United Kingdom,4540.32,"Rp 101,019,396",1,Sunday,5,5
+551736,2019-05-04,37370,Retro Coffee Mugs Assorted,11.34,504,17443.0,Canada,5715.36,"Rp 127,163,331",1,Saturday,5,4
+551747,2019-05-04,22610,Pens Assorted Funny Face,10.47,288,14298.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,5,4
+551747,2019-05-04,22609,Pens Assorted Spaceball,10.47,288,14298.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,5,4
+551747,2019-05-04,22608,Pens Assorted Funky Jeweled,10.47,288,14298.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,5,4
+551747,2019-05-04,21884,Cakes And Bows Gift Tape,10.44,288,14298.0,United Kingdom,3006.72,"Rp 66,897,716",1,Saturday,5,4
+551747,2019-05-04,21881,Cute Cats Tape,10.44,288,14298.0,United Kingdom,3006.72,"Rp 66,897,716",1,Saturday,5,4
+551819,2019-05-04,84077,World War 2 Gliders Asstd Designs,10.47,288,14739.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,5,4
+551563,2019-05-03,21137,Black Record Cover Frame,13.72,240,16210.0,United Kingdom,3292.8,"Rp 73,262,824",1,Friday,5,3
+551595,2019-05-03,21498,Red Retrospot Wrap,10.6,600,12891.0,United Kingdom,6360.0,"Rp 141,506,184",1,Friday,5,3
+551191,2019-04-27,22084,Paper Chain Kit Empire,12.86,320,16698.0,United Kingdom,4115.2,"Rp 91,560,731",1,Saturday,4,27
+551291,2019-04-27,84692,Box Of 24 Cocktail Parasols,10.58,400,14298.0,United Kingdom,4232.0,"Rp 94,159,461",1,Saturday,4,27
+551291,2019-04-27,16015,Medium Chinese Style Scissor,10.62,273,14298.0,United Kingdom,2899.2599999999998,"Rp 64,506,795",1,Saturday,4,27
+551314,2019-04-27,21915,Red Harmonica In Box,11.34,280,16333.0,United Kingdom,3175.2,"Rp 70,646,295",1,Saturday,4,27
+551314,2019-04-27,22440,Balloon Water Bomb Pack Of 35,10.62,1200,16333.0,United Kingdom,12743.999999999998,"Rp 283,546,354",1,Saturday,4,27
+551314,2019-04-27,84077,World War 2 Gliders Asstd Designs,10.47,1152,16333.0,United Kingdom,12061.44,"Rp 268,359,803",1,Saturday,4,27
+551259,2019-04-27,22423,Regency Cakestand 3 Tier,21.47,150,17949.0,United Kingdom,3220.5,"Rp 71,654,193",1,Saturday,4,27
+551062,2019-04-26,15036,Assorted Colours Silk Fan,10.99,600,18092.0,United Kingdom,6594.0,"Rp 146,712,544",1,Friday,4,26
+551133,2019-04-26,22998,Travel Card Wallet Keep Calm,10.62,480,16656.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Friday,4,26
+551148,2019-04-26,22151,Place Setting White Heart,10.68,312,15939.0,United Kingdom,3332.16,"Rp 74,138,561",1,Friday,4,26
+551162,2019-04-26,84077,World War 2 Gliders Asstd Designs,10.47,1200,12901.0,United Kingdom,12564.0,"Rp 279,541,462",1,Friday,4,26
+551166,2019-04-26,21556,Ceramic Strawberry Money Box,12.56,408,17857.0,United Kingdom,5124.4800000000005,"Rp 114,016,605",1,Friday,4,26
+550917,2019-04-21,21703,Bag 125g Swirly Marbles,10.68,480,17381.0,United Kingdom,5126.4,"Rp 114,059,324",1,Sunday,4,21
+550917,2019-04-21,84077,World War 2 Gliders Asstd Designs,10.47,1008,17381.0,United Kingdom,10553.76,"Rp 234,814,828",1,Sunday,4,21
+550940,2019-04-21,22567,20 Dolly Pegs Retrospot,11.53,492,18008.0,United Kingdom,5672.759999999999,"Rp 126,215,506",1,Sunday,4,21
+550667,2019-04-20,84992,72 Sweetheart Fairy Cake Cases,10.66,480,13027.0,United Kingdom,5116.8,"Rp 113,845,730",1,Saturday,4,20
+550667,2019-04-20,84991,60 Teatime Fairy Cake Cases,10.66,960,13027.0,United Kingdom,10233.6,"Rp 227,691,460",1,Saturday,4,20
+550667,2019-04-20,21977,Pack Of 60 Pink Paisley Cake Cases,10.66,960,13027.0,United Kingdom,10233.6,"Rp 227,691,460",1,Saturday,4,20
+550667,2019-04-20,21975,Pack Of 60 Dinosaur Cake Cases,10.66,720,13027.0,United Kingdom,7675.2,"Rp 170,768,595",1,Saturday,4,20
+550667,2019-04-20,21213,Pack Of 72 Skull Cake Cases,10.66,960,13027.0,United Kingdom,10233.6,"Rp 227,691,460",1,Saturday,4,20
+550667,2019-04-20,21212,Pack Of 72 Retrospot Cake Cases,10.66,960,13027.0,United Kingdom,10233.6,"Rp 227,691,460",1,Saturday,4,20
+550710,2019-04-20,22479,Daisy Garden Marker,11.77,360,17450.0,United Kingdom,4237.2,"Rp 94,275,158",1,Saturday,4,20
+550710,2019-04-20,22478,Birdhouse Garden Marker,11.77,360,17450.0,United Kingdom,4237.2,"Rp 94,275,158",1,Saturday,4,20
+550710,2019-04-20,22477,Watering Can Garden Marker,11.77,360,17450.0,United Kingdom,4237.2,"Rp 94,275,158",1,Saturday,4,20
+550608,2019-04-19,22970,London Bus Coffee Mug,12.4,462,12901.0,United Kingdom,5728.8,"Rp 127,462,363",1,Friday,4,19
+550625,2019-04-19,22893,Mini Cake Stand T-Light Holder,10.62,288,12619.0,Germany,3058.56,"Rp 68,051,125",1,Friday,4,19
+550344,2019-04-18,84077,World War 2 Gliders Asstd Designs,10.47,576,12754.0,Japan,6030.72,"Rp 134,179,902",1,Thursday,4,18
+550344,2019-04-18,22492,Mini Paint Set Vintage,10.81,576,12754.0,Japan,6226.56,"Rp 138,537,224",1,Thursday,4,18
+550344,2019-04-18,22546,Mini Jigsaw Purdey,10.62,480,12754.0,Japan,5097.599999999999,"Rp 113,418,541",1,Thursday,4,18
+550344,2019-04-18,22544,Mini Jigsaw Spaceboy,10.62,480,12754.0,Japan,5097.599999999999,"Rp 113,418,541",1,Thursday,4,18
+550344,2019-04-18,22543,Mini Jigsaw Bake A Cake,10.62,480,12754.0,Japan,5097.599999999999,"Rp 113,418,541",1,Thursday,4,18
+550344,2019-04-18,22540,Mini Jigsaw Circus Parade,10.62,480,12754.0,Japan,5097.599999999999,"Rp 113,418,541",1,Thursday,4,18
+550344,2019-04-18,22536,Magic Drawing Slate Purdey,10.62,576,12754.0,Japan,6117.12,"Rp 136,102,250",1,Thursday,4,18
+550344,2019-04-18,22534,Magic Drawing Slate Spaceboy,10.62,576,12754.0,Japan,6117.12,"Rp 136,102,250",1,Thursday,4,18
+550344,2019-04-18,22533,Magic Drawing Slate Bake A Cake,10.62,576,12754.0,Japan,6117.12,"Rp 136,102,250",1,Thursday,4,18
+550344,2019-04-18,22531,Magic Drawing Slate Circus Parade,10.62,576,12754.0,Japan,6117.12,"Rp 136,102,250",1,Thursday,4,18
+550344,2019-04-18,22561,Wooden School Colouring Set,11.74,288,12754.0,Japan,3381.12,"Rp 75,227,891",1,Thursday,4,18
+550344,2019-04-18,22489,Pack Of 12 Traditional Crayons,10.62,576,12754.0,Japan,6117.12,"Rp 136,102,250",1,Thursday,4,18
+550361,2019-04-18,21829,Dinosaur Keyrings Assorted,10.43,432,13082.0,United Kingdom,4505.76,"Rp 100,250,457",1,Thursday,4,18
+550461,2019-04-18,85123A,Cream Hanging Heart T-Light Holder,12.71,1930,15749.0,United Kingdom,24530.300000000003,"Rp 545,784,457",1,Thursday,4,18
+550461,2019-04-18,47556B,Tea Time Tea Towels,12.4,1300,15749.0,United Kingdom,16120.0,"Rp 358,660,328",1,Thursday,4,18
+550461,2019-04-18,48185,Doormat Fairy Cake,16.76,670,15749.0,United Kingdom,11229.2,"Rp 249,842,962",1,Thursday,4,18
+550461,2019-04-18,21175,Gin And Tonic Diet Metal Sign,11.98,2000,15749.0,United Kingdom,23960.0,"Rp 533,095,624",1,Thursday,4,18
+550461,2019-04-18,21108,Fairy Cake Flannel Assorted Colour,12.4,3114,15749.0,United Kingdom,38613.6,"Rp 859,129,432",1,Thursday,4,18
+C550456,2019-04-18,48185,Doormat Fairy Cake,17.17,-670,15749.0,United Kingdom,-11503.900000000001,"Rp -255,954,873",1,Thursday,4,18
+C550456,2019-04-18,47566B,Tea Time Party Bunting,12.86,-1300,15749.0,United Kingdom,-16718.0,"Rp -371,965,469",1,Thursday,4,18
+C550456,2019-04-18,85123A,Cream Hanging Heart T-Light Holder,12.86,-1930,15749.0,United Kingdom,-24819.8,"Rp -552,225,658",1,Thursday,4,18
+C550456,2019-04-18,21175,Gin And Tonic Diet Metal Sign,12.15,-2000,15749.0,United Kingdom,-24300.0,"Rp -540,660,420",1,Thursday,4,18
+C550456,2019-04-18,21108,Fairy Cake Flannel Assorted Colour,12.4,-3114,15749.0,United Kingdom,-38613.6,"Rp -859,129,432",1,Thursday,4,18
+550305,2019-04-17,84568,Girls Alphabet Iron On Patches,10.47,288,17920.0,United Kingdom,3015.36,"Rp 67,089,951",1,Wednesday,4,17
+550272,2019-04-15,22998,Travel Card Wallet Keep Calm,10.62,480,18079.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Monday,4,15
+550272,2019-04-15,22996,Travel Card Wallet Vintage Ticket,10.62,480,18079.0,United Kingdom,5097.599999999999,"Rp 113,418,541",1,Monday,4,15
+550272,2019-04-15,84535A,English Rose Notebook A6 Size,10.68,320,18079.0,United Kingdom,3417.6,"Rp 76,039,549",1,Monday,4,15
+550122,2019-04-14,22149,Feltcraft 6 Flower Friends,12.15,240,12931.0,United Kingdom,2916.0,"Rp 64,879,250",1,Sunday,4,14
+550122,2019-04-14,22197,Popcorn Holder,10.99,600,12931.0,United Kingdom,6594.0,"Rp 146,712,544",1,Sunday,4,14
+550135,2019-04-14,84997B,Childrens Cutlery Retrospot Red,13.72,288,15769.0,United Kingdom,3951.36,"Rp 87,915,389",1,Sunday,4,14
+549925,2019-04-13,22693,Grow A Flytrap Or Sunflower In Tin,11.34,1056,16333.0,United Kingdom,11975.039999999999,"Rp 266,437,455",1,Saturday,4,13
+549926,2019-04-13,21704,Bag 250g Swirly Marbles,10.99,504,16333.0,United Kingdom,5538.96,"Rp 123,238,537",1,Saturday,4,13
+549926,2019-04-13,84077,World War 2 Gliders Asstd Designs,10.47,1728,16333.0,United Kingdom,18092.16,"Rp 402,539,705",1,Saturday,4,13
+549927,2019-04-13,22970,London Bus Coffee Mug,12.4,252,16684.0,United Kingdom,3124.8,"Rp 69,524,925",1,Saturday,4,13
+549927,2019-04-13,15036,Assorted Colours Silk Fan,10.99,600,16684.0,United Kingdom,6594.0,"Rp 146,712,544",1,Saturday,4,13
+549927,2019-04-13,16156S,Wrap Pink Fairy Cakes,10.6,400,16684.0,United Kingdom,4240.0,"Rp 94,337,456",1,Saturday,4,13
+549927,2019-04-13,21497,Fancy Fonts Birthday Wrap,10.6,300,16684.0,United Kingdom,3180.0,"Rp 70,753,092",1,Saturday,4,13
+549927,2019-04-13,21506,Fancy Font Birthday Card,10.62,288,16684.0,United Kingdom,3058.56,"Rp 68,051,125",1,Saturday,4,13
+C549968,2019-04-13,22151,Place Setting White Heart,10.62,-432,14064.0,United Kingdom,-4587.839999999999,"Rp -102,076,687",1,Saturday,4,13
+549591,2019-04-11,22084,Paper Chain Kit Empire,12.86,330,18080.0,United Kingdom,4243.8,"Rp 94,422,004",1,Thursday,4,11
+549412,2019-04-08,84212,"Assorted Flower Colour ""Leis""",10.68,1200,14258.0,United Kingdom,12816.0,"Rp 285,148,310",1,Monday,4,8
+549246,2019-04-07,22151,Place Setting White Heart,10.68,300,15939.0,United Kingdom,3204.0,"Rp 71,287,078",1,Sunday,4,7
+548910,2019-04-05,21982,Pack Of 12 Suki Tissues,10.45,432,17940.0,United Kingdom,4514.4,"Rp 100,442,691",1,Friday,4,5
+548910,2019-04-05,22616,Pack Of 12 London Tissues,10.45,432,17940.0,United Kingdom,4514.4,"Rp 100,442,691",1,Friday,4,5
+549027,2019-04-05,22727,Alarm Clock Bakelike Red,13.72,500,17857.0,United Kingdom,6860.0,"Rp 152,630,884",1,Friday,4,5
+549027,2019-04-05,22728,Alarm Clock Bakelike Pink,13.72,500,17857.0,United Kingdom,6860.0,"Rp 152,630,884",1,Friday,4,5
+549027,2019-04-05,22729,Alarm Clock Bakelike Orange,13.72,300,17857.0,United Kingdom,4116.0,"Rp 91,578,530",1,Friday,4,5
+549027,2019-04-05,22726,Alarm Clock Bakelike Green,13.72,300,17857.0,United Kingdom,4116.0,"Rp 91,578,530",1,Friday,4,5
+548736,2019-04-04,21439,Basket Of Toadstools,11.34,408,13984.0,United Kingdom,4626.72,"Rp 102,941,744",1,Thursday,4,4
+C548731,2019-04-04,22328,Round Snack Boxes Set Of 4 Fruits,12.86,-624,12755.0,Japan,-8024.639999999999,"Rp -178,543,425",1,Thursday,4,4
+548704,2019-04-03,84077,World War 2 Gliders Asstd Designs,10.47,576,17381.0,United Kingdom,6030.72,"Rp 134,179,902",1,Wednesday,4,3
+548704,2019-04-03,22616,Pack Of 12 London Tissues,10.55,864,17381.0,United Kingdom,9115.2,"Rp 202,807,731",1,Wednesday,4,3
+548705,2019-04-03,84598,Boys Alphabet Iron On Patches,10.47,288,17381.0,United Kingdom,3015.36,"Rp 67,089,951",1,Wednesday,4,3
+548554,2019-04-01,21287,Scented Velvet Lounge Candle,10.64,288,13694.0,United Kingdom,3064.32,"Rp 68,179,281",1,Monday,4,1
+548627,2019-04-01,21915,Red Harmonica In Box,11.34,280,16333.0,United Kingdom,3175.2,"Rp 70,646,295",1,Monday,4,1
+548627,2019-04-01,22440,Balloon Water Bomb Pack Of 35,10.62,1200,16333.0,United Kingdom,12743.999999999998,"Rp 283,546,354",1,Monday,4,1
+548627,2019-04-01,21891,Traditional Wooden Skipping Rope,11.34,288,16333.0,United Kingdom,3265.92,"Rp 72,664,760",1,Monday,4,1
+548627,2019-04-01,84077,World War 2 Gliders Asstd Designs,10.47,1152,16333.0,United Kingdom,12061.44,"Rp 268,359,803",1,Monday,4,1
+548633,2019-04-01,22693,Grow A Flytrap Or Sunflower In Tin,11.34,864,16333.0,United Kingdom,9797.76,"Rp 217,994,281",1,Monday,4,1
+548635,2019-04-01,84077,World War 2 Gliders Asstd Designs,10.47,1152,16333.0,United Kingdom,12061.44,"Rp 268,359,803",1,Monday,4,1
+548635,2019-04-01,21915,Red Harmonica In Box,11.34,280,16333.0,United Kingdom,3175.2,"Rp 70,646,295",1,Monday,4,1
+548641,2019-04-01,21749,Large Red Retrospot Windmill,12.15,312,16333.0,United Kingdom,3790.8,"Rp 84,343,026",1,Monday,4,1
+548687,2019-04-01,75049L,Large Circular Mirror Mobile,11.12,288,14195.0,United Kingdom,3202.56,"Rp 71,255,038",1,Monday,4,1
+548687,2019-04-01,75131,Metal Tube Chime On Bamboo,11.27,392,14195.0,United Kingdom,4417.84,"Rp 98,294,289",1,Monday,4,1
+C548577,2019-04-01,21155,Red Retrospot Peg Bag,12.4,-200,13694.0,United Kingdom,-2480.0,"Rp -55,178,512",1,Monday,4,1
+548491,2019-03-31,22151,Place Setting White Heart,10.62,864,14064.0,United Kingdom,9175.679999999998,"Rp 204,153,375",1,Sunday,3,31
+548323,2019-03-30,84568,Girls Alphabet Iron On Patches,10.47,288,15424.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,3,30
+548324,2019-03-30,84568,Girls Alphabet Iron On Patches,10.42,1440,13316.0,United Kingdom,15004.8,"Rp 333,847,797",1,Saturday,3,30
+548336,2019-03-30,15036,Assorted Colours Silk Fan,10.92,600,13082.0,United Kingdom,6552.0,"Rp 145,778,069",1,Saturday,3,30
+548349,2019-03-30,47469,Assorted Shapes Photo Clip Silver,10.68,288,15812.0,United Kingdom,3075.84,"Rp 68,435,594",1,Saturday,3,30
+548359,2019-03-30,15036,Assorted Colours Silk Fan,10.99,600,14828.0,United Kingdom,6594.0,"Rp 146,712,544",1,Saturday,3,30
+548371,2019-03-30,21240,Blue Polkadot Cup,10.99,350,17757.0,United Kingdom,3846.5,"Rp 85,582,317",1,Saturday,3,30
+548011,2019-03-29,22297,Heart Ivory Trellis Small,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Friday,3,29
+548011,2019-03-29,22629,Spaceboy Lunch Box,11.94,640,14646.0,Netherlands,7641.599999999999,"Rp 170,021,015",1,Friday,3,29
+548011,2019-03-29,22630,Dolly Girl Lunch Box,11.94,640,14646.0,Netherlands,7641.599999999999,"Rp 170,021,015",1,Friday,3,29
+548171,2019-03-29,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Friday,3,29
+548203,2019-03-29,22197,Popcorn Holder,12.25,637,14203.0,United Kingdom,7803.25,"Rp 173,617,631",1,Friday,3,29
+547812,2019-03-25,82484,Wood Black Board Ant White Finish,15.14,300,18102.0,United Kingdom,4542.0,"Rp 101,056,775",1,Monday,3,25
+547812,2019-03-25,22507,Memo Board Retrospot Design,14.2,304,18102.0,United Kingdom,4316.8,"Rp 96,046,210",1,Monday,3,25
+547812,2019-03-25,22189,Cream Heart Card Holder,12.62,432,18102.0,United Kingdom,5451.839999999999,"Rp 121,300,169",1,Monday,3,25
+547812,2019-03-25,21623,Vintage Union Jack Memoboard,16.79,300,18102.0,United Kingdom,5037.0,"Rp 112,070,228",1,Monday,3,25
+547706,2019-03-24,22900,Set 2 Tea Towels I Love London,12.63,600,12901.0,United Kingdom,7578.000000000001,"Rp 168,605,953",1,Sunday,3,24
+547706,2019-03-24,22659,Lunch Box I Love London,11.94,400,12901.0,United Kingdom,4776.0,"Rp 106,263,134",1,Sunday,3,24
+547707,2019-03-24,22659,Lunch Box I Love London,12.25,300,18008.0,United Kingdom,3675.0,"Rp 81,766,545",1,Sunday,3,24
+547708,2019-03-24,22479,Daisy Garden Marker,11.77,360,17450.0,United Kingdom,4237.2,"Rp 94,275,158",1,Sunday,3,24
+547708,2019-03-24,22478,Birdhouse Garden Marker,11.77,360,17450.0,United Kingdom,4237.2,"Rp 94,275,158",1,Sunday,3,24
+547708,2019-03-24,22477,Watering Can Garden Marker,11.77,360,17450.0,United Kingdom,4237.2,"Rp 94,275,158",1,Sunday,3,24
+547708,2019-03-24,22458,Cast Iron Hook Garden Fork,13.01,324,17450.0,United Kingdom,4215.24,"Rp 93,786,561",1,Sunday,3,24
+547708,2019-03-24,21897,Potting Shed Candle Citronella,13.54,342,17450.0,United Kingdom,4630.679999999999,"Rp 103,029,852",1,Sunday,3,24
+547708,2019-03-24,21898,Potting Shed Rose Candle,13.54,378,17450.0,United Kingdom,5118.12,"Rp 113,875,099",1,Sunday,3,24
+547708,2019-03-24,21876,Pottering Mug,11.77,432,17450.0,United Kingdom,5084.639999999999,"Rp 113,130,189",1,Sunday,3,24
+547708,2019-03-24,21896,Potting Shed Twine,12.71,432,17450.0,United Kingdom,5490.72,"Rp 122,165,226",1,Sunday,3,24
+547708,2019-03-24,82551,Laundry 15c Metal Sign,11.99,288,17450.0,United Kingdom,3453.12,"Rp 76,829,848",1,Sunday,3,24
+547708,2019-03-24,82552,Washroom Metal Sign,11.99,288,17450.0,United Kingdom,3453.12,"Rp 76,829,848",1,Sunday,3,24
+547708,2019-03-24,21259,Victorian Sewing Box Small,16.4,192,17450.0,United Kingdom,3148.7999999999997,"Rp 70,058,911",1,Sunday,3,24
+547708,2019-03-24,22459,Cast Iron Hook Garden Trowel,13.01,252,17450.0,United Kingdom,3278.52,"Rp 72,945,103",1,Sunday,3,24
+547708,2019-03-24,85066,Cream Sweetheart Mini Chest,23.55,160,17450.0,United Kingdom,3768.0,"Rp 83,835,739",1,Sunday,3,24
+547493,2019-03-23,21918,Set 12 Kids Colour Chalk Sticks,10.62,288,12818.0,Austria,3058.56,"Rp 68,051,125",1,Saturday,3,23
+547519,2019-03-23,16014,Small Chinese Style Scissor,10.58,1000,16308.0,United Kingdom,10580.0,"Rp 235,398,652",1,Saturday,3,23
+547362,2019-03-22,79190B,Retro Plastic Polka Tray,10.58,300,13694.0,United Kingdom,3174.0,"Rp 70,619,596",1,Friday,3,22
+547362,2019-03-22,21916,Set 12 Retro White Chalk Sticks,10.62,576,13694.0,United Kingdom,6117.12,"Rp 136,102,250",1,Friday,3,22
+547362,2019-03-22,35095B,Red Victorian Fabric Oval Box,10.55,360,13694.0,United Kingdom,3798.0000000000005,"Rp 84,503,221",1,Friday,3,22
+547362,2019-03-22,35095A,Blue Victorian Fabric Oval Box,10.55,360,13694.0,United Kingdom,3798.0000000000005,"Rp 84,503,221",1,Friday,3,22
+547362,2019-03-22,21918,Set 12 Kids Colour Chalk Sticks,10.62,576,13694.0,United Kingdom,6117.12,"Rp 136,102,250",1,Friday,3,22
+547154,2019-03-21,22969,Homemade Jam Scented Candles,11.53,480,15299.0,United Kingdom,5534.4,"Rp 123,137,079",1,Thursday,3,21
+547037,2019-03-20,22616,Pack Of 12 London Tissues,10.51,1296,14101.0,United Kingdom,13620.96,"Rp 303,058,187",1,Wednesday,3,20
+547037,2019-03-20,21967,Pack Of 12 Skull Tissues,10.51,2160,14101.0,United Kingdom,22701.6,"Rp 505,096,979",1,Wednesday,3,20
+546992,2019-03-18,22659,Lunch Box I Love London,11.94,320,16684.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Monday,3,18
+546992,2019-03-18,15036,Assorted Colours Silk Fan,10.92,600,16684.0,United Kingdom,6552.0,"Rp 145,778,069",1,Monday,3,18
+546992,2019-03-18,22741,Funky Diva Pen,10.99,576,16684.0,United Kingdom,6330.24,"Rp 140,844,042",1,Monday,3,18
+546992,2019-03-18,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,360,16684.0,United Kingdom,3844.7999999999997,"Rp 85,544,493",1,Monday,3,18
+547023,2019-03-18,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Monday,3,18
+546789,2019-03-17,20711,Jumbo Bag Toys,5.97,600,15769.0,United Kingdom,3582.0,"Rp 79,697,351",1,Sunday,3,17
+546789,2019-03-17,20713,Jumbo Bag Owls,5.97,700,15769.0,United Kingdom,4179.0,"Rp 92,980,243",1,Sunday,3,17
+546789,2019-03-17,85099F,Jumbo Bag Strawberry,5.97,900,15769.0,United Kingdom,5373.0,"Rp 119,546,026",1,Sunday,3,17
+546789,2019-03-17,22385,Jumbo Bag Spaceboy Design,5.97,500,15769.0,United Kingdom,2985.0,"Rp 66,414,459",1,Sunday,3,17
+546789,2019-03-17,22386,Jumbo Bag Pink Polkadot,5.97,800,15769.0,United Kingdom,4776.0,"Rp 106,263,134",1,Sunday,3,17
+546789,2019-03-17,85099B,Jumbo Bag Red Retrospot,5.97,1200,15769.0,United Kingdom,7164.0,"Rp 159,394,702",1,Sunday,3,17
+546789,2019-03-17,21928,Jumbo Bag Scandinavian Blue Paisley,5.97,500,15769.0,United Kingdom,2985.0,"Rp 66,414,459",1,Sunday,3,17
+546789,2019-03-17,85099C,Jumbo Bag Baroque Black White,5.97,500,15769.0,United Kingdom,2985.0,"Rp 66,414,459",1,Sunday,3,17
+546863,2019-03-17,17003,Brocade Ring Purse,10.51,720,16377.0,United Kingdom,7567.2,"Rp 168,365,660",1,Sunday,3,17
+546863,2019-03-17,15036,Assorted Colours Silk Fan,10.92,600,16377.0,United Kingdom,6552.0,"Rp 145,778,069",1,Sunday,3,17
+546736,2019-03-16,22740,Polkadot Pen,10.99,576,16013.0,United Kingdom,6330.24,"Rp 140,844,042",1,Saturday,3,16
+546738,2019-03-16,17003,Brocade Ring Purse,10.51,720,16422.0,United Kingdom,7567.2,"Rp 168,365,660",1,Saturday,3,16
+546754,2019-03-16,84992,72 Sweetheart Fairy Cake Cases,10.66,480,13027.0,United Kingdom,5116.8,"Rp 113,845,730",1,Saturday,3,16
+546530,2019-03-14,20974,12 Pencils Small Tube Skull,10.92,384,17404.0,Sweden,4193.28,"Rp 93,297,964",1,Thursday,3,14
+546530,2019-03-14,20975,12 Pencils Small Tube Red Retrospot,10.92,768,17404.0,Sweden,8386.56,"Rp 186,595,928",1,Thursday,3,14
+546530,2019-03-14,21977,Pack Of 60 Pink Paisley Cake Cases,10.81,480,17404.0,Sweden,5188.8,"Rp 115,447,687",1,Thursday,3,14
+546530,2019-03-14,21212,Pack Of 72 Retrospot Cake Cases,10.81,480,17404.0,Sweden,5188.8,"Rp 115,447,687",1,Thursday,3,14
+546530,2019-03-14,22492,Mini Paint Set Vintage,10.92,576,17404.0,Sweden,6289.92,"Rp 139,946,946",1,Thursday,3,14
+546319,2019-03-11,22197,Popcorn Holder,10.99,480,17949.0,United Kingdom,5275.2,"Rp 117,370,035",1,Monday,3,11
+546154,2019-03-10,62018,Sombrero,11.53,400,13953.0,United Kingdom,4612.0,"Rp 102,614,233",1,Sunday,3,10
+546236,2019-03-10,84568,Girls Alphabet Iron On Patches,10.47,288,12370.0,Cyprus,3015.36,"Rp 67,089,951",1,Sunday,3,10
+546236,2019-03-10,84598,Boys Alphabet Iron On Patches,10.47,288,12370.0,Cyprus,3015.36,"Rp 67,089,951",1,Sunday,3,10
+546251,2019-03-10,84077,World War 2 Gliders Asstd Designs,10.47,288,16553.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,3,10
+546067,2019-03-09,22469,Heart Of Wicker Small,12.23,600,17450.0,United Kingdom,7338.0,"Rp 163,266,097",1,Saturday,3,9
+546082,2019-03-09,40016,Chinese Dragon Paper Lanterns,10.51,600,12971.0,United Kingdom,6306.0,"Rp 140,304,716",1,Saturday,3,9
+546096,2019-03-09,75049L,Large Circular Mirror Mobile,11.12,384,15502.0,United Kingdom,4270.08,"Rp 95,006,718",1,Saturday,3,9
+545911,2019-03-08,21981,Pack Of 12 Woodland Tissues,10.47,432,17940.0,United Kingdom,4523.04,"Rp 100,634,926",1,Friday,3,8
+545911,2019-03-08,22616,Pack Of 12 London Tissues,10.47,432,17940.0,United Kingdom,4523.04,"Rp 100,634,926",1,Friday,3,8
+546011,2019-03-08,22616,Pack Of 12 London Tissues,10.51,864,17306.0,United Kingdom,9080.64,"Rp 202,038,792",1,Friday,3,8
+545713,2019-03-07,22355,Charlotte Bag Suki Design,12.77,228,17713.0,United Kingdom,2911.56,"Rp 64,780,463",1,Thursday,3,7
+545748,2019-03-07,22492,Mini Paint Set Vintage,10.81,864,17381.0,United Kingdom,9339.84,"Rp 207,805,836",1,Thursday,3,7
+545752,2019-03-07,84077,World War 2 Gliders Asstd Designs,10.47,576,17381.0,United Kingdom,6030.72,"Rp 134,179,902",1,Thursday,3,7
+545582,2019-03-04,21155,Red Retrospot Peg Bag,12.4,250,13694.0,United Kingdom,3100.0,"Rp 68,973,140",1,Monday,3,4
+545644,2019-03-04,22440,Balloon Water Bomb Pack Of 35,10.62,1200,16333.0,United Kingdom,12743.999999999998,"Rp 283,546,354",1,Monday,3,4
+545644,2019-03-04,21891,Traditional Wooden Skipping Rope,11.34,576,16333.0,United Kingdom,6531.84,"Rp 145,329,521",1,Monday,3,4
+545644,2019-03-04,84077,World War 2 Gliders Asstd Designs,10.47,1152,16333.0,United Kingdom,12061.44,"Rp 268,359,803",1,Monday,3,4
+545644,2019-03-04,21915,Red Harmonica In Box,11.34,280,16333.0,United Kingdom,3175.2,"Rp 70,646,295",1,Monday,3,4
+545644,2019-03-04,22620,4 Traditional Spinning Tops,11.34,320,16333.0,United Kingdom,3628.8,"Rp 80,738,623",1,Monday,3,4
+545466,2019-03-03,21621,Vintage Union Jack Bunting,17.4,200,18102.0,United Kingdom,3479.9999999999995,"Rp 77,427,912",1,Sunday,3,3
+545471,2019-03-03,84568,Girls Alphabet Iron On Patches,10.47,288,15087.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,3,3
+545475,2019-03-03,22630,Dolly Girl Lunch Box,11.94,256,12415.0,Australia,3056.64,"Rp 68,008,406",1,Sunday,3,3
+545475,2019-03-03,22969,Homemade Jam Scented Candles,11.53,288,12415.0,Australia,3320.64,"Rp 73,882,248",1,Sunday,3,3
+545475,2019-03-03,22615,Pack Of 12 Circus Parade Tissues,10.51,432,12415.0,Australia,4540.32,"Rp 101,019,396",1,Sunday,3,3
+545475,2019-03-03,22555,Plasters In Tin Strongman,11.74,288,12415.0,Australia,3381.12,"Rp 75,227,891",1,Sunday,3,3
+545475,2019-03-03,21984,Pack Of 12 Pink Paisley Tissues,10.51,432,12415.0,Australia,4540.32,"Rp 101,019,396",1,Sunday,3,3
+545475,2019-03-03,21981,Pack Of 12 Woodland Tissues,10.51,432,12415.0,Australia,4540.32,"Rp 101,019,396",1,Sunday,3,3
+545475,2019-03-03,22629,Spaceboy Lunch Box,11.94,320,12415.0,Australia,3820.7999999999997,"Rp 85,010,508",1,Sunday,3,3
+545505,2019-03-03,84947,Antique Silver Tea Glass Engraved,11.34,288,17856.0,United Kingdom,3265.92,"Rp 72,664,760",1,Sunday,3,3
+545398,2019-03-02,84077,World War 2 Gliders Asstd Designs,10.47,288,13722.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,3,2
+545413,2019-03-02,21498,Red Retrospot Wrap,10.6,300,15061.0,United Kingdom,3180.0,"Rp 70,753,092",1,Saturday,3,2
+545341,2019-03-02,22423,Regency Cakestand 3 Tier,21.47,150,17949.0,United Kingdom,3220.5,"Rp 71,654,193",1,Saturday,3,2
+544936,2019-02-25,20749,Assorted Colour Mini Cases,16.76,204,15769.0,United Kingdom,3419.0400000000004,"Rp 76,071,589",1,Monday,2,25
+544999,2019-02-25,84947,Antique Silver Tea Glass Engraved,11.34,360,17388.0,United Kingdom,4082.4,"Rp 90,830,951",1,Monday,2,25
+544922,2019-02-24,84568,Girls Alphabet Iron On Patches,10.47,288,15847.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,2,24
+544690,2019-02-23,22197,Popcorn Holder,10.99,400,14156.0,EIRE,4396.0,"Rp 97,808,362",1,Saturday,2,23
+544698,2019-02-23,22197,Popcorn Holder,10.99,360,17949.0,United Kingdom,3956.4,"Rp 88,027,526",1,Saturday,2,23
+544793,2019-02-23,72232,Feng Shui Pillar Candle,10.44,1152,13694.0,United Kingdom,12026.88,"Rp 267,590,864",1,Saturday,2,23
+544797,2019-02-23,21326,Aged Glass Silver T-Light Holder,10.81,288,13489.0,United Kingdom,3113.28,"Rp 69,268,612",1,Saturday,2,23
+544612,2019-02-22,22053,Empire Design Rosette,11.09,3906,18087.0,United Kingdom,43317.54,"Rp 963,789,274",1,Friday,2,22
+544667,2019-02-22,21917,Set 12 Kids White Chalk Sticks,10.62,288,17511.0,United Kingdom,3058.56,"Rp 68,051,125",1,Friday,2,22
+544667,2019-02-22,77101A,Union Flag Windsock,11.34,288,17511.0,United Kingdom,3265.92,"Rp 72,664,760",1,Friday,2,22
+544667,2019-02-22,16235,Recycled Pencil With Rabbit Eraser,10.41,600,17511.0,United Kingdom,6246.0,"Rp 138,969,752",1,Friday,2,22
+544479,2019-02-21,21390,Filigris Heart With Butterfly,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Thursday,2,21
+544479,2019-02-21,21122,Set/10 Pink Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Thursday,2,21
+544479,2019-02-21,21684,Small Medina Stamped Metal Bowl,10.91,360,14646.0,Netherlands,3927.6,"Rp 87,386,743",1,Thursday,2,21
+544479,2019-02-21,22292,Hanging Chick Yellow Decoration,11.53,288,14646.0,Netherlands,3320.64,"Rp 73,882,248",1,Thursday,2,21
+544479,2019-02-21,22243,5 Hook Hanger Red Magic Toadstool,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Thursday,2,21
+544479,2019-02-21,35961,Folkart Zinc Heart Christmas Dec,10.99,288,14646.0,Netherlands,3165.12,"Rp 70,422,021",1,Thursday,2,21
+544479,2019-02-21,22630,Dolly Girl Lunch Box,11.94,384,14646.0,Netherlands,4584.96,"Rp 102,012,609",1,Thursday,2,21
+544400,2019-02-18,22616,Pack Of 12 London Tissues,10.51,504,14101.0,United Kingdom,5297.04,"Rp 117,855,962",1,Monday,2,18
+544281,2019-02-17,22585,Pack Of 6 Birdy Gift Tags,11.34,288,12500.0,Germany,3265.92,"Rp 72,664,760",1,Sunday,2,17
+544293,2019-02-17,84568,Girls Alphabet Iron On Patches,10.47,288,17954.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,2,17
+544293,2019-02-17,84598,Boys Alphabet Iron On Patches,10.47,288,17954.0,United Kingdom,3015.36,"Rp 67,089,951",1,Sunday,2,17
+544320,2019-02-17,16033,Mini Highlighter Pens,10.37,480,17381.0,United Kingdom,4977.599999999999,"Rp 110,748,613",1,Sunday,2,17
+544097,2019-02-16,22335,Heart Decoration Painted Zinc,10.81,288,12455.0,Spain,3113.28,"Rp 69,268,612",1,Saturday,2,16
+544152,2019-02-16,18007,Essential Balm 35g Tin In Envelope,10.31,2400,14609.0,United Kingdom,24744.0,"Rp 550,539,154",1,Saturday,2,16
+544154,2019-02-16,15036,Assorted Colours Silk Fan,10.92,600,13414.0,United Kingdom,6552.0,"Rp 145,778,069",1,Saturday,2,16
+544164,2019-02-16,22616,Pack Of 12 London Tissues,10.51,432,17306.0,United Kingdom,4540.32,"Rp 101,019,396",1,Saturday,2,16
+543989,2019-02-15,22969,Homemade Jam Scented Candles,11.53,480,12415.0,Australia,5534.4,"Rp 123,137,079",1,Friday,2,15
+543989,2019-02-15,22962,Jam Jar With Pink Lid,10.99,384,12415.0,Australia,4220.16,"Rp 93,896,028",1,Friday,2,15
+543989,2019-02-15,22651,Gentleman Shirt Repair Kit,10.99,288,12415.0,Australia,3165.12,"Rp 70,422,021",1,Friday,2,15
+543989,2019-02-15,22630,Dolly Girl Lunch Box,11.94,256,12415.0,Australia,3056.64,"Rp 68,008,406",1,Friday,2,15
+543989,2019-02-15,21094,Set/6 Red Spotty Paper Plates,10.91,288,12415.0,Australia,3142.08,"Rp 69,909,395",1,Friday,2,15
+543989,2019-02-15,20973,12 Pencil Small Tube Woodland,10.81,384,12415.0,Australia,4151.04,"Rp 92,358,149",1,Friday,2,15
+543991,2019-02-15,16014,Small Chinese Style Scissor,10.58,1500,13848.0,United Kingdom,15870.0,"Rp 353,097,978",1,Friday,2,15
+543994,2019-02-15,22604,Set Of 4 Napkin Charms Cutlery,12.4,256,12931.0,United Kingdom,3174.4,"Rp 70,628,495",1,Friday,2,15
+543994,2019-02-15,22149,Feltcraft 6 Flower Friends,12.15,280,12931.0,United Kingdom,3402.0,"Rp 75,692,459",1,Friday,2,15
+543994,2019-02-15,22197,Popcorn Holder,10.99,600,12931.0,United Kingdom,6594.0,"Rp 146,712,544",1,Friday,2,15
+544073,2019-02-15,21785,Rain Poncho,10.92,407,14935.0,Channel Islands,4444.44,"Rp 98,886,123",1,Friday,2,15
+544075,2019-02-15,23230,Wrap Alphabet Design,10.6,300,14156.0,EIRE,3180.0,"Rp 70,753,092",1,Friday,2,15
+544075,2019-02-15,22985,Wrap Billboard Fonts Design,10.6,300,14156.0,EIRE,3180.0,"Rp 70,753,092",1,Friday,2,15
+543842,2019-02-14,22693,Grow A Flytrap Or Sunflower In Tin,11.34,1056,16333.0,United Kingdom,11975.039999999999,"Rp 266,437,455",1,Thursday,2,14
+543976,2019-02-14,21422,Porcelain Rose Small,10.99,288,13089.0,United Kingdom,3165.12,"Rp 70,422,021",1,Thursday,2,14
+543669,2019-02-11,22693,Grow A Flytrap Or Sunflower In Tin,11.21,2400,16029.0,United Kingdom,26904.000000000004,"Rp 598,597,858",1,Monday,2,11
+543549,2019-02-10,22616,Pack Of 12 London Tissues,10.48,432,17940.0,United Kingdom,4527.360000000001,"Rp 100,731,044",1,Sunday,2,10
+543549,2019-02-10,21981,Pack Of 12 Woodland Tissues,10.48,432,17940.0,United Kingdom,4527.360000000001,"Rp 100,731,044",1,Sunday,2,10
+543549,2019-02-10,21982,Pack Of 12 Suki Tissues,10.48,1296,17940.0,United Kingdom,13582.08,"Rp 302,193,131",1,Sunday,2,10
+543549,2019-02-10,21986,Pack Of 12 Pink Polkadot Tissues,10.48,1296,17940.0,United Kingdom,13582.08,"Rp 302,193,131",1,Sunday,2,10
+543549,2019-02-10,21985,Pack Of 12 Hearts Design Tissues,10.48,1296,17940.0,United Kingdom,13582.08,"Rp 302,193,131",1,Sunday,2,10
+543588,2019-02-10,85177,Basket Of Flowers Sewing Kit,10.91,288,17381.0,United Kingdom,3142.08,"Rp 69,909,395",1,Sunday,2,10
+543588,2019-02-10,22550,Holiday Fun Ludo,13.72,216,17381.0,United Kingdom,2963.52,"Rp 65,936,542",1,Sunday,2,10
+543387,2019-02-08,21124,Set/10 Blue Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Friday,2,8
+543378,2019-02-07,22189,Cream Heart Card Holder,12.62,504,18102.0,United Kingdom,6360.48,"Rp 141,516,864",1,Thursday,2,7
+543378,2019-02-07,21623,Vintage Union Jack Memoboard,16.79,504,18102.0,United Kingdom,8462.16,"Rp 188,277,983",1,Thursday,2,7
+543379,2019-02-07,82484,Wood Black Board Ant White Finish,15.14,204,18102.0,United Kingdom,3088.56,"Rp 68,718,607",1,Thursday,2,7
+543379,2019-02-07,22507,Memo Board Retrospot Design,14.21,208,18102.0,United Kingdom,2955.6800000000003,"Rp 65,762,107",1,Thursday,2,7
+543379,2019-02-07,22189,Cream Heart Card Holder,12.62,504,18102.0,United Kingdom,6360.48,"Rp 141,516,864",1,Thursday,2,7
+543379,2019-02-07,21623,Vintage Union Jack Memoboard,16.79,504,18102.0,United Kingdom,8462.16,"Rp 188,277,983",1,Thursday,2,7
+543168,2019-02-04,44235,Assorted Coloured Circle Mobile,10.62,432,13694.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Monday,2,4
+543168,2019-02-04,44234,Assorted Circular Mobile,10.43,432,13694.0,United Kingdom,4505.76,"Rp 100,250,457",1,Monday,2,4
+543192,2019-02-04,22563,Happy Stencil Craft,11.34,288,17381.0,United Kingdom,3265.92,"Rp 72,664,760",1,Monday,2,4
+543192,2019-02-04,15036,Assorted Colours Silk Fan,10.92,1200,17381.0,United Kingdom,13104.0,"Rp 291,556,138",1,Monday,2,4
+543192,2019-02-04,22616,Pack Of 12 London Tissues,10.55,864,17381.0,United Kingdom,9115.2,"Rp 202,807,731",1,Monday,2,4
+543047,2019-02-03,21137,Black Record Cover Frame,13.72,480,16210.0,United Kingdom,6585.6,"Rp 146,525,649",1,Sunday,2,3
+543057,2019-02-03,84077,World War 2 Gliders Asstd Designs,10.47,2592,16333.0,United Kingdom,27138.24,"Rp 603,809,557",1,Sunday,2,3
+543057,2019-02-03,21915,Red Harmonica In Box,11.34,420,16333.0,United Kingdom,4762.8,"Rp 105,969,442",1,Sunday,2,3
+543099,2019-02-03,21980,Pack Of 12 Red Retrospot Tissues,10.51,432,16684.0,United Kingdom,4540.32,"Rp 101,019,396",1,Sunday,2,3
+543099,2019-02-03,22985,Wrap Billboard Fonts Design,10.6,800,16684.0,United Kingdom,8480.0,"Rp 188,674,912",1,Sunday,2,3
+543099,2019-02-03,22983,Card Billboard Font,10.62,300,16684.0,United Kingdom,3185.9999999999995,"Rp 70,886,588",1,Sunday,2,3
+543099,2019-02-03,22659,Lunch Box I Love London,11.94,320,16684.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Sunday,2,3
+543099,2019-02-03,22629,Spaceboy Lunch Box,11.94,320,16684.0,United Kingdom,3820.7999999999997,"Rp 85,010,508",1,Sunday,2,3
+543099,2019-02-03,22348,Tea Bag Plate Red Retrospot,10.99,288,16684.0,United Kingdom,3165.12,"Rp 70,422,021",1,Sunday,2,3
+543099,2019-02-03,21977,Pack Of 60 Pink Paisley Cake Cases,10.68,480,16684.0,United Kingdom,5126.4,"Rp 114,059,324",1,Sunday,2,3
+543099,2019-02-03,21984,Pack Of 12 Pink Paisley Tissues,10.51,432,16684.0,United Kingdom,4540.32,"Rp 101,019,396",1,Sunday,2,3
+542892,2019-02-01,22151,Place Setting White Heart,10.62,432,13784.0,United Kingdom,4587.839999999999,"Rp 102,076,687",1,Friday,2,1
+542690,2019-01-31,70006,Love Heart Pocket Warmer,10.68,900,14298.0,United Kingdom,9612.0,"Rp 213,861,233",1,Thursday,1,31
+542694,2019-01-31,15036,Assorted Colours Silk Fan,10.79,600,12908.0,United Kingdom,6473.999999999999,"Rp 144,042,616",1,Thursday,1,31
+C542693,2019-01-31,15036,Assorted Colours Silk Fan,10.92,-600,12908.0,United Kingdom,-6552.0,"Rp -145,778,069",1,Thursday,1,31
+542428,2019-01-28,22492,Mini Paint Set Vintage,10.92,576,17404.0,Sweden,6289.92,"Rp 139,946,946",1,Monday,1,28
+542207,2019-01-26,17003,Brocade Ring Purse,10.41,720,16422.0,United Kingdom,7495.2,"Rp 166,763,703",1,Saturday,1,26
+542207,2019-01-26,40016,Chinese Dragon Paper Lanterns,10.68,456,16422.0,United Kingdom,4870.08,"Rp 108,356,358",1,Saturday,1,26
+542208,2019-01-26,17003,Brocade Ring Purse,10.41,720,16422.0,United Kingdom,7495.2,"Rp 166,763,703",1,Saturday,1,26
+541970,2019-01-24,84077,World War 2 Gliders Asstd Designs,10.47,288,15179.0,United Kingdom,3015.36,"Rp 67,089,951",1,Thursday,1,24
+541706,2019-01-21,84970S,Hanging Heart Zinc T-Light Holder,10.91,288,18061.0,United Kingdom,3142.08,"Rp 69,909,395",1,Monday,1,21
+541711,2019-01-21,21918,Set 12 Kids Colour Chalk Sticks,10.62,288,14646.0,Netherlands,3058.56,"Rp 68,051,125",1,Monday,1,21
+541711,2019-01-21,21917,Set 12 Kids White Chalk Sticks,10.62,288,14646.0,Netherlands,3058.56,"Rp 68,051,125",1,Monday,1,21
+541552,2019-01-19,84212,"Assorted Flower Colour ""Leis""",10.68,480,15039.0,United Kingdom,5126.4,"Rp 114,059,324",1,Saturday,1,19
+541570,2019-01-19,21121,Set/10 Red Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Saturday,1,19
+541570,2019-01-19,21212,Pack Of 72 Retrospot Cake Cases,10.68,1440,14646.0,Netherlands,15379.199999999999,"Rp 342,177,972",1,Saturday,1,19
+541570,2019-01-19,85123A,Cream Hanging Heart T-Light Holder,12.86,256,14646.0,Netherlands,3292.16,"Rp 73,248,585",1,Saturday,1,19
+541570,2019-01-19,22630,Dolly Girl Lunch Box,11.94,384,14646.0,Netherlands,4584.96,"Rp 102,012,609",1,Saturday,1,19
+541570,2019-01-19,22629,Spaceboy Lunch Box,11.94,384,14646.0,Netherlands,4584.96,"Rp 102,012,609",1,Saturday,1,19
+541570,2019-01-19,22551,Plasters In Tin Spaceboy,11.74,384,14646.0,Netherlands,4508.16,"Rp 100,303,855",1,Saturday,1,19
+541431,2019-01-18,23166,Medium Ceramic Top Storage Jar,11.32,74215,12346.0,United Kingdom,840113.8,"Rp 18,692,027,982",1,Friday,1,18
+541479,2019-01-18,17003,Brocade Ring Purse,10.41,720,16422.0,United Kingdom,7495.2,"Rp 166,763,703",1,Friday,1,18
+C541433,2019-01-18,23166,Medium Ceramic Top Storage Jar,11.32,-74215,12346.0,United Kingdom,-840113.8,"Rp -18,692,027,982",1,Friday,1,18
+541287,2019-01-17,22710,Wrap I Love London,10.6,400,14101.0,United Kingdom,4240.0,"Rp 94,337,456",1,Thursday,1,17
+541247,2019-01-16,72741,Grand Chocolatecandle,11.53,648,12989.0,United Kingdom,7471.44,"Rp 166,235,057",1,Wednesday,1,16
+541206,2019-01-14,21731,Red Toadstool Led Night Light,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Monday,1,14
+541206,2019-01-14,22489,Pack Of 12 Traditional Crayons,10.62,288,14646.0,Netherlands,3058.56,"Rp 68,051,125",1,Monday,1,14
+541206,2019-01-14,21124,Set/10 Blue Polkadot Party Candles,11.34,288,14646.0,Netherlands,3265.92,"Rp 72,664,760",1,Monday,1,14
+541206,2019-01-14,22243,5 Hook Hanger Red Magic Toadstool,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Monday,1,14
+541206,2019-01-14,22554,Plasters In Tin Woodland Animals,11.74,288,14646.0,Netherlands,3381.12,"Rp 75,227,891",1,Monday,1,14
+541216,2019-01-14,21774,Decorative Cats Bathroom Bottle,10.68,288,15311.0,United Kingdom,3075.84,"Rp 68,435,594",1,Monday,1,14
+541220,2019-01-14,22967,Set 3 Song Bird Paper Eggs Assorted,12.86,240,14156.0,EIRE,3086.3999999999996,"Rp 68,670,548",1,Monday,1,14
+541220,2019-01-14,22957,Set 3 Paper Vintage Chick Paper Egg,12.86,240,14156.0,EIRE,3086.3999999999996,"Rp 68,670,548",1,Monday,1,14
+541220,2019-01-14,22908,Pack Of 20 Napkins Red Apples,10.91,288,14156.0,EIRE,3142.08,"Rp 69,909,395",1,Monday,1,14
+541220,2019-01-14,22961,Jam Making Set Printed,11.53,288,14156.0,EIRE,3320.64,"Rp 73,882,248",1,Monday,1,14
+541220,2019-01-14,20914,Set/5 Red Retrospot Lid Glass Bowls,12.86,288,14156.0,EIRE,3703.68,"Rp 82,404,658",1,Monday,1,14
+541220,2019-01-14,22423,Regency Cakestand 3 Tier,21.47,160,14156.0,EIRE,3435.2,"Rp 76,431,139",1,Monday,1,14
+541106,2019-01-13,79000,Moroccan Tea Glass,10.92,288,18092.0,United Kingdom,3144.96,"Rp 69,973,473",1,Sunday,1,13
+540689,2019-01-11,21733,Red Hanging Heart T-Light Holder,13.57,860,17450.0,United Kingdom,11670.2,"Rp 259,654,948",1,Friday,1,11
+540689,2019-01-11,85123A,Cream Hanging Heart T-Light Holder,13.57,1010,17450.0,United Kingdom,13705.7,"Rp 304,943,602",1,Friday,1,11
+540689,2019-01-11,22469,Heart Of Wicker Small,12.23,1356,17450.0,United Kingdom,16583.88,"Rp 368,981,380",1,Friday,1,11
+540689,2019-01-11,22470,Heart Of Wicker Large,13.54,1284,17450.0,United Kingdom,17385.36,"Rp 386,813,829",1,Friday,1,11
+540698,2019-01-11,21621,Vintage Union Jack Bunting,19.34,186,17450.0,United Kingdom,3597.24,"Rp 80,036,432",1,Friday,1,11
+540703,2019-01-11,17021,Namaste Swagat Incense,10.5,600,14135.0,United Kingdom,6300.0,"Rp 140,171,220",1,Friday,1,11
+540785,2019-01-11,84997D,Childrens Cutlery Polkadot Pink,13.72,360,12557.0,United Kingdom,4939.2,"Rp 109,894,236",1,Friday,1,11
+540785,2019-01-11,84997C,Childrens Cutlery Polkadot Blue,13.72,360,12557.0,United Kingdom,4939.2,"Rp 109,894,236",1,Friday,1,11
+540789,2019-01-11,21381,Mini Wooden Happy Birthday Garland,11.74,576,12643.0,France,6762.24,"Rp 150,455,783",1,Friday,1,11
+540815,2019-01-11,85123A,Cream Hanging Heart T-Light Holder,12.86,1930,15749.0,United Kingdom,24819.8,"Rp 552,225,658",1,Friday,1,11
+540815,2019-01-11,21175,Gin And Tonic Diet Metal Sign,12.15,2000,15749.0,United Kingdom,24300.0,"Rp 540,660,420",1,Friday,1,11
+540815,2019-01-11,21108,Fairy Cake Flannel Assorted Colour,12.4,3114,15749.0,United Kingdom,38613.6,"Rp 859,129,432",1,Friday,1,11
+540818,2019-01-11,47556B,Tea Time Tea Towels,12.86,1300,15749.0,United Kingdom,16718.0,"Rp 371,965,469",1,Friday,1,11
+540818,2019-01-11,48185,Doormat Fairy Cake,17.17,670,15749.0,United Kingdom,11503.900000000001,"Rp 255,954,873",1,Friday,1,11
+540405,2019-01-07,40016,Chinese Dragon Paper Lanterns,10.51,600,14828.0,United Kingdom,6306.0,"Rp 140,304,716",1,Monday,1,7
+540408,2019-01-07,85123A,Cream Hanging Heart T-Light Holder,12.86,250,16013.0,United Kingdom,3215.0,"Rp 71,531,821",1,Monday,1,7
+540264,2019-01-06,22197,Popcorn Holder,10.99,600,17949.0,United Kingdom,6594.0,"Rp 146,712,544",1,Sunday,1,6
+540267,2019-01-06,22492,Mini Paint Set Vintage,10.81,576,12415.0,Australia,6226.56,"Rp 138,537,224",1,Sunday,1,6
+540267,2019-01-06,22720,Set Of 3 Cake Tins Pantry Design,14.61,240,12415.0,Australia,3506.3999999999996,"Rp 78,015,296",1,Sunday,1,6
+540363,2019-01-06,40016,Chinese Dragon Paper Lanterns,10.51,600,12971.0,United Kingdom,6306.0,"Rp 140,304,716",1,Sunday,1,6
+540160,2019-01-05,84997B,Childrens Cutlery Retrospot Red,13.72,216,15769.0,United Kingdom,2963.52,"Rp 65,936,542",1,Saturday,1,5
+540160,2019-01-05,84997A,Childrens Cutlery Polkadot Green,13.72,216,15769.0,United Kingdom,2963.52,"Rp 65,936,542",1,Saturday,1,5
+540160,2019-01-05,22379,Recycling Bag Retrospot,12.15,600,15769.0,United Kingdom,7290.0,"Rp 162,198,126",1,Saturday,1,5
+540175,2019-01-05,79321,Chilli Lights,14.33,480,16532.0,United Kingdom,6878.4,"Rp 153,040,273",1,Saturday,1,5
+540183,2019-01-05,84077,World War 2 Gliders Asstd Designs,10.47,288,15093.0,United Kingdom,3015.36,"Rp 67,089,951",1,Saturday,1,5
+540245,2019-01-05,17003,Brocade Ring Purse,10.41,720,13082.0,United Kingdom,7495.2,"Rp 166,763,703",1,Saturday,1,5
