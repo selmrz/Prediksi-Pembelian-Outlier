@@ -8,7 +8,7 @@ import plotly.express as px
 
 def dashboard():
     st.title("📊 Dashboard Analisis Outlier Penjualan")
-    st.markdown("Visualisasi berdasarkan bulan dan hari dalam seminggu dari data penjualan.")
+    st.markdown("Visualisasi berdasarkan data penjualan dan cancel.")
 
     # Load data
     outlier_data = pd.read_csv('outlier_data.csv')
@@ -35,8 +35,9 @@ def dashboard():
         fig_months.update_xaxes(range=[0, 32], row=row, col=col)
 
     fig_months.update_layout(height=1200, width=1000, title='Monthly Sales Analysis', showlegend=False)
-    st.subheader("📆 Grafik Penjualan Harian per Bulan")
+    st.subheader("📉 Grafik Penjualan Harian per Bulan")
     st.plotly_chart(fig_months)
+
 
 # Grafik transaksi vs pembatalan per bulan
     trans = outlier_data[outlier_data['SalesTotal'] >= 0].groupby('Month')['SalesTotal'].sum()
@@ -50,13 +51,18 @@ def dashboard():
 
     fig_compare.update_layout(
         xaxis=dict(tickmode='array', tickvals=months, ticktext=[calendar.month_name[m] for m in months]),
-        title='📉 Perbandingan Transaksi vs Pembatalan per Bulan',
         xaxis_title='Bulan',
         yaxis_title='Total Penjualan',
         showlegend=True
     )
-    st.subheader("📊 Transaksi vs Pembatalan per Bulan")
+    st.subheader("📈 Perbandingan Transaksi vs Pembatalan per Bulan")
     st.plotly_chart(fig_compare)
+
+
+# Tabel Desember Positif
+    st.subheader("📄 Transaksi Positif Bulan Desember")
+    outlier_december_positive = outlier_data[(outlier_data['Month'] == 12) & (outlier_data['SalesTotal'] > 0)]
+    st.dataframe(outlier_december_positive.head(10))
 
 # Grafik per hari dalam seminggu 
     filtered_data = outlier_data[outlier_data['SalesTotal'] >= 0].copy()
@@ -78,22 +84,17 @@ def dashboard():
     fig_week.add_trace(go.Bar(x=daily_cancel['Day'], y=daily_cancel['SalesTotal'], name='Pembatalan', marker_color='red'))
 
     fig_week.update_layout(
-        title='📅 Total Penjualan Berdasarkan Hari',
         xaxis_title='Hari',
         yaxis_title='Total Penjualan',
         barmode='group',
         showlegend=True
     )
-    st.subheader("📆 Penjualan dan Pembatalan per Hari")
+    st.subheader("🪙 Total Penjualan Berdasarkan Hari")
     st.plotly_chart(fig_week)
 
-# Tabel Desember Positif
-    st.subheader("📄 Transaksi Positif Bulan Desember")
-    outlier_december_positive = outlier_data[(outlier_data['Month'] == 12) & (outlier_data['SalesTotal'] > 0)]
-    st.dataframe(outlier_december_positive.head(10))
 
 
-# Filter hari Rabu dan sales positif
+# Tabel data outlier positif pada hari Rabu
     outlier_rabu_positive = outlier_data[(outlier_data['Day'] == 'Wednesday') & (outlier_data['SalesTotal'] > 0)]
 
     st.subheader("📅 Data Outlier Positif pada Hari Rabu")
@@ -109,14 +110,18 @@ def dashboard():
     top_products = combined_outlier_data.groupby('ProductName')['SalesTotal'].sum().reset_index()
     top_products = top_products.sort_values(by='SalesTotal', ascending=False).head(10)
 
+# Diagram data outlier berdasarkan total penjualan
+    st.subheader("🏆 Top Produk Outlier berdasarkan Total Sales")
+
     fig_top_products = px.bar(top_products, x='SalesTotal', y='ProductName', orientation='h',
-                            color='ProductName', title='🏆 Top Produk Outlier berdasarkan Total Sales')
+                            color='ProductName')
     fig_top_products.update_traces(hovertemplate='%{x:,.0f} Pound Sterling')
     st.plotly_chart(fig_top_products)
 
     product_name = "Medium Ceramic Top Storage Jar"
     outlier_product_data = outlier_data[outlier_data['ProductName'] == product_name]
 
+# Table data outlier untuk produk tertentu
     st.subheader(f"📦 Data Outlier untuk Produk: {product_name}")
     st.write(f"Jumlah data: {outlier_product_data.shape[0]}")
     st.dataframe(outlier_product_data.head(10))
@@ -129,11 +134,14 @@ def dashboard():
     top_customers['CustomerNo'] = top_customers['CustomerNo'].astype(str)
     top_customers['CustomerNo'] = pd.Categorical(top_customers['CustomerNo'], categories=top_customers['CustomerNo'], ordered=True)
 
+# Diagram data outlier berdasarkan total penjualan per customer
+    st.subheader("👥 Top Outlier Customers by Total Sales")
     fig_top_customers = px.bar(top_customers, x='SalesTotal', y='CustomerNo', orientation='h',
-                            color='CustomerNo', title='👥 Top Outlier Customers by Total Sales')
+                            color='CustomerNo')
     fig_top_customers.update_traces(hovertemplate='%{x:,.0f} Pound Sterling')
     st.plotly_chart(fig_top_customers)
 
+# Tabel data outlier untuk 2 customer teratas 
     st.subheader("📄 Data Outlier untuk CustomerNo 12346.0")
     out_12346 = outlier_data[outlier_data['CustomerNo'] == 12346.0]
     st.write(f"Jumlah data: {out_12346.shape[0]}")
